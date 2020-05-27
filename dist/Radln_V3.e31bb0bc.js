@@ -63337,6 +63337,7 @@ module.exports = [{
   "Mail": "info@hotel-jungbraeu.de",
   "url": "https://www.hotel-jungbraeu.de/gasthof",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 33.0
 }, {
   "id": 2,
@@ -63350,6 +63351,7 @@ module.exports = [{
   "Mail": "besucherinfo@kuchlbauers-bierwelt.de",
   "url": "http://www.kuchlbauer.de/gastronomie/biergarten/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 34.0
 }, {
   "id": 3,
@@ -63363,6 +63365,7 @@ module.exports = [{
   "Mail": "mail@lauberger-abensberg.de",
   "url": "https://www.aunkofener-stubn.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 34.0
 }, {
   "id": 4,
@@ -63376,6 +63379,7 @@ module.exports = [{
   "Mail": "info@gasthaussorgenfrei.de",
   "url": "http://www.gasthaussorgenfrei.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 62.0
 }, {
   "id": 5,
@@ -63389,6 +63393,7 @@ module.exports = [{
   "Mail": "swirtshaus.amberg@t-online.de",
   "url": "https://www.swirtshaus-amberger-garten.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 66.0
 }, {
   "id": 6,
@@ -63402,6 +63407,7 @@ module.exports = [{
   "Mail": "info@brauerei-sterk.de",
   "url": "http://www.brauerei-sterk.de/biergarten.html",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 67.0
 }, {
   "id": 7,
@@ -63415,6 +63421,7 @@ module.exports = [{
   "Mail": "russwurmhaus_amberg@yahoo.de",
   "url": "",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 64.0
 }, {
   "id": 8,
@@ -63428,6 +63435,7 @@ module.exports = [{
   "Mail": "kommzu@schlodererbraeu.de",
   "url": "http://www.schlodererbraeu.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 65.0
 }, {
   "id": 9,
@@ -63441,6 +63449,7 @@ module.exports = [{
   "Mail": "",
   "url": "http://www.winkler-braeuwirt.de/gasthaus.html",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 65.0
 }, {
   "id": 10,
@@ -63454,6 +63463,7 @@ module.exports = [{
   "Mail": "info@zumkummertbraeu.de",
   "url": "http://zumkummertbraeu.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 65.0
 }, {
   "id": 11,
@@ -63467,6 +63477,7 @@ module.exports = [{
   "Mail": "",
   "url": "http://www.bacherer-landgasthof.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 18.0
 }, {
   "id": 12,
@@ -63480,6 +63491,7 @@ module.exports = [{
   "Mail": "gasthof@brauerei-berghammer.de",
   "url": "http://www.brauerei-berghammer.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 12.0
 }, {
   "id": 13,
@@ -63493,6 +63505,7 @@ module.exports = [{
   "Mail": "gasthaus.zirngibl@web.de",
   "url": "http://www.gasthauszirngibl.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 11.0
 }, {
   "id": 14,
@@ -63506,6 +63519,7 @@ module.exports = [{
   "Mail": "wastlwirt@web.de",
   "url": "http://www.wastlwirt-web.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 11.0
 }, {
   "id": 15,
@@ -63519,6 +63533,7 @@ module.exports = [{
   "Mail": "info@hotel-eisvogel.de",
   "url": "https://www.hotel-eisvogel.de/der-gasthof/der-gasthof.html",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 39.0
 }, {
   "id": 16,
@@ -63532,6 +63547,7 @@ module.exports = [{
   "Mail": "heri.e@gmx.de",
   "url": "http://www.pension-eichschmid.de/Roll-n-Biergarten/roll-n-biergarten.html",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 39.0
 }, {
   "id": 17,
@@ -63545,6 +63561,7 @@ module.exports = [{
   "Mail": "",
   "url": "http://www.lindner-bier.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 77.0
 }, {
   "id": 18,
@@ -63558,6 +63575,7 @@ module.exports = [{
   "Mail": "info@zum-sorgenfrei.de",
   "url": "https://www.zum-sorgenfrei.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 2.0
 }, {
   "id": 19,
@@ -63571,6 +63589,7 @@ module.exports = [{
   "Mail": "info@klause-weissenregen.de",
   "url": "https://www.klause-weissenregen.de/html/biergarten.html",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 77.0
 }, {
   "id": 20,
@@ -63584,6 +63603,7 @@ module.exports = [{
   "Mail": "info@landgasthof-geser.de",
   "url": "https://www.landgasthof-geser.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 11.0
 }, {
   "id": 21,
@@ -63597,6 +63617,7 @@ module.exports = [{
   "Mail": "info@gasthaus-diepold.de",
   "url": "https://www.gasthaus-diepold.de/nathus-15033/biergarten.html",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 49.0
 }, {
   "id": 22,
@@ -63610,6 +63631,7 @@ module.exports = [{
   "Mail": "gastwirtschaft@schattenhofer-beilngries.de",
   "url": "https://schattenhofer-beilngries.de/hp1/Startseite.htm",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 53.0
 }, {
   "id": 23,
@@ -63623,6 +63645,7 @@ module.exports = [{
   "Mail": "info@friesenmuehle.de",
   "url": "https://www.friesenmuehle.de/oberpfaelzer-gastlichkeit/biergarten.html",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 28.0
 }, {
   "id": 24,
@@ -63636,6 +63659,7 @@ module.exports = [{
   "Mail": "info@brauereigasthof-winkler.de",
   "url": "http://www.brauereigasthof-winkler.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 61.0
 }, {
   "id": 25,
@@ -63649,6 +63673,7 @@ module.exports = [{
   "Mail": "info@berngauerhof.de",
   "url": "http://www.berngauerhof.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 72.0
 }, {
   "id": 26,
@@ -63662,6 +63687,7 @@ module.exports = [{
   "Mail": "info@brauerei-jacob.de",
   "url": "https://gasthof.brauerei-jacob.de/genuss/biergarten-und-terasse/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 41.0
 }, {
   "id": 27,
@@ -63675,6 +63701,7 @@ module.exports = [{
   "Mail": "willkommen@holzofenkuchl.com",
   "url": "https://www.holzofenkuchl.com/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 31.0
 }, {
   "id": 28,
@@ -63688,6 +63715,7 @@ module.exports = [{
   "Mail": "info@bergerwirt.de",
   "url": "http://www.bergerwirt.de",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 44.0
 }, {
   "id": 29,
@@ -63701,6 +63729,7 @@ module.exports = [{
   "Mail": "hotel@mappacher-hof.de",
   "url": "http://www.mappacher-hof.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 46.0
 }, {
   "id": 30,
@@ -63714,6 +63743,7 @@ module.exports = [{
   "Mail": "",
   "url": "",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 60.0
 }, {
   "id": 31,
@@ -63727,6 +63757,7 @@ module.exports = [{
   "Mail": "info@wasserwirtschaft-cham.de",
   "url": "https://www.wasserwirtschaft-cham.de/index.php/biergarten.html",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 60.0
 }, {
   "id": 32,
@@ -63740,6 +63771,7 @@ module.exports = [{
   "Mail": "mail@gasthof-baeckerwirt.de",
   "url": "https://www.gasthof-baeckerwirt.de/biergarten.html",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 68.0
 }, {
   "id": 33,
@@ -63753,6 +63785,7 @@ module.exports = [{
   "Mail": "info@forsters-posthotel.de",
   "url": "https://www.forsters-posthotel.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 9.0
 }, {
   "id": 34,
@@ -63766,6 +63799,7 @@ module.exports = [{
   "Mail": "kontakt@historisches-armen-spital.de",
   "url": "https://www.historisches-armen-spital.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 11.0
 }, {
   "id": 35,
@@ -63779,6 +63813,7 @@ module.exports = [{
   "Mail": "info@hammermuehle-donaustauf.de",
   "url": "https://hammermuehle-donaustauf.de/wirtsgarten.php",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 13.0
 }, {
   "id": 36,
@@ -63792,6 +63827,7 @@ module.exports = [{
   "Mail": "info@waldschaenke-pilz.de",
   "url": "https://www.waldschaenke-pilz.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 18.0
 }, {
   "id": 37,
@@ -63805,6 +63841,7 @@ module.exports = [{
   "Mail": "schlossgarten@ratzenhofen.de",
   "url": "https://www.ratzenhofen.de/biergarten",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 50.0
 }, {
   "id": 38,
@@ -63818,6 +63855,7 @@ module.exports = [{
   "Mail": "",
   "url": "",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 34.0
 }, {
   "id": 39,
@@ -63831,6 +63869,7 @@ module.exports = [{
   "Mail": "info@gasthof-peterhof.de",
   "url": "http://www.gasthof-peterhof.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 91.0
 }, {
   "id": 40,
@@ -63844,6 +63883,7 @@ module.exports = [{
   "Mail": "kontakt@hotel-wolfringmuehle.de",
   "url": "https://www.hotel-wolfringmuehle.de/biergarten/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 56.0
 }, {
   "id": 41,
@@ -63857,6 +63897,7 @@ module.exports = [{
   "Mail": "info@hotel-gasthof-fellner.de",
   "url": "https://www.hotel-gasthof-fellner.de/biergarten.html",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 80.0
 }, {
   "id": 42,
@@ -63870,6 +63911,7 @@ module.exports = [{
   "Mail": "info@gasthof-kellner.de",
   "url": "http://www.gasthof-kellner.de/Gasthof-Biergarten-Saal-Fest-Stadl-Kelheim/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 15.0
 }, {
   "id": 43,
@@ -63883,6 +63925,7 @@ module.exports = [{
   "Mail": "beimPetern@t-online.de",
   "url": "https://www.hahnbach.de/tourismus-freizeit/gastronomie-unterkuenfte/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 75.0
 }, {
   "id": 44,
@@ -63896,6 +63939,7 @@ module.exports = [{
   "Mail": "info@hotel-pension-hofmark.de",
   "url": "https://www.hotel-pension-hofmark.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 17.0
 }, {
   "id": 45,
@@ -63909,6 +63953,7 @@ module.exports = [{
   "Mail": "kontakt@schlosswirtschaft.de",
   "url": "https://www.schlosswirtschaft.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 23.0
 }, {
   "id": 46,
@@ -63922,6 +63967,7 @@ module.exports = [{
   "Mail": "info@stanglbraeu.de",
   "url": "https://www.stanglbraeu.de/wirtshaus/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 24.0
 }, {
   "id": 47,
@@ -63935,6 +63981,7 @@ module.exports = [{
   "Mail": "info@kastlhof.de",
   "url": "https://www.kastlhof.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 34.0
 }, {
   "id": 48,
@@ -63948,6 +63995,7 @@ module.exports = [{
   "Mail": "webhotel@schloss-hirschau.de",
   "url": "https://www.schloss-hirschau.de",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 78.0
 }, {
   "id": 49,
@@ -63961,6 +64009,7 @@ module.exports = [{
   "Mail": "info@gasthof-ehrl.de",
   "url": "https://www.gasthof-ehrl.de/70/gasthof",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 34.0
 }, {
   "id": 50,
@@ -63974,6 +64023,7 @@ module.exports = [{
   "Mail": "",
   "url": "https://www.zur-roten-amsel.de/?Biergarten",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 24.0
 }, {
   "id": 51,
@@ -63987,6 +64037,7 @@ module.exports = [{
   "Mail": "info@landgasthof-birnthaler.de",
   "url": "https://www.landgasthof-birnthaler.de/unser-biergarten/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 23.0
 }, {
   "id": 52,
@@ -64000,6 +64051,7 @@ module.exports = [{
   "Mail": "zum-weissen-roessl@t-online.de",
   "url": "https://zumweissenroessl.eatbu.com",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 24.0
 }, {
   "id": 53,
@@ -64013,6 +64065,7 @@ module.exports = [{
   "Mail": "info@schweppermann.com",
   "url": "http://www.schweppermann.com/Biergarten.html",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 66.0
 }, {
   "id": 54,
@@ -64026,6 +64079,7 @@ module.exports = [{
   "Mail": "FHolzapfel@gmx.net",
   "url": "https://www.donaugarten-kelheim.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 24.0
 }, {
   "id": 55,
@@ -64039,6 +64093,7 @@ module.exports = [{
   "Mail": "post@einsiedelei-kloesterl.info",
   "url": "http://www.kloesterl.info/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 27.0
 }, {
   "id": 56,
@@ -64052,6 +64107,7 @@ module.exports = [{
   "Mail": "",
   "url": "https://www.kelheim.de/gastronomie/gasthof_perzl-975/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 13.0
 }, {
   "id": 57,
@@ -64065,6 +64121,7 @@ module.exports = [{
   "Mail": "info@weisses-brauhaus-kelheim.de",
   "url": "https://www.weisses-brauhaus-kelheim.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 26.0
 }, {
   "id": 58,
@@ -64078,6 +64135,7 @@ module.exports = [{
   "Mail": "kelheim@dormero.de",
   "url": "https://www.dormero.de/hotel-kelheim/restaurant-bar/zum-roten-eichhoernchen/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 26.0
 }, {
   "id": 59,
@@ -64091,6 +64149,7 @@ module.exports = [{
   "Mail": "info@klosterschenke-weltenburg.de",
   "url": "https://www.klosterschenke-weltenburg.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 32.0
 }, {
   "id": 60,
@@ -64104,6 +64163,7 @@ module.exports = [{
   "Mail": "info@hotelzurpost.online",
   "url": "https://www.hotel-zur-post-kuemmersbruck.de/de/biergarten",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 61.0
 }, {
   "id": 61,
@@ -64117,6 +64177,7 @@ module.exports = [{
   "Mail": "wirt@radl-bahnhof.de",
   "url": "http://www.radl-bahnhof.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 56.0
 }, {
   "id": 62,
@@ -64130,6 +64191,7 @@ module.exports = [{
   "Mail": "",
   "url": "",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 7.0
 }, {
   "id": 63,
@@ -64143,6 +64205,7 @@ module.exports = [{
   "Mail": "info@ziegler-braeu-mainburg.de",
   "url": "http://www.ziegler-braeu-mainburg.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 56.0
 }, {
   "id": 64,
@@ -64156,6 +64219,7 @@ module.exports = [{
   "Mail": "michls-landgasthof@gmx.de",
   "url": "http://www.michls-landgasthof.de/Michls-Landgasthof-Landgasthof.htm",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 24.0
 }, {
   "id": 65,
@@ -64169,6 +64233,7 @@ module.exports = [{
   "Mail": "info@sankt-clemenshaus.de",
   "url": "https://www.sankt-clemenshaus.de/s-wirtshaus/biergarten/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 23.0
 }, {
   "id": 66,
@@ -64182,6 +64247,7 @@ module.exports = [{
   "Mail": "",
   "url": "http://www.fc-rosenhof.de/partner/main.htm",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 13.0
 }, {
   "id": 67,
@@ -64195,6 +64261,7 @@ module.exports = [{
   "Mail": "",
   "url": "https://mein-mühlhausen.bayern/knowledgebase/lenkers-biergarten/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 42.0
 }, {
   "id": 68,
@@ -64208,6 +64275,7 @@ module.exports = [{
   "Mail": "info@muenchsmuehle-laaber.de",
   "url": "http://www.muenchsmuehle-laaber.de/biergarten/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 16.0
 }, {
   "id": 69,
@@ -64221,6 +64289,7 @@ module.exports = [{
   "Mail": "anfrage@gasthof-zum-stern-nab.de",
   "url": "https://www.gasthof-zum-stern-nab.de/de/gasthof/biergarten",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 60.0
 }, {
   "id": 70,
@@ -64234,6 +64303,7 @@ module.exports = [{
   "Mail": "gasthof@ritterschaenke-sturm.de",
   "url": "https://www.ritterschaenke-sturm.de",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 31.0
 }, {
   "id": 71,
@@ -64247,6 +64317,7 @@ module.exports = [{
   "Mail": "",
   "url": "",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 65.0
 }, {
   "id": 72,
@@ -64260,6 +64331,7 @@ module.exports = [{
   "Mail": "info@zurau.de",
   "url": "https://www.zurau.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 71.0
 }, {
   "id": 73,
@@ -64273,6 +64345,7 @@ module.exports = [{
   "Mail": "braeustuebl@glossner.de",
   "url": "https://glossner.de/neumarkter-braeustuebl/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 66.0
 }, {
   "id": 74,
@@ -64286,6 +64359,7 @@ module.exports = [{
   "Mail": "info@obererganskeller.de",
   "url": "http://obererganskeller.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 66.0
 }, {
   "id": 75,
@@ -64299,6 +64373,7 @@ module.exports = [{
   "Mail": "info@gasthof-sporrer.de",
   "url": "https://www.gasthof-sporrer.de/Unser-Gasthof/Restaurant/Terrasse",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 55.0
 }, {
   "id": 76,
@@ -64312,6 +64387,7 @@ module.exports = [{
   "Mail": "info@brauerei-schneider.de",
   "url": "https://www.brauereigasthof-schneider.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 32.0
 }, {
   "id": 77,
@@ -64325,6 +64401,7 @@ module.exports = [{
   "Mail": "info@panorama-hotel-am-see.de",
   "url": "https://www.panorama-hotel-am-see.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 59.0
 }, {
   "id": 78,
@@ -64338,6 +64415,7 @@ module.exports = [{
   "Mail": "schiessltafferne@gmx.de",
   "url": "http://www.schiessl-tafferne.de/das-lokal-1/biergarten/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 50.0
 }, {
   "id": 79,
@@ -64350,7 +64428,8 @@ module.exports = [{
   "Telefon": "09402/8845",
   "Mail": "",
   "url": "",
-  "Foto": "https://s3-eu-west-1.amazonaws.com/lokaler/sonstiges/Biergarten_Spanner_Eitlbrunn.jpg",
+  "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 16.0
 }, {
   "id": 80,
@@ -64364,6 +64443,7 @@ module.exports = [{
   "Mail": "biergarten-eining@gmx.de",
   "url": "https://biergarten-eining.de",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 37.0
 }, {
   "id": 81,
@@ -64377,6 +64457,7 @@ module.exports = [{
   "Mail": "gasthof@gigl.de",
   "url": "https://www.gigl.de/restaurant/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 40.0
 }, {
   "id": 82,
@@ -64390,6 +64471,7 @@ module.exports = [{
   "Mail": "",
   "url": "",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 9.0
 }, {
   "id": 83,
@@ -64403,6 +64485,7 @@ module.exports = [{
   "Mail": "info@butz-woerth.de",
   "url": "https://butz-woerth.de/gasthof/biergarten/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 26.0
 }, {
   "id": 84,
@@ -64416,6 +64499,7 @@ module.exports = [{
   "Mail": "info@brauereigasthof-jakob.de",
   "url": "https://www.brauereigasthof-jakob.de/de/gasthof/biergarten",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 31.0
 }, {
   "id": 85,
@@ -64429,6 +64513,7 @@ module.exports = [{
   "Mail": "info@hotel-pirzer.de",
   "url": "https://www.hotel-pirzer.de/biergarten-pirzer-nittenau-im-regental.html",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 31.0
 }, {
   "id": 86,
@@ -64442,6 +64527,7 @@ module.exports = [{
   "Mail": "restaurant@landgasthof-spitzauer.de",
   "url": "https://www.landgasthof-spitzauer.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 12.0
 }, {
   "id": 87,
@@ -64455,6 +64541,7 @@ module.exports = [{
   "Mail": "thomas.daxl@hoehenhofzumschuetzenwirt.de",
   "url": "http://www.hoehenhofzumschuetzenwirt.de/ambiente.html",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 10.0
 }, {
   "id": 88,
@@ -64468,6 +64555,7 @@ module.exports = [{
   "Mail": "info@hotel-stocker.de",
   "url": "http://hotel-stocker.de/uebersicht-biergarten.html",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 7.0
 }, {
   "id": 89,
@@ -64481,6 +64569,7 @@ module.exports = [{
   "Mail": "cafe.deyerl@t-online.de",
   "url": "https://www.oberpfaelzerwald.de/cafe-konditorei-partyservice-deyerl",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 77.0
 }, {
   "id": 90,
@@ -64494,6 +64583,7 @@ module.exports = [{
   "Mail": "xaver-braun@web.de",
   "url": "http://www.zunftstueberl-matting.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 10.0
 }, {
   "id": 91,
@@ -64507,6 +64597,7 @@ module.exports = [{
   "Mail": "",
   "url": "",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 8.0
 }, {
   "id": 92,
@@ -64520,6 +64611,7 @@ module.exports = [{
   "Mail": "proesslbraeu@t-online.de",
   "url": "http://www.adlersberg.com/gaststaette-biergarten.html",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 9.0
 }, {
   "id": 93,
@@ -64533,6 +64625,7 @@ module.exports = [{
   "Mail": "gasthof@gasthof-krieger.de",
   "url": "http://www.gasthof-krieger.de/index.php?id=18",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 6.0
 }, {
   "id": 94,
@@ -64546,6 +64639,7 @@ module.exports = [{
   "Mail": "info@klosterwirtschaft.de",
   "url": "http://www.klosterwirtschaft.de",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 16.0
 }, {
   "id": 95,
@@ -64559,6 +64653,7 @@ module.exports = [{
   "Mail": "kandlbinder@alte-post-ponholz.de",
   "url": "http://www.kandlbinders-kueche.de/index.php/raum/biergarten",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 21.0
 }, {
   "id": 96,
@@ -64572,6 +64667,7 @@ module.exports = [{
   "Mail": "gasthof.kopf@t-online.de",
   "url": "https://www.gasthaus-kopf.de/gasthaus/#sp",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 71.0
 }, {
   "id": 97,
@@ -64585,6 +64681,7 @@ module.exports = [{
   "Mail": "info@landgasthof-weitzer.de",
   "url": "http://www.landgasthof-weitzer.de/biergarten/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 51.0
 }, {
   "id": 98,
@@ -64598,6 +64695,7 @@ module.exports = [{
   "Mail": "Ramspauer-Hof@Kneitinger.de",
   "url": "http://www.ramspauer-hof.metro.rest/?lang=de",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 20.0
 }, {
   "id": 99,
@@ -64611,6 +64709,7 @@ module.exports = [{
   "Mail": "info@rechberger-hof.de",
   "url": "https://www.rechberger-hof.de/bayerische-gastlichkeit/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 29.0
 }, {
   "id": 100,
@@ -64624,6 +64723,7 @@ module.exports = [{
   "Mail": "altelinde_wiesbeck@yahoo.de",
   "url": "http://www.altelinde-regensburg.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 1.5
 }, {
   "id": 101,
@@ -64637,6 +64737,7 @@ module.exports = [{
   "Mail": "",
   "url": "http://www.regensburgregional.de/auer-braeu/e/018893",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 2.0
 }, {
   "id": 102,
@@ -64650,6 +64751,7 @@ module.exports = [{
   "Mail": "info@bischofshof-braustube.de",
   "url": "https://www.bischofshof-braustube.de/de/restaurant/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 2.0
 }, {
   "id": 103,
@@ -64663,6 +64765,7 @@ module.exports = [{
   "Mail": "info@goldener-hirsch-regensburg.de",
   "url": "https://www.goldener-hirsch-regensburg.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 5.0
 }, {
   "id": 104,
@@ -64676,6 +64779,7 @@ module.exports = [{
   "Mail": "kontakt@gasthof-parzefall.de",
   "url": "http://www.gasthof-parzefall.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 4.0
 }, {
   "id": 105,
@@ -64689,6 +64793,7 @@ module.exports = [{
   "Mail": "info@spitalgarten.de",
   "url": "https://www.spitalgarten.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 1.6
 }, {
   "id": 106,
@@ -64702,6 +64807,7 @@ module.exports = [{
   "Mail": "info@oma-plüsch.de",
   "url": "http://oma-plüsch.de",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 1.9
 }, {
   "id": 107,
@@ -64715,6 +64821,7 @@ module.exports = [{
   "Mail": "info@hacker-pschorr-regensburg.de",
   "url": "http://www.hacker-pschorr-regensburg.de/der-biergarten/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 0.9
 }, {
   "id": 108,
@@ -64728,6 +64835,7 @@ module.exports = [{
   "Mail": "netsche.novakovic@hotmail.com",
   "url": "https://www.restaurant-katharinenhof.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 3.0
 }, {
   "id": 109,
@@ -64741,6 +64849,7 @@ module.exports = [{
   "Mail": "wirt@hubertushoehe.com",
   "url": "https://www.hubertushoehe.com/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 2.0
 }, {
   "id": 110,
@@ -64754,6 +64863,7 @@ module.exports = [{
   "Mail": "Wirt@KneitingerKeller.de",
   "url": "http://www.kneitingerkeller.de/biergarten.htm",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 0.9
 }, {
   "id": 111,
@@ -64767,6 +64877,7 @@ module.exports = [{
   "Mail": "",
   "url": "https://www.biergarten-kreuzschaenke.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 1.7
 }, {
   "id": 112,
@@ -64780,6 +64891,7 @@ module.exports = [{
   "Mail": "info@landinsonne.eu",
   "url": "https://www.landinsonne.eu/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 2.0
 }, {
   "id": 113,
@@ -64793,6 +64905,7 @@ module.exports = [{
   "Mail": "pruefeninger-schlossgarten@kneitinger.de",
   "url": "https://www.kneitinger.de/hier-gibts-kneitinger/gaststaetten/kneitinger-schlossgarten.html",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 4.0
 }, {
   "id": 114,
@@ -64806,6 +64919,7 @@ module.exports = [{
   "Mail": "info@spitalkeller.com",
   "url": "https://www.spitalkeller.com/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 2.0
 }, {
   "id": 115,
@@ -64819,6 +64933,7 @@ module.exports = [{
   "Mail": "cafeunterlinden@yahoo.de",
   "url": "http://www.cafeunterdenlinden.de",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 1.7
 }, {
   "id": 116,
@@ -64832,6 +64947,7 @@ module.exports = [{
   "Mail": "info@buchner-welchenberg.de",
   "url": "https://buchner-welchenberg.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 65.0
 }, {
   "id": 117,
@@ -64845,6 +64961,7 @@ module.exports = [{
   "Mail": "info@weltenburger-am-dom.de",
   "url": "https://www.weltenburger-am-dom.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 0.8
 }, {
   "id": 118,
@@ -64858,6 +64975,7 @@ module.exports = [{
   "Mail": "",
   "url": "",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 3.0
 }, {
   "id": 119,
@@ -64871,6 +64989,7 @@ module.exports = [{
   "Mail": "info@landgasthof-lautenschlager.de",
   "url": "https://www.landgasthof-lautenschlager.de",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 21.0
 }, {
   "id": 120,
@@ -64884,6 +65003,7 @@ module.exports = [{
   "Mail": "service@metzgerwirt.de",
   "url": "https://www.metzgerwirt.de/Biergarten",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 16.0
 }, {
   "id": 121,
@@ -64897,6 +65017,7 @@ module.exports = [{
   "Mail": "info@gut-matheshof.de",
   "url": "https://www.gut-matheshof.de/de/waldhotel/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 46.0
 }, {
   "id": 122,
@@ -64910,6 +65031,7 @@ module.exports = [{
   "Mail": "zum-baerenwirt@t-online.de",
   "url": "https://www.zum-baerenwirt.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 48.0
 }, {
   "id": 123,
@@ -64923,6 +65045,7 @@ module.exports = [{
   "Mail": "info@fasslwirtschaft.de",
   "url": "https://www.fasslwirtschaft.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 41.0
 }, {
   "id": 124,
@@ -64936,6 +65059,7 @@ module.exports = [{
   "Mail": "info@hotel-bluemelhuber.de",
   "url": "https://hotel-bluemelhuber.de/32351/Biergarten-Gasthof/fullside_bu.aspx",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 45.0
 }, {
   "id": 125,
@@ -64949,6 +65073,7 @@ module.exports = [{
   "Mail": "info@hotel-gasthof-sixt.de",
   "url": "https://www.hotel-gasthof-sixt.de/restaurant/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 35.0
 }, {
   "id": 126,
@@ -64962,6 +65087,7 @@ module.exports = [{
   "Mail": "",
   "url": "",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 43.0
 }, {
   "id": 127,
@@ -64975,6 +65101,7 @@ module.exports = [{
   "Mail": "d.wanningers@gmail.com",
   "url": "https://www.gut-hoetzing.de/der-biergarten",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 52.0
 }, {
   "id": 128,
@@ -64988,6 +65115,7 @@ module.exports = [{
   "Mail": "info@brauereigasthof-plank.de",
   "url": "http://www.brauereigasthof-plank.de/index.php/biergarten",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 35.0
 }, {
   "id": 129,
@@ -65001,6 +65129,7 @@ module.exports = [{
   "Mail": "kontact@faerberhaus-schwandorf.de",
   "url": "http://www.faerberhaus-schwandorf.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 42.0
 }, {
   "id": 130,
@@ -65014,6 +65143,7 @@ module.exports = [{
   "Mail": "info@beer-naabeck.de",
   "url": "https://www.beer-naabeck.de/#home",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 37.0
 }, {
   "id": 131,
@@ -65027,6 +65157,7 @@ module.exports = [{
   "Mail": "info@hufschmiede-sad.de",
   "url": "http://www.hufschmiede-sad.de/innenhof.php",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 42.0
 }, {
   "id": 132,
@@ -65040,6 +65171,7 @@ module.exports = [{
   "Mail": "kontakt@zum-goldenen-krug.de",
   "url": "http://www.zum-goldenen-krug.de/der-biergarten/#anker",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 19.0
 }, {
   "id": 133,
@@ -65053,6 +65185,7 @@ module.exports = [{
   "Mail": "",
   "url": "http://der-grieche-bruckdorf.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 9.0
 }, {
   "id": 134,
@@ -65066,6 +65199,7 @@ module.exports = [{
   "Mail": "",
   "url": "",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 6.0
 }, {
   "id": 135,
@@ -65079,6 +65213,7 @@ module.exports = [{
   "Mail": "info@gaststaette-roehrl.de",
   "url": "https://www.gaststaette-roehrl.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 10.0
 }, {
   "id": 136,
@@ -65092,6 +65227,7 @@ module.exports = [{
   "Mail": "gregorrogerg@gmx.net",
   "url": "http://www.gasthof-bodensteiner.de",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 54.0
 }, {
   "id": 137,
@@ -65105,6 +65241,7 @@ module.exports = [{
   "Mail": "binnerschreiner@t-online.de",
   "url": "https://www.binnerschreiner.de/index.php/biergarten",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 78.0
 }, {
   "id": 138,
@@ -65118,6 +65255,7 @@ module.exports = [{
   "Mail": "info@sporthotel-zur-post.de",
   "url": "https://www.sporthotel-zur-post.de/de/kulinarik/restaurant/restaurant.html",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 78.0
 }, {
   "id": 139,
@@ -65131,6 +65269,7 @@ module.exports = [{
   "Mail": "info@federl-scheck.de",
   "url": "http://www.federl-scheck.de/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 7.0
 }, {
   "id": 140,
@@ -65144,6 +65283,7 @@ module.exports = [{
   "Mail": "",
   "url": "http://www.gasthausmichl.de/index.php?raeumlichkeiten",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 66.0
 }, {
   "id": 141,
@@ -65157,6 +65297,7 @@ module.exports = [{
   "Mail": "info@gasthof-metzgerei-reif.de",
   "url": "https://www.gasthof-metzgerei-reif.de/gaststaette/index.php",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 66.0
 }, {
   "id": 142,
@@ -65170,6 +65311,7 @@ module.exports = [{
   "Mail": "rathausstube@t-online.de",
   "url": "http://www.rathausstube.de/biergarten.html",
   "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+  "Bildnachweis": "unsplash CC0-Lizenz",
   "Distanz": 41.0
 }];
 },{}],"res/generalOptions/MZ_colors.json":[function(require,module,exports) {
@@ -65473,7 +65615,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "59799" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "52481" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};

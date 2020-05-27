@@ -154,6 +154,11 @@ canvas.ol-unselectable {
 .popup > p {
   color: white;
 }
+.bildnachweis {
+  font-size: smaller;
+  margin: 0;
+  text-align: end;
+}
 .adr {
   font-style: inherit;
 }
