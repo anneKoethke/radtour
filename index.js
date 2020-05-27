@@ -76,6 +76,7 @@ function createPopup(item) {
     newEntry = _.template(templDiv),
     popupContainer = document.querySelector("#popup-container"),
     entryNode = document.createElement("div");
+  console.log("in createPopup")
   entryNode.innerHTML = newEntry(item); //data[id-1]
   popupContainer.innerHTML = "";
   popupContainer.appendChild(entryNode.children[0]);
@@ -97,9 +98,12 @@ function hideBtnWhenNoLinkExists() {
   }
 }
 function bindDataToMarker() {
+  console.log("in bindDataToMarker")
+  console.log(this)
   let re = /[0-9]+/,
     id = re.exec(this.id),
     currItem = data[(id-1)];
+    
   createPopup(currItem);
 }
 
@@ -122,12 +126,14 @@ function drawHbfMarker() {
 }
 
 function drawDataMarkers() {
+  console.log("in drawDataMarkers")
   for (let i = 0; i < data.length; i++) {
     if (data[i].coords[0] != 0) { // only use data with existing coordinates
       let currMarkerDiv = getCurrentMarkerDiv(data[i], i+1);
       currMarkerDiv.addEventListener(eventType, bindDataToMarker)
       markerContainer.appendChild(currMarkerDiv); // marker divs in #hidden-div
-      let currMarker = getCurrentMarkerOverlay(data[i], i+1);    
+      let currMarker = getCurrentMarkerOverlay(data[i], i+1);
+      console.log(currMarker)
       map.addOverlay(currMarker);
     }
   }

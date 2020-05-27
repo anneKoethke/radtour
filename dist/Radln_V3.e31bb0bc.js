@@ -63350,7 +63350,7 @@ module.exports = [{
   "Telefon": "0941/5840455",
   "Mail": "info@hacker-pschorr-regensburg.de",
   "url": "http://www.hacker-pschorr-regensburg.de/der-biergarten/",
-  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Hacker-Pschorr - Foto Elmar Vollath.png",
+  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Hacker-Pschorr.png",
   "Bildnachweis": "Elmar Vollath",
   "Distanz": 0.9
 }, {
@@ -63392,7 +63392,7 @@ module.exports = [{
   "Telefon": "0941/84774",
   "Mail": "info@spitalgarten.de",
   "url": "https://www.spitalgarten.de/",
-  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Spitalgarten - foto Koller.png",
+  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Spitalgarten.png",
   "Bildnachweis": "Koller",
   "Distanz": 1.6
 }, {
@@ -63448,7 +63448,7 @@ module.exports = [{
   "Telefon": "09405/6535",
   "Mail": "xaver-braun@web.de",
   "url": "http://www.zunftstueberl-matting.de/",
-  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Zunftstüberl Matting - Foto Xaver Braun.png",
+  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Zunftstüberl_Matting.png",
   "Bildnachweis": "Xaver Braun",
   "Distanz": 10.0
 }, {
@@ -63476,7 +63476,7 @@ module.exports = [{
   "Telefon": "09405/954611",
   "Mail": "gasthaus.zirngibl@web.de",
   "url": "https://www.gasthauszirngibl.de/Gasthaus-Bad-Abbach",
-  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Gasthaus Zirngibl - Foto Michael Hofer.png",
+  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Gasthaus_Zirngibl.png",
   "Bildnachweis": "Michael Hofer",
   "Distanz": 11.0
 }, {
@@ -63532,7 +63532,7 @@ module.exports = [{
   "Telefon": "09404/9532255",
   "Mail": "restaurant@landgasthof-spitzauer.de",
   "url": "https://www.landgasthof-spitzauer.de/",
-  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Landgasthof Spitzauer - Foto Sigfrid Swoboda Wolfseck.png",
+  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Landgasthof_Spitzauer.png",
   "Bildnachweis": "Sigfrid Swoboda Wolfseck",
   "Distanz": 12.0
 }, {
@@ -63672,7 +63672,7 @@ module.exports = [{
   "Telefon": "09403/569",
   "Mail": "",
   "url": "http://www.bacherer-landgasthof.de/",
-  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Bacherer Landgasthof - Foto daniel pielmeier.png",
+  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Bacherer_Landgasthof.png",
   "Bildnachweis": "Daniel Pielmeier",
   "Distanz": 18.0
 }, {
@@ -63686,7 +63686,7 @@ module.exports = [{
   "Telefon": "09402/5365",
   "Mail": "info@waldschaenke-pilz.de",
   "url": "https://www.waldschaenke-pilz.de/",
-  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Waldschänke Pilz -  Foto Johann Pilz_2.png",
+  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Waldschänke_Pilz.png",
   "Bildnachweis": "Johann Pilz",
   "Distanz": 18.0
 }, {
@@ -63700,7 +63700,7 @@ module.exports = [{
   "Telefon": "09406/2855811",
   "Mail": "kontakt@zum-goldenen-krug.de",
   "url": "http://www.zum-goldenen-krug.de/der-biergarten/#anker",
-  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Goldener Krug - Foto Peter Grasmeier.png",
+  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Goldener_Krug.png",
   "Bildnachweis": "Peter Grasmeier",
   "Distanz": 19.0
 }, {
@@ -63770,7 +63770,7 @@ module.exports = [{
   "Telefon": "0941/89059170",
   "Mail": "info@spitalkeller.com",
   "url": "https://www.spitalkeller.com/",
-  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Biergarten Spitalkeller - Foto Stefan Dannert.png",
+  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Biergarten_Spitalkeller.png",
   "Bildnachweis": "Stefan Dannert",
   "Distanz": 2.0
 }, {
@@ -63784,7 +63784,7 @@ module.exports = [{
   "Telefon": "09402/4560",
   "Mail": "Ramspauer-Hof@Kneitinger.de",
   "url": "https://ramspauer-hof.metro.rest/?lang=de",
-  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Ramspauer Hof - Foto Joachim Kehl.png",
+  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Ramspauer_Hof.png",
   "Bildnachweis": "Joachim Kehl",
   "Distanz": 20.0
 }, {
@@ -63840,7 +63840,7 @@ module.exports = [{
   "Telefon": "09473/95080",
   "Mail": "info@landgasthof-birnthaler.de",
   "url": "https://www.landgasthof-birnthaler.de/unser-biergarten/",
-  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Birnthaler - Foto Krönauer.png",
+  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Birnthaler.png",
   "Bildnachweis": "Krönauer",
   "Distanz": 23.0
 }, {
@@ -63868,7 +63868,7 @@ module.exports = [{
   "Telefon": "09448/91830",
   "Mail": "info@stanglbraeu.de",
   "url": "https://www.stanglbraeu.de/wirtshaus/",
-  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Stanglbräu - Foto HP Zierer.png",
+  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Stanglbräu.png",
   "Bildnachweis": "HP Zierer",
   "Distanz": 24.0
 }, {
@@ -63952,7 +63952,7 @@ module.exports = [{
   "Telefon": "09482/9510",
   "Mail": "info@butz-woerth.de",
   "url": "https://butz-woerth.de/gasthof/biergarten/",
-  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Gasthof Butz - Foto Gasthof und Metzgerei Butz.png",
+  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Gasthof_Butz.png",
   "Bildnachweis": "Gasthof und Metzgerei Butz",
   "Distanz": 26.0
 }, {
@@ -64008,7 +64008,7 @@ module.exports = [{
   "Telefon": "0941/21580",
   "Mail": "netsche.novakovic@hotmail.com",
   "url": "https://www.restaurant-katharinenhof.de/",
-  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Katharinenhof - Foto Svetlana Novakovic_2.png",
+  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Katharinenhof.png",
   "Bildnachweis": "Svetlana Novakovic",
   "Distanz": 3.0
 }, {
@@ -64036,7 +64036,7 @@ module.exports = [{
   "Telefon": "09447/377",
   "Mail": "gasthof@ritterschaenke-sturm.de",
   "url": "https://www.ritterschaenke-sturm.de",
-  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Ritterschänke - foto Mayer.png",
+  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Ritterschänke.png",
   "Bildnachweis": "Mayer",
   "Distanz": 31.0
 }, {
@@ -64050,7 +64050,7 @@ module.exports = [{
   "Telefon": "09436/8224",
   "Mail": "info@brauereigasthof-jakob.de",
   "url": "https://www.brauereigasthof-jakob.de/de/gasthof/biergarten",
-  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Brauereigasthof Jakob - Foto Renate Ahrens.png",
+  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Brauereigasthof_Jakob.png",
   "Bildnachweis": "Renate Ahrens",
   "Distanz": 31.0
 }, {
@@ -64078,7 +64078,7 @@ module.exports = [{
   "Telefon": "09441/67570",
   "Mail": "info@klosterschenke-weltenburg.de",
   "url": "https://www.klosterschenke-weltenburg.de/",
-  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Klosterschenke Weltenburg - Foto   Dietmar Krenz.png",
+  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Klosterschenke_Weltenburg.png",
   "Bildnachweis": "Dietmar Krenz",
   "Distanz": 32.0
 }, {
@@ -64092,7 +64092,7 @@ module.exports = [{
   "Telefon": "09447/91800",
   "Mail": "info@brauerei-schneider.de",
   "url": "https://www.brauereigasthof-schneider.de/",
-  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Brauereigasthof Schneider - Foto Josef Schneider.png",
+  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Brauereigasthof_Schneider.png",
   "Bildnachweis": "Josef Schneider",
   "Distanz": 32.0
 }, {
@@ -64120,7 +64120,7 @@ module.exports = [{
   "Telefon": "09443/91010",
   "Mail": "besucherinfo@kuchlbauers-bierwelt.de",
   "url": "http://www.kuchlbauer.de/gastronomie/biergarten/",
-  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Kuchlbauers Bierwelt.png",
+  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Kuchlbauers_Bierwelt.png",
   "Bildnachweis": "Kuchlbauer Turm – ein Hundertwasser Architekturprojekt, geplant und bearbeitet von Architekt Peter Pelikan ©Gruener Janura AG, Glarus, Schweiz ©Foto: Brauerei zum Kuchlbauer GmbH & Co KG",
   "Distanz": 34.0
 }, {
@@ -64204,7 +64204,7 @@ module.exports = [{
   "Telefon": "09431/60889",
   "Mail": "info@brauereigasthof-plank.de",
   "url": "http://www.brauereigasthof-plank.de/index.php/biergarten",
-  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Brauereigasthof Plank - Foto Thomas Klieber.png",
+  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Brauereigasthof_Plank.png",
   "Bildnachweis": "Thomas Klieber",
   "Distanz": 35.0
 }, {
@@ -64232,7 +64232,7 @@ module.exports = [{
   "Telefon": "09431/3616",
   "Mail": "info@beer-naabeck.de",
   "url": "",
-  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Gaststätte Beer - Foto Gunda Greiner_1_2.png",
+  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Gaststätte_Beer.png",
   "Bildnachweis": "Gunda Greiner",
   "Distanz": 37.0
 }, {
@@ -64246,7 +64246,7 @@ module.exports = [{
   "Telefon": "09445/9690",
   "Mail": "info@hotel-eisvogel.de",
   "url": "https://www.hotel-eisvogel.de/der-gasthof/der-gasthof.html",
-  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Hotel Eisvogel - Foto Günter Standl.png",
+  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Hotel_Eisvogel.png",
   "Bildnachweis": "Günter Standl",
   "Distanz": 39.0
 }, {
@@ -64288,7 +64288,7 @@ module.exports = [{
   "Telefon": "09445/9670",
   "Mail": "gasthof@gigl.de",
   "url": "https://www.gigl.de/restaurant/",
-  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Gasthof Gigl - Foto Mayer Neustadt.png",
+  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Gasthof_Gigl.png",
   "Bildnachweis": "Mayer Neustadt",
   "Distanz": 40.0
 }, {
@@ -64316,7 +64316,7 @@ module.exports = [{
   "Telefon": "09442/90030",
   "Mail": "info@fasslwirtschaft.de",
   "url": "http://www.fasslwirtschaft.de/?lang=de",
-  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Fasslwirtschaft - Foto Sabine Scholz-Veits.png",
+  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Fasslwirtschaft.png",
   "Bildnachweis": "Sabine Scholz-Veits",
   "Distanz": 41.0
 }, {
@@ -64330,7 +64330,7 @@ module.exports = [{
   "Telefon": "09431/51682",
   "Mail": "rathausstube@t-online.de",
   "url": "http://www.rathausstube.de/biergarten.html",
-  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Rathausstuben - Foto Bösl.png",
+  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Rathausstuben.png",
   "Bildnachweis": "Bösl",
   "Distanz": 41.0
 }, {
@@ -64498,7 +64498,7 @@ module.exports = [{
   "Telefon": "08753/910022",
   "Mail": "schlossgarten@ratzenhofen.de",
   "url": "https://www.ratzenhofen.de/biergarten",
-  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Ratzenhofen - Foto Karin Zierer.png",
+  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Ratzenhofen.png",
   "Bildnachweis": "Karin Zierer",
   "Distanz": 50.0
 }, {
@@ -64638,7 +64638,7 @@ module.exports = [{
   "Telefon": "09672/92190",
   "Mail": "info@panorama-hotel-am-see.de",
   "url": "https://www.panorama-hotel-am-see.de/",
-  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Panorama Hotel am See - Foto Markus Greiner_3.png",
+  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Panorama_Hotel_am_See.png",
   "Bildnachweis": "Markus Greiner",
   "Distanz": 59.0
 }, {
@@ -64680,7 +64680,7 @@ module.exports = [{
   "Telefon": "09971/4444",
   "Mail": "",
   "url": "",
-  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Auf der Schanze - Christine Babl.png",
+  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Auf_der_Schanze.png",
   "Bildnachweis": "Christine Babl",
   "Distanz": 60.0
 }, {
@@ -64694,7 +64694,7 @@ module.exports = [{
   "Telefon": "09971/862424",
   "Mail": "info@wasserwirtschaft-cham.de",
   "url": "https://www.wasserwirtschaft-cham.de/index.php/biergarten.html",
-  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Wasserwirtschaft - Foto Claudia Gütlhuber.png",
+  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Wasserwirtschaft.png",
   "Bildnachweis": "Claudia Gütlhuber",
   "Distanz": 60.0
 }, {
@@ -64736,7 +64736,7 @@ module.exports = [{
   "Telefon": "09621/788 64 64 ",
   "Mail": "info@hotelzurpost.online",
   "url": "https://www.hotel-zur-post-kuemmersbruck.de/de/biergarten",
-  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Hotel zur Post - Foto Klaus Schicker_1_3.png",
+  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Hotel_zur_Post.png",
   "Bildnachweis": "Klaus Schicker",
   "Distanz": 61.0
 }, {
@@ -64750,7 +64750,7 @@ module.exports = [{
   "Telefon": "09675/389",
   "Mail": "info@gasthaussorgenfrei.de",
   "url": "http://www.gasthaussorgenfrei.de/",
-  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Zum Sorgenfrei - Foto Tobias Sorgenfrei_2.png",
+  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Zum_Sorgenfrei.png",
   "Bildnachweis": "Tobias Sorgenfrei",
   "Distanz": 62.0
 }, {
@@ -64778,7 +64778,7 @@ module.exports = [{
   "Telefon": "09621/420707",
   "Mail": "kommzu@schlodererbraeu.de",
   "url": "http://schlodererbraeu.de/",
-  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Schlodererbräu - Foto Heidi Schmidkonz.png",
+  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Schlodererbräu.png",
   "Bildnachweis": "Heidi Schmidkonz",
   "Distanz": 65.0
 }, {
@@ -64876,7 +64876,7 @@ module.exports = [{
   "Telefon": "09181/23436",
   "Mail": "braeustuebl@glossner.de",
   "url": "https://glossner.de/neumarkter-braeustuebl/",
-  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Glossner Bräustübl - Foto Verena Stadler.png",
+  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Glossner_Bräustübl.png",
   "Bildnachweis": "Verena Stadler",
   "Distanz": 66.0
 }, {
@@ -65170,7 +65170,7 @@ module.exports = [{
   "Telefon": "09403/9100",
   "Mail": "info@forsters-posthotel.de",
   "url": "https://www.forsters-posthotel.de/",
-  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Forsters Posthotel - Foto Ammerbacher.png",
+  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Forsters_Posthotel.png",
   "Bildnachweis": "Ammerbacher",
   "Distanz": 9.0
 }, {
@@ -65198,7 +65198,7 @@ module.exports = [{
   "Telefon": "09404/1822",
   "Mail": "proesslbraeu@t-online.de",
   "url": "http://www.adlersberg.com/gaststaette-biergarten.html",
-  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Prösslbräu Adlersberg - Foto Werner Götz.png",
+  "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Prösslbräu_Adlersberg.png",
   "Bildnachweis": "Werner Götz",
   "Distanz": 9.0
 }, {
@@ -65350,6 +65350,7 @@ function createPopup(item) {
       popupContainer = document.querySelector("#popup-container"),
       entryNode = document.createElement("div");
 
+  console.log("in createPopup");
   entryNode.innerHTML = newEntry(item); //data[id-1]
 
   popupContainer.innerHTML = "";
@@ -65376,6 +65377,8 @@ function hideBtnWhenNoLinkExists() {
 }
 
 function bindDataToMarker() {
+  console.log("in bindDataToMarker");
+  console.log(this);
   var re = /[0-9]+/,
       id = re.exec(this.id),
       currItem = data[id - 1];
@@ -65399,6 +65402,8 @@ function drawHbfMarker() {
 }
 
 function drawDataMarkers() {
+  console.log("in drawDataMarkers");
+
   for (var i = 0; i < data.length; i++) {
     if (data[i].coords[0] != 0) {
       // only use data with existing coordinates
@@ -65407,6 +65412,7 @@ function drawDataMarkers() {
       markerContainer.appendChild(currMarkerDiv); // marker divs in #hidden-div
 
       var currMarker = getCurrentMarkerOverlay(data[i], i + 1);
+      console.log(currMarker);
       map.addOverlay(currMarker);
     }
   }
@@ -65531,7 +65537,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "57537" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "59303" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
