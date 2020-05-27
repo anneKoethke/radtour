@@ -63327,7 +63327,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 },{"./index-default.js":"node_modules/underscore/modules/index-default.js","./index.js":"node_modules/underscore/modules/index.js"}],"res/data/bier.json":[function(require,module,exports) {
 module.exports = [{
   "id": 1,
-  "coords": [49.018642, 12.099273],
+  "coords": [12.099273, 49.018642],
   "Name": "Weltenburger am Dom",
   "Öffnungszeiten": "Mo. Bis Fr. von 11.00 bis 14.00 Uhr und von 17.00 bis 22.00 Uhr, Sa., So. und Feiertage von 11.00 bis 22.00 Uhr",
   "Straße": "Domplatz 3",
@@ -63341,7 +63341,7 @@ module.exports = [{
   "Distanz": 0.8
 }, {
   "id": 2,
-  "coords": [49.017884, 12.095254],
+  "coords": [12.095254, 49.017884],
   "Name": "Hacker-Pschorr Wirtshaus",
   "Öffnungszeiten": "täglich 11.00 bis 20.00 Uhr.",
   "Straße": "Neupfarrplatz 15",
@@ -63355,7 +63355,7 @@ module.exports = [{
   "Distanz": 0.9
 }, {
   "id": 3,
-  "coords": [49.007277, 12.100024],
+  "coords": [12.100024, 49.007277],
   "Name": "Kneitinger Keller",
   "Öffnungszeiten": "Täglich 09.00 bis 20.00 Uhr.",
   "Straße": "Galgenbergstraße 18",
@@ -63369,7 +63369,7 @@ module.exports = [{
   "Distanz": 0.9
 }, {
   "id": 4,
-  "coords": [49.022899, 12.09594],
+  "coords": [12.09594, 49.022899],
   "Name": "Alte Linde",
   "Öffnungszeiten": "Täglich 11.00 bis 20.00 Uhr (Innenbereich bis 22.00 Uhr)",
   "Straße": "Müllerstraße 1",
@@ -63383,7 +63383,7 @@ module.exports = [{
   "Distanz": 1.5
 }, {
   "id": 5,
-  "coords": [49.024165, 12.096097],
+  "coords": [12.096097, 49.024165],
   "Name": "Gaststätte Spitalgarten",
   "Öffnungszeiten": "Täglich 11.00 bis 20.00 Uhr (Innenbereich bis 22.00 Uhr)",
   "Straße": "St.-Katharinen-Platz 1",
@@ -63397,7 +63397,7 @@ module.exports = [{
   "Distanz": 1.6
 }, {
   "id": 6,
-  "coords": [49.019789, 12.085884],
+  "coords": [12.085884, 49.019789],
   "Name": "Kreuzschänke",
   "Öffnungszeiten": "folgt",
   "Straße": "Kreuzgasse 25",
@@ -63411,7 +63411,7 @@ module.exports = [{
   "Distanz": 1.7
 }, {
   "id": 7,
-  "coords": [49.023011, 12.091012],
+  "coords": [12.091012, 49.023011],
   "Name": "Die Oma in da Antn",
   "Öffnungszeiten": "Bei schönem Wetter: täglich von 12.00 bis 20.00 Uhr ",
   "Straße": "Badstraße 32",
@@ -63425,7 +63425,7 @@ module.exports = [{
   "Distanz": 1.9
 }, {
   "id": 8,
-  "coords": [48.949161, 12.110482],
+  "coords": [12.110482, 48.949161],
   "Name": "Höhenhof zum Schützenwirt",
   "Öffnungszeiten": "Mi. bis Fr. von 16.00 bis 20.00 Uhr (Innenraum bis 22.00 Uhr), Sa. von 11.00-20.00 Uhr (Innenraum bis 22.00 Uhr), So. und Feiertage von 11.00 bis 20.00 (Innenraum bis 21.30 Uhr), Mo. Und Di. Ruhetage",
   "Straße": "Höhenhof 15",
@@ -63439,7 +63439,7 @@ module.exports = [{
   "Distanz": 10.0
 }, {
   "id": 9,
-  "coords": [48.965511, 12.00723],
+  "coords": [12.00723, 48.965511],
   "Name": "Zunftstüberl",
   "Öffnungszeiten": "Täglich von 10.30 bis 20.00 Uhr",
   "Straße": "An der Donau 21 a",
@@ -63453,7 +63453,7 @@ module.exports = [{
   "Distanz": 10.0
 }, {
   "id": 10,
-  "coords": [49.00471, 11.97484],
+  "coords": [11.97484, 49.00471],
   "Name": "Gaststätte Röhrl",
   "Öffnungszeiten": "Mo. und Mi. bis Fr. von 16 bis 20.00 Uhr (Innenraum bis 22.00 Uhr), Sa., So. und Feiertage von 11 Uhr bis 20.00 Uhr (Innenraum bis 22.00 Uhr), Di. Ruhetag",
   "Straße": "Regensburger Straße 3",
@@ -63467,7 +63467,7 @@ module.exports = [{
   "Distanz": 10.0
 }, {
   "id": 11,
-  "coords": [48.93653, 12.04017],
+  "coords": [12.04017, 48.93653],
   "Name": "Gasthaus Zirngibl",
   "Öffnungszeiten": "Mo. und Di. Ruhetag, Mi. bis So. 11.00 bis 20.00 Uhr.",
   "Straße": "Am Markt 29",
@@ -63481,7 +63481,7 @@ module.exports = [{
   "Distanz": 11.0
 }, {
   "id": 12,
-  "coords": [49.015991, 12.231944],
+  "coords": [12.231944, 49.015991],
   "Name": "Landgasthof Geser",
   "Öffnungszeiten": "Mo. bis Sa. 06.30 bis 13.00 Uhr und 17.00 bis 20.00 Uhr, So. 07.30 bis 20.00 Uhr, Di. Ruhetag.",
   "Straße": "Kirchplatz 4",
@@ -63495,7 +63495,7 @@ module.exports = [{
   "Distanz": 11.0
 }, {
   "id": 13,
-  "coords": [49.031001, 12.215804],
+  "coords": [12.215804, 49.031001],
   "Name": "Historisches Armen Spital",
   "Öffnungszeiten": "Mo. bis Fr. von 14.00 bis 20.00 Uhr, Sa. und So. von 11.00 bis 20.00 Uhr.",
   "Straße": "Walhallastraße 9",
@@ -63509,7 +63509,7 @@ module.exports = [{
   "Distanz": 11.0
 }, {
   "id": 14,
-  "coords": [48.948025, 12.017201],
+  "coords": [12.017201, 48.948025],
   "Name": "Brauereigasthof Berghammer",
   "Öffnungszeiten": "täglich von 11.00 bis 20.00 Uhr (im Innenbereich bis 22.00 Uhr), Di. ist Ruhetag",
   "Straße": "Donaustraße 55",
@@ -63523,7 +63523,7 @@ module.exports = [{
   "Distanz": 12.0
 }, {
   "id": 15,
-  "coords": [49.043031, 11.967784],
+  "coords": [11.967784, 49.043031],
   "Name": "Landgasthof Spitzauer",
   "Öffnungszeiten": "Di. bis So. 11.00 bis 21.30 Uhr, Mo. Ruhetag.",
   "Straße": "Löweneckstraße 1",
@@ -63537,7 +63537,7 @@ module.exports = [{
   "Distanz": 12.0
 }, {
   "id": 16,
-  "coords": [49.038292, 12.253134],
+  "coords": [12.253134, 49.038292],
   "Name": "Landgasthof Hammermühle",
   "Öffnungszeiten": "Täglich von 11.30 bis 20.00 Uhr (ab 2.6. bis 22.00 Uhr), Mi. Ruhetag.",
   "Straße": "Thiergartenstraße 1",
@@ -63551,7 +63551,7 @@ module.exports = [{
   "Distanz": 13.0
 }, {
   "id": 17,
-  "coords": [48.952549, 11.986723],
+  "coords": [11.986723, 48.952549],
   "Name": "Landgasthof Perzl",
   "Öffnungszeiten": "folgt",
   "Straße": "Lohstraße 10",
@@ -63565,7 +63565,7 @@ module.exports = [{
   "Distanz": 13.0
 }, {
   "id": 18,
-  "coords": [48.983718, 12.254045],
+  "coords": [12.254045, 48.983718],
   "Name": "Alte Schule",
   "Öffnungszeiten": "folgt",
   "Straße": "Pappenberger Straße 3",
@@ -63579,7 +63579,7 @@ module.exports = [{
   "Distanz": 13.0
 }, {
   "id": 19,
-  "coords": [48.945462, 12.003436],
+  "coords": [12.003436, 48.945462],
   "Name": "Gasthof Kellner",
   "Öffnungszeiten": "Mo. bis So. 10.00 bis 22.00 Uhr, Mi. Ruhetag.",
   "Straße": "Gundelshausener Straße 73",
@@ -63593,7 +63593,7 @@ module.exports = [{
   "Distanz": 15.0
 }, {
   "id": 20,
-  "coords": [49.045215, 11.901685],
+  "coords": [11.901685, 49.045215],
   "Name": "Münchsmühle",
   "Öffnungszeiten": "Mi. bis Fr. 15.00 bis 20.00 Uhr, Sa. 13.00 bis 20.00 Uhr, So und Feiertage 10.00 bis 20.00 Uhr. Mo. und Di. Ruhetag.",
   "Straße": "Münchsmühle 2",
@@ -63607,7 +63607,7 @@ module.exports = [{
   "Distanz": 16.0
 }, {
   "id": 21,
-  "coords": [49.116609, 12.065268],
+  "coords": [12.065268, 49.116609],
   "Name": "Gasthaus Spanner",
   "Öffnungszeiten": "folgt",
   "Straße": "Kallmünzer Straße 27",
@@ -63621,7 +63621,7 @@ module.exports = [{
   "Distanz": 16.0
 }, {
   "id": 22,
-  "coords": [49.072866, 11.957829],
+  "coords": [11.957829, 49.072866],
   "Name": "Klosterwirtschaft",
   "Öffnungszeiten": "Mi. bis Sa. 11.00 bis 20.00 Uhr, So. 09.00 bis 20.00 Uhr, Mo. Und Di. Ruhetag",
   "Straße": "Klosterstraße 6",
@@ -63635,7 +63635,7 @@ module.exports = [{
   "Distanz": 16.0
 }, {
   "id": 23,
-  "coords": [49.126142, 12.12884],
+  "coords": [12.12884, 49.126142],
   "Name": "Metzgerwirt Regenstauf",
   "Öffnungszeiten": "folgt",
   "Straße": "Hauptstraße 31",
@@ -63649,7 +63649,7 @@ module.exports = [{
   "Distanz": 16.0
 }, {
   "id": 24,
-  "coords": [49.119346, 12.05139],
+  "coords": [12.05139, 49.119346],
   "Name": "Alte Hofmark",
   "Öffnungszeiten": "folgt",
   "Straße": "Hofmarkstraße 3",
@@ -63663,7 +63663,7 @@ module.exports = [{
   "Distanz": 17.0
 }, {
   "id": 25,
-  "coords": [49.021231, 12.302001],
+  "coords": [12.302001, 49.021231],
   "Name": "Bacherer Landgasthof",
   "Öffnungszeiten": "Täglich ab 10.00 Uhr.",
   "Straße": "Hauptstraße 31",
@@ -63677,7 +63677,7 @@ module.exports = [{
   "Distanz": 18.0
 }, {
   "id": 26,
-  "coords": [49.117472, 12.040906],
+  "coords": [12.040906, 49.117472],
   "Name": "Waldschänke Pilz",
   "Öffnungszeiten": "Mo. und Fr. von 15.00 bis 20.00 Uhr, Sa. von 13.00 bis 20.00 Uhr, So. und Feiertage von 10.00 bis 20.00 Uhr",
   "Straße": "Reiterberg 3",
@@ -63691,7 +63691,7 @@ module.exports = [{
   "Distanz": 18.0
 }, {
   "id": 27,
-  "coords": [48.924266, 12.28756],
+  "coords": [12.28756, 48.924266],
   "Name": "Gasthaus zum Goldenen Krug",
   "Öffnungszeiten": "Mo. und Di. Ruhetag, Mi. bis Sa. von 17.00 bis 20.00 Uhr, So. von 11.30 bis 20.00 Uhr",
   "Straße": "Brunnenstraße 6",
@@ -63705,7 +63705,7 @@ module.exports = [{
   "Distanz": 19.0
 }, {
   "id": 28,
-  "coords": [49.023164, 12.089143],
+  "coords": [12.089143, 49.023164],
   "Name": "Zum Sorgenfrei",
   "Öffnungszeiten": "Mo., Di. und Do. von 16.00 bis 22.00 Uhr, Fr. bis So. von 11:00 Uhr bis 22.00 Uhr, Mi. Ruhetag.",
   "Straße": "Badstraße 54",
@@ -63719,7 +63719,7 @@ module.exports = [{
   "Distanz": 2.0
 }, {
   "id": 29,
-  "coords": [49.030124, 12.10129],
+  "coords": [12.10129, 49.030124],
   "Name": "Auerbräu",
   "Öffnungszeiten": "täglich von 12.00 bis 20.00 Uhr (Innenbereich bis 22.00 Uhr)",
   "Straße": "Schwandorfer Straße 41",
@@ -63733,7 +63733,7 @@ module.exports = [{
   "Distanz": 2.0
 }, {
   "id": 30,
-  "coords": [49.013808, 12.074189],
+  "coords": [12.074189, 49.013808],
   "Name": "Bischofshof Braustuben",
   "Öffnungszeiten": "folgt",
   "Straße": "Dechbettener Straße 50",
@@ -63747,7 +63747,7 @@ module.exports = [{
   "Distanz": 2.0
 }, {
   "id": 31,
-  "coords": [48.998831, 12.078202],
+  "coords": [12.078202, 48.998831],
   "Name": "Kneitinger's Hubertushöhe",
   "Öffnungszeiten": "Täglich bei schönem Wetter 12.00 bis 20.00 Uhr (ab 2.6. bis 22.00 Uhr)",
   "Straße": "Wilhelm-Raabe-Straße 1",
@@ -63761,7 +63761,7 @@ module.exports = [{
   "Distanz": 2.0
 }, {
   "id": 32,
-  "coords": [49.029315, 12.095368],
+  "coords": [12.095368, 49.029315],
   "Name": "Spitalkeller Regensburg",
   "Öffnungszeiten": "Di. bis Fr. 16.00 bis 20.00 Uhr, Sa. und So. und Feiertage 10.00 bis 20.00 Uhr.",
   "Straße": "Alte Nürnberger Straße 12",
@@ -63775,7 +63775,7 @@ module.exports = [{
   "Distanz": 2.0
 }, {
   "id": 33,
-  "coords": [49.156037, 12.141861],
+  "coords": [12.141861, 49.156037],
   "Name": "Ramspauer Hof",
   "Öffnungszeiten": "Mo. Ruhetag, Di. bis So. 12.00 bis 22.00 Uhr.",
   "Straße": "Dorfstraße 5",
@@ -63789,7 +63789,7 @@ module.exports = [{
   "Distanz": 20.0
 }, {
   "id": 34,
-  "coords": [49.164062, 12.098587],
+  "coords": [12.098587, 49.164062],
   "Name": "Einkehr zur Alten Post",
   "Öffnungszeiten": "Mo., Do. bis So. 17.30 bis 20.00 Uhr (Innenraum bis 22.00 Uhr), So. und feiertags zusätzlich 11.30 bis 14.00 Uhr, Di. und Mi. Ruhetag",
   "Straße": "Postplatz 1",
@@ -63803,7 +63803,7 @@ module.exports = [{
   "Distanz": 21.0
 }, {
   "id": 35,
-  "coords": [49.15116, 12.174894],
+  "coords": [12.174894, 49.15116],
   "Name": "Landgasthof Lautenschlager",
   "Öffnungszeiten": "Mi. und Fr. und Sa. von 11.30 bis 14.00 Uhr und 17.00 bis 20.00 Uhr",
   "Straße": "Schloßparkstraße 3",
@@ -63817,7 +63817,7 @@ module.exports = [{
   "Distanz": 21.0
 }, {
   "id": 36,
-  "coords": [49.123578, 11.93951],
+  "coords": [11.93951, 49.123578],
   "Name": "Schloßwirtschaft Heitzenhofen",
   "Öffnungszeiten": "folgt",
   "Straße": "Naabstraße 6",
@@ -63831,7 +63831,7 @@ module.exports = [{
   "Distanz": 23.0
 }, {
   "id": 37,
-  "coords": [49.145891, 11.952804],
+  "coords": [11.952804, 49.145891],
   "Name": "Landgasthof zum Birnthaler",
   "Öffnungszeiten": "Do. bis Mo. Von 9.00 bis 22.00 Uhr, Di. und Mi. Ruhetag",
   "Straße": "Heitzenhofener Weg 13",
@@ -63845,7 +63845,7 @@ module.exports = [{
   "Distanz": 23.0
 }, {
   "id": 38,
-  "coords": [49.182953, 12.115557],
+  "coords": [12.115557, 49.182953],
   "Name": "St. Clemenshaus",
   "Öffnungszeiten": "Mo., Mi. und Fr. 17.00 bis 22.00 Uhr, So. 10.00 bis 21.00 Uhr, Di., Do. und Sa. Ruhetag",
   "Straße": "Pfarrhofstr. 3",
@@ -63859,7 +63859,7 @@ module.exports = [{
   "Distanz": 23.0
 }, {
   "id": 39,
-  "coords": [48.845318, 11.986101],
+  "coords": [11.986101, 48.845318],
   "Name": "Stanglbräu",
   "Öffnungszeiten": "Bei schönem Wetter: täglich von 16.00 bis 20.00 Uhr; Reservierung erforderlich",
   "Straße": "Dorfstraße 11",
@@ -63873,7 +63873,7 @@ module.exports = [{
   "Distanz": 24.0
 }, {
   "id": 40,
-  "coords": [49.162103, 11.950309],
+  "coords": [11.950309, 49.162103],
   "Name": "Gasthof zur roten Amsel ",
   "Öffnungszeiten": "momentan geschlossen",
   "Straße": "Vilsgasse 26",
@@ -63887,7 +63887,7 @@ module.exports = [{
   "Distanz": 24.0
 }, {
   "id": 41,
-  "coords": [49.160967, 11.956277],
+  "coords": [11.956277, 49.160967],
   "Name": "Zum weißen Rößl",
   "Öffnungszeiten": "Täglich von 11.00 bis 14.00 Uhr und 17.00 bis 20.00 Uhr (Innenbereich jeweils bis 22.00 Uhr), Di. Ruhetag",
   "Straße": "Alte Regensburger Straße 1",
@@ -63901,7 +63901,7 @@ module.exports = [{
   "Distanz": 24.0
 }, {
   "id": 42,
-  "coords": [48.906756, 11.895063],
+  "coords": [11.895063, 48.906756],
   "Name": "Donaugarten",
   "Öffnungszeiten": "Mo. Bis Sa. von 16.00 bis 20.00 Uhr (ab 2.6. bis 22.00 Uhr), So. von 10.00 bis 20.00 Uhr (ab 2.6. bis 21.00 Uhr)",
   "Straße": "Regensburger Straße 65",
@@ -63915,7 +63915,7 @@ module.exports = [{
   "Distanz": 24.0
 }, {
   "id": 43,
-  "coords": [49.184425, 12.087431],
+  "coords": [12.087431, 49.184425],
   "Name": "Michl's Landgasthof",
   "Öffnungszeiten": "nur auf Anfrage",
   "Straße": "Bergmannstraße 43",
@@ -63929,7 +63929,7 @@ module.exports = [{
   "Distanz": 24.0
 }, {
   "id": 44,
-  "coords": [48.917243, 11.87387],
+  "coords": [11.87387, 48.917243],
   "Name": "Weisses Bräuhaus",
   "Öffnungszeiten": "täglich 11.00 bis 22.00 Uhr.",
   "Straße": "Emil-Ott-Straße 3",
@@ -63943,7 +63943,7 @@ module.exports = [{
   "Distanz": 26.0
 }, {
   "id": 45,
-  "coords": [49.000117, 12.399988],
+  "coords": [12.399988, 49.000117],
   "Name": "Gasthof Butz",
   "Öffnungszeiten": "Di. bis So. 09.00 bis 22.00 Uhr. Mo. Ruhetag.",
   "Straße": "Kirchplatz 3",
@@ -63957,7 +63957,7 @@ module.exports = [{
   "Distanz": 26.0
 }, {
   "id": 46,
-  "coords": [48.910553, 11.851708],
+  "coords": [11.851708, 48.910553],
   "Name": "Einsiedelei Klösterl ",
   "Öffnungszeiten": "voraussichtlich bis Ende Juni geschlossen",
   "Straße": "Klösterlweg 1",
@@ -63971,7 +63971,7 @@ module.exports = [{
   "Distanz": 27.0
 }, {
   "id": 47,
-  "coords": [49.085713, 11.812462],
+  "coords": [11.812462, 49.085713],
   "Name": "Landgasthof Friesenmühle",
   "Öffnungszeiten": "Täglich von 8.30 bis 20.00 Uhr, Mi. Ruhetag.",
   "Straße": "Friesenmühle 1",
@@ -63985,7 +63985,7 @@ module.exports = [{
   "Distanz": 28.0
 }, {
   "id": 48,
-  "coords": [49.13757, 11.867397],
+  "coords": [11.867397, 49.13757],
   "Name": "Landgasthof Rechberger Hof",
   "Öffnungszeiten": "Mo. ab 17.00 Uhr, Mi. bis So. 10.00 bis 23.00 Uhr, Di. Ruhetag.",
   "Straße": "Leonhard-Nübler-Strasse 5",
@@ -63999,7 +63999,7 @@ module.exports = [{
   "Distanz": 29.0
 }, {
   "id": 49,
-  "coords": [49.01533, 12.0657],
+  "coords": [12.0657, 49.01533],
   "Name": "Katharinenhof",
   "Öffnungszeiten": "Mo., Mi. bis So. von 17.30 Uhr bis 20.00 Uhr (Innenbereich bis 22.00 Uhr), So. und Feiertage von 11.00 bis 13.30 Uhr, Di. Ruhetag",
   "Straße": "Prüfeninger Straße 83a",
@@ -64013,7 +64013,7 @@ module.exports = [{
   "Distanz": 3.0
 }, {
   "id": 50,
-  "coords": [49.071553, 12.395776],
+  "coords": [12.395776, 49.071553],
   "Name": "Hirschbergers Holzofenkuchl",
   "Öffnungszeiten": "Mo. und Di. Ruhetag (außer Feiertage), Mi. und Do. von 17.00 bis 20.00 Uhr (ab 2.6. bis 22.00 Uhr), Fr. bis So. 11.00 bis 20.00 Uhr (ab 2.6. bis 22.00 Uhr)",
   "Straße": "Reimarstraße 5",
@@ -64027,7 +64027,7 @@ module.exports = [{
   "Distanz": 31.0
 }, {
   "id": 51,
-  "coords": [48.937518, 11.791146],
+  "coords": [11.791146, 48.937518],
   "Name": "Ritterschänke Burg Randeck",
   "Öffnungszeiten": "Täglich von 8.00 bis 22.00 Uhr",
   "Straße": "Randeck 9",
@@ -64041,7 +64041,7 @@ module.exports = [{
   "Distanz": 31.0
 }, {
   "id": 52,
-  "coords": [49.197734, 12.27247],
+  "coords": [12.27247, 49.197734],
   "Name": "Brauereigasthof Jakob Nittenau",
   "Öffnungszeiten": "Täglich von 11.00 bis 14.00 Uhr und 17.00 bis 22.00 Uhr, Mi. Ruhetag.",
   "Straße": "Hauptstraße 10",
@@ -64055,7 +64055,7 @@ module.exports = [{
   "Distanz": 31.0
 }, {
   "id": 53,
-  "coords": [49.19753, 12.27342],
+  "coords": [12.27342, 49.19753],
   "Name": "Hotel-Gaststätte Ludwig Pirzer",
   "Öffnungszeiten": "An sonnigen Tagen von 16.00 Uhr bis 20.00 Uhr (ab 2.6. bis 22.00 Uhr) ",
   "Straße": "Brauhausstraße 3",
@@ -64069,7 +64069,7 @@ module.exports = [{
   "Distanz": 31.0
 }, {
   "id": 54,
-  "coords": [48.898832, 11.819579],
+  "coords": [11.819579, 48.898832],
   "Name": "Klosterschenke Weltenburg",
   "Öffnungszeiten": "täglich 09.30 bis 19.00 Uhr.",
   "Straße": "Asamstraße 32",
@@ -64083,7 +64083,7 @@ module.exports = [{
   "Distanz": 32.0
 }, {
   "id": 55,
-  "coords": [48.935422, 11.788669],
+  "coords": [11.788669, 48.935422],
   "Name": "Brauereigasthof Schneider",
   "Öffnungszeiten": "täglich 10.00 bis 22.00 Uhr. AB 1.6. : Mo. Ab 16.00 Uhr, Di. bis So. von 8.00 bis 23.00 Uhr",
   "Straße": "Altmühlgasse 10",
@@ -64097,7 +64097,7 @@ module.exports = [{
   "Distanz": 32.0
 }, {
   "id": 56,
-  "coords": [48.815561, 11.84704],
+  "coords": [11.84704, 48.815561],
   "Name": "Jungbräu",
   "Öffnungszeiten": "Täglich bei schönem Wetter von 11.00 bis 15.00 Uhr und von 18.00 bis 22.00 Uhr",
   "Straße": "Weinbergerstraße 8",
@@ -64111,7 +64111,7 @@ module.exports = [{
   "Distanz": 33.0
 }, {
   "id": 57,
-  "coords": [48.816846, 11.841879],
+  "coords": [11.841879, 48.816846],
   "Name": "Kuchlbauer's Bierwelt",
   "Öffnungszeiten": "Mo. bis Sa. 11.00 bis 20.00 Uhr, So. und Feiertage 10.00 bis 20.00 Uhr.",
   "Straße": "Römerstraße 5-9",
@@ -64125,7 +64125,7 @@ module.exports = [{
   "Distanz": 34.0
 }, {
   "id": 58,
-  "coords": [48.817045, 11.839638],
+  "coords": [11.839638, 48.817045],
   "Name": "Wirtshaus beim Lauberger",
   "Öffnungszeiten": "Di. bis Fr. von 17.00 bis 20.00 Uhr, Sa. von 15.00 bis 20.00 Uhr, So. und Feiertage von 11.00 bis 20.00 Uhr (ab 2.6. bis 22.00 Uhr), Mo. Ruhetag",
   "Straße": "Aunkofener Straße 8",
@@ -64139,7 +64139,7 @@ module.exports = [{
   "Distanz": 34.0
 }, {
   "id": 59,
-  "coords": [48.940103, 11.778231],
+  "coords": [11.778231, 48.940103],
   "Name": "Essinger Hof",
   "Öffnungszeiten": "folgt",
   "Straße": "Weihermühle 4",
@@ -64153,7 +64153,7 @@ module.exports = [{
   "Distanz": 34.0
 }, {
   "id": 60,
-  "coords": [48.942419, 11.754688],
+  "coords": [11.754688, 48.942419],
   "Name": "Kastlhof",
   "Öffnungszeiten": "folgt",
   "Straße": "Pillhausen 1",
@@ -64167,7 +64167,7 @@ module.exports = [{
   "Distanz": 34.0
 }, {
   "id": 61,
-  "coords": [48.926032, 11.801699],
+  "coords": [11.801699, 48.926032],
   "Name": "Gasthof Ehrl",
   "Öffnungszeiten": "Täglich von 8.00 bis 20.00 Uhr (ab 2.6. bis 22.00 Uhr)",
   "Straße": "Schnellnecker Straße 29",
@@ -64181,7 +64181,7 @@ module.exports = [{
   "Distanz": 34.0
 }, {
   "id": 62,
-  "coords": [48.769214, 11.965848],
+  "coords": [11.965848, 48.769214],
   "Name": "Gasthof Sixt",
   "Öffnungszeiten": "folgt",
   "Straße": "Asamstraße 1",
@@ -64195,7 +64195,7 @@ module.exports = [{
   "Distanz": 35.0
 }, {
   "id": 63,
-  "coords": [49.277901, 12.077465],
+  "coords": [12.077465, 49.277901],
   "Name": "Brauereigasthof Plank",
   "Öffnungszeiten": "Mo. und Di. Ruhetag (Ausnahme Feiertage), Mi. bis So. 11.00 bis 14.00 Uhr und bei sonnigem Wetter wieder ab 17.00 Uhr",
   "Straße": "Wiefelsdorfer Straße 1",
@@ -64209,7 +64209,7 @@ module.exports = [{
   "Distanz": 35.0
 }, {
   "id": 64,
-  "coords": [48.857421, 11.770559],
+  "coords": [11.770559, 48.857421],
   "Name": "An der Fähre",
   "Öffnungszeiten": "Di. bis So. 10.00 bis 20.00 Uhr, Mo. Ruhetag",
   "Straße": "Zur Überfuhr 15",
@@ -64223,7 +64223,7 @@ module.exports = [{
   "Distanz": 37.0
 }, {
   "id": 65,
-  "coords": [49.293158, 12.068236],
+  "coords": [12.068236, 49.293158],
   "Name": "Gaststätte Beer",
   "Öffnungszeiten": "An Sonn- und Feiertagen von 15.00 bis 20.00 Uhr",
   "Straße": "Am Kollerberg 2",
@@ -64237,7 +64237,7 @@ module.exports = [{
   "Distanz": 37.0
 }, {
   "id": 66,
-  "coords": [48.823584, 11.778413],
+  "coords": [11.778413, 48.823584],
   "Name": "Hotel Eisvogel",
   "Öffnungszeiten": "Mo. bis Fr. 17.00 bis 20.00 Uhr, Sa., So. und Feiertage von 11.00 bis 20.00 Uhr (Im Innenbereich jeweils bis 22.00 Uhr)",
   "Straße": "An der Abends 20",
@@ -64251,7 +64251,7 @@ module.exports = [{
   "Distanz": 39.0
 }, {
   "id": 67,
-  "coords": [48.825207, 11.781452],
+  "coords": [11.781452, 48.825207],
   "Name": "Röll'n Biergarten",
   "Öffnungszeiten": "Mo. Bis Do. 16.30  bis 20.00 Uhr (ab 2.6. bis 22.00 Uhr",
   "Straße": "Römerstraße 4",
@@ -64265,7 +64265,7 @@ module.exports = [{
   "Distanz": 39.0
 }, {
   "id": 68,
-  "coords": [48.987934, 12.140891],
+  "coords": [12.140891, 48.987934],
   "Name": "Gasthof Parzefall",
   "Öffnungszeiten": "Mo. und Di. von 11.00 bis 22.00 Uhr, Mi. Ruhetag, Do.,Fr, und Sa. 11.00 bis 22.00 Uhr, So. 11.00-22.00 Uhr.",
   "Straße": "Obertraublinger Straße 54",
@@ -64279,7 +64279,7 @@ module.exports = [{
   "Distanz": 4.0
 }, {
   "id": 69,
-  "coords": [48.808133, 11.763819],
+  "coords": [11.763819, 48.808133],
   "Name": "Gasthof Gigl",
   "Öffnungszeiten": "Mo. bis Do. 16.30 bis 22.00 Uhr, So. und feiertags 11.00 bis 22.00 Uhr.",
   "Straße": "Herzog-Ludwig-Straße 6",
@@ -64293,7 +64293,7 @@ module.exports = [{
   "Distanz": 40.0
 }, {
   "id": 70,
-  "coords": [49.270674, 12.304965],
+  "coords": [12.304965, 49.270674],
   "Name": "Brauereigasthof Jacob Bodenwöhr",
   "Öffnungszeiten": "Täglich von 7.00 bis 20.00 Uhr (Innenbereich bis 22.00 Uhr)",
   "Straße": "Ludwigsheide 2",
@@ -64307,7 +64307,7 @@ module.exports = [{
   "Distanz": 41.0
 }, {
   "id": 71,
-  "coords": [48.959273, 11.689363],
+  "coords": [11.689363, 48.959273],
   "Name": "Fasslwirtschaft",
   "Öffnungszeiten": "Di. bis So. von 11.00 bis 20.00 Uhr, Mo. Ruhetag",
   "Straße": "Bergkristallstraße 1",
@@ -64321,7 +64321,7 @@ module.exports = [{
   "Distanz": 41.0
 }, {
   "id": 72,
-  "coords": [49.311041, 12.174669],
+  "coords": [12.174669, 49.311041],
   "Name": "Rathausstuben",
   "Öffnungszeiten": "Mo. Bis Sa. von 16.30 bis 20.00 Uhr (ab 2.6. bis 22.00 Uhr), So. von 11.00 bis 14.30 Uhr",
   "Straße": "Marktplatz 4",
@@ -64335,7 +64335,7 @@ module.exports = [{
   "Distanz": 41.0
 }, {
   "id": 73,
-  "coords": [48.775024, 11.79339],
+  "coords": [11.79339, 48.775024],
   "Name": "Lenker's Biergarten ",
   "Öffnungszeiten": "heuer geschlossen",
   "Straße": "Siegenburgerstr. 18",
@@ -64349,7 +64349,7 @@ module.exports = [{
   "Distanz": 42.0
 }, {
   "id": 74,
-  "coords": [49.329351, 12.106016],
+  "coords": [12.106016, 49.329351],
   "Name": "Färberhaus-Stub'n",
   "Öffnungszeiten": "folgt",
   "Straße": "Breite Straße 23",
@@ -64363,7 +64363,7 @@ module.exports = [{
   "Distanz": 42.0
 }, {
   "id": 75,
-  "coords": [49.329383, 12.1057],
+  "coords": [12.1057, 49.329383],
   "Name": "Hufschmiede",
   "Öffnungszeiten": "Di. bis Sa. 17.00 bis 20.00 Uhr (ab 2.6. bis 22.00 Uhr), Mo. Und So. Ruhetag.",
   "Straße": "Breite Straße 25",
@@ -64377,7 +64377,7 @@ module.exports = [{
   "Distanz": 42.0
 }, {
   "id": 76,
-  "coords": [48.709992, 12.017862],
+  "coords": [12.017862, 48.709992],
   "Name": "Gasthof Forstner",
   "Öffnungszeiten": "Mi. bis Sa. 11.00 bis 14.00 Uhr  So. und Feiertags von 11.00 bis 15.00 Uhr (Biergarten bei schönem Wetter durchgehend geöffnet), Mo. Und Mi. bis Sa. zusätzlich von 17.00 bis 21.00 Uhr, Di. Ruhetag.",
   "Straße": "Max-von-Müller Str. 76",
@@ -64391,7 +64391,7 @@ module.exports = [{
   "Distanz": 43.0
 }, {
   "id": 77,
-  "coords": [49.247895, 12.306979],
+  "coords": [12.306979, 49.247895],
   "Name": "Bergerwirt",
   "Öffnungszeiten": "folgt",
   "Straße": "Hauptstraße 28",
@@ -64405,7 +64405,7 @@ module.exports = [{
   "Distanz": 44.0
 }, {
   "id": 78,
-  "coords": [49.19588, 12.51498],
+  "coords": [12.51498, 49.19588],
   "Name": "Rodinger Reib'm Biergarten",
   "Öffnungszeiten": "Bei Voranmeldung und guter Witterung geöffnet.",
   "Straße": "Blümelhubergasse 1",
@@ -64419,7 +64419,7 @@ module.exports = [{
   "Distanz": 45.0
 }, {
   "id": 79,
-  "coords": [49.254569, 12.336072],
+  "coords": [12.336072, 49.254569],
   "Name": "Landhotel Mappacher Hof",
   "Öffnungszeiten": "folgt",
   "Straße": "Mappach 2",
@@ -64433,7 +64433,7 @@ module.exports = [{
   "Distanz": 46.0
 }, {
   "id": 80,
-  "coords": [49.305303, 11.938127],
+  "coords": [11.938127, 49.305303],
   "Name": "Gut Matheshof ",
   "Öffnungszeiten": "vorerst geschlossen",
   "Straße": "Hans-Nowak-Ring 1",
@@ -64447,7 +64447,7 @@ module.exports = [{
   "Distanz": 46.0
 }, {
   "id": 81,
-  "coords": [49.322986, 11.941811],
+  "coords": [11.941811, 49.322986],
   "Name": "Landgasthof zum Bärenwirt",
   "Öffnungszeiten": "folgt",
   "Straße": "Hauptstraße 9",
@@ -64461,7 +64461,7 @@ module.exports = [{
   "Distanz": 48.0
 }, {
   "id": 82,
-  "coords": [49.187964, 11.603454],
+  "coords": [11.603454, 49.187964],
   "Name": "Gasthaus Diepold",
   "Öffnungszeiten": "folgt",
   "Straße": "Hauptstraße 33",
@@ -64475,7 +64475,7 @@ module.exports = [{
   "Distanz": 49.0
 }, {
   "id": 83,
-  "coords": [49.010655, 12.034171],
+  "coords": [12.034171, 49.010655],
   "Name": "Gasthaus Goldener Hirsch",
   "Öffnungszeiten": "folgt",
   "Straße": "Großprüfening 21",
@@ -64489,7 +64489,7 @@ module.exports = [{
   "Distanz": 5.0
 }, {
   "id": 84,
-  "coords": [48.690392, 11.804504],
+  "coords": [11.804504, 48.690392],
   "Name": "Schlossgarten Ratzenhofen",
   "Öffnungszeiten": "Fr. von 15.00 bis 20.00 Uhr, Sa. von 12.00 bis 20.00 Uhr, So. und Feiertage von 10.00 bis 20.00 Uhr",
   "Straße": "Dorfstraße 32",
@@ -64503,7 +64503,7 @@ module.exports = [{
   "Distanz": 50.0
 }, {
   "id": 85,
-  "coords": [49.359245, 12.254329],
+  "coords": [12.254329, 49.359245],
   "Name": "Schiessl-Tafferne",
   "Öffnungszeiten": "folgt",
   "Straße": "Kemnath bei Fuhrn 8",
@@ -64517,7 +64517,7 @@ module.exports = [{
   "Distanz": 50.0
 }, {
   "id": 86,
-  "coords": [49.229503, 12.549096],
+  "coords": [12.549096, 49.229503],
   "Name": "Landgasthof Weitzer",
   "Öffnungszeiten": "folgt",
   "Straße": "Untere Hauptstraße 1",
@@ -64531,7 +64531,7 @@ module.exports = [{
   "Distanz": 51.0
 }, {
   "id": 87,
-  "coords": [49.182276, 12.592628],
+  "coords": [12.592628, 49.182276],
   "Name": "Gut Hötzing",
   "Öffnungszeiten": "folgt",
   "Straße": "Hötzing 1",
@@ -64545,7 +64545,7 @@ module.exports = [{
   "Distanz": 52.0
 }, {
   "id": 88,
-  "coords": [49.03606, 11.47248],
+  "coords": [11.47248, 49.03606],
   "Name": "Brauereigasthof Schattenhofer",
   "Öffnungszeiten": "folgt",
   "Straße": "Hauptstraße 44",
@@ -64559,7 +64559,7 @@ module.exports = [{
   "Distanz": 53.0
 }, {
   "id": 89,
-  "coords": [49.422226, 12.137397],
+  "coords": [12.137397, 49.422226],
   "Name": "Gasthof Bodensteiner",
   "Öffnungszeiten": "folgt",
   "Straße": "Hauptstraße 25",
@@ -64573,7 +64573,7 @@ module.exports = [{
   "Distanz": 54.0
 }, {
   "id": 90,
-  "coords": [49.349147, 12.382126],
+  "coords": [12.382126, 49.349147],
   "Name": "Gasthof Sporrer",
   "Öffnungszeiten": "folgt",
   "Straße": "Jobplatz 9",
@@ -64587,7 +64587,7 @@ module.exports = [{
   "Distanz": 55.0
 }, {
   "id": 91,
-  "coords": [49.403598, 12.03615],
+  "coords": [12.03615, 49.403598],
   "Name": "Hotel Wolfringmühle",
   "Öffnungszeiten": "folgt",
   "Straße": "Wolfringmühle 3",
@@ -64601,7 +64601,7 @@ module.exports = [{
   "Distanz": 56.0
 }, {
   "id": 92,
-  "coords": [49.38919, 11.90686],
+  "coords": [11.90686, 49.38919],
   "Name": "Radl Bahnhof",
   "Öffnungszeiten": "folgt",
   "Straße": "Stromerstraße 4",
@@ -64615,7 +64615,7 @@ module.exports = [{
   "Distanz": 56.0
 }, {
   "id": 93,
-  "coords": [48.641485, 11.790065],
+  "coords": [11.790065, 48.641485],
   "Name": "Ziegler-Bräu",
   "Öffnungszeiten": "folgt",
   "Straße": "Scharfstrasse 22",
@@ -64629,7 +64629,7 @@ module.exports = [{
   "Distanz": 56.0
 }, {
   "id": 94,
-  "coords": [49.334525, 12.441592],
+  "coords": [12.441592, 49.334525],
   "Name": "Panorama-Hotel am See",
   "Öffnungszeiten": "Mo. bis Fr. von 6.30 bis 20.00 Uhr, Sa. und Feiertag von 7.30 bis 20.00 Uhr (im Innenbereich jeweils bis 22.00 Uhr), So. Ruhetag",
   "Straße": "Gütenland 22",
@@ -64643,7 +64643,7 @@ module.exports = [{
   "Distanz": 59.0
 }, {
   "id": 95,
-  "coords": [49.018032, 12.029495],
+  "coords": [12.029495, 49.018032],
   "Name": "Gasthof Krieger",
   "Öffnungszeiten": "folgt",
   "Straße": "Heerbergstraße 3",
@@ -64657,7 +64657,7 @@ module.exports = [{
   "Distanz": 6.0
 }, {
   "id": 96,
-  "coords": [49.007715, 12.027377],
+  "coords": [12.027377, 49.007715],
   "Name": "Gasthaus Haubner",
   "Öffnungszeiten": "folgt",
   "Straße": "Mariaorter Str. 17",
@@ -64671,7 +64671,7 @@ module.exports = [{
   "Distanz": 6.0
 }, {
   "id": 97,
-  "coords": [49.220634, 12.666407],
+  "coords": [12.666407, 49.220634],
   "Name": "Biergarten auf der Schanze",
   "Öffnungszeiten": "Mo. bis Fr. 11.00 bis 20.00 Uhr, Sa. 16.00 bis 20.00 Uhr, So. 11.00 bis 20.00 Uhr.",
   "Straße": "Auf der Schanze 20",
@@ -64685,7 +64685,7 @@ module.exports = [{
   "Distanz": 60.0
 }, {
   "id": 98,
-  "coords": [49.217438, 12.66968],
+  "coords": [12.66968, 49.217438],
   "Name": "d'Wasserwirtschaft",
   "Öffnungszeiten": "Mo. Bis Sa. von 11.00 bis 20.00 Uhr, So. und Feiertage von 10.00 bis 20.00 Uhr",
   "Straße": "Oberer Regenanger 3",
@@ -64699,7 +64699,7 @@ module.exports = [{
   "Distanz": 60.0
 }, {
   "id": 99,
-  "coords": [49.453799, 12.181081],
+  "coords": [12.181081, 49.453799],
   "Name": "Gasthof zum Stern",
   "Öffnungszeiten": "folgt",
   "Straße": "Oberer Markt 6",
@@ -64713,7 +64713,7 @@ module.exports = [{
   "Distanz": 60.0
 }, {
   "id": 100,
-  "coords": [49.106619, 11.439749],
+  "coords": [11.439749, 49.106619],
   "Name": "Brauerei-Gasthof Winkler",
   "Öffnungszeiten": "folgt",
   "Straße": "Reichenauplatz 21-23",
@@ -64727,7 +64727,7 @@ module.exports = [{
   "Distanz": 61.0
 }, {
   "id": 101,
-  "coords": [49.418683, 11.878855],
+  "coords": [11.878855, 49.418683],
   "Name": "Gasthof zur Post",
   "Öffnungszeiten": "Di. bis Sa. von 16.00 bis 20.00 Uhr, So. und feiertags von 11.30 bis 20.00 Uhr",
   "Straße": "Vilstalstraße 82",
@@ -64741,7 +64741,7 @@ module.exports = [{
   "Distanz": 61.0
 }, {
   "id": 102,
-  "coords": [49.404461, 12.281619],
+  "coords": [12.281619, 49.404461],
   "Name": "Gasthaus Sorgenfrei",
   "Öffnungszeiten": "Mo. bis Mi. + Fr. 18.00 bis 22.00 Uhr, So. 09.00 bis 20.00 Uhr. Do. Ruhetag; Nur mit vorheriger Reservierung!",
   "Straße": "Neunburger Straße 10",
@@ -64755,7 +64755,7 @@ module.exports = [{
   "Distanz": 62.0
 }, {
   "id": 103,
-  "coords": [49.444566, 11.857098],
+  "coords": [11.857098, 49.444566],
   "Name": "Rußwurmhaus",
   "Öffnungszeiten": "folgt",
   "Straße": "Eichenforstgäßchen 14",
@@ -64769,7 +64769,7 @@ module.exports = [{
   "Distanz": 64.0
 }, {
   "id": 104,
-  "coords": [49.44508, 11.85894],
+  "coords": [11.85894, 49.44508],
   "Name": "Schloderer Bräu",
   "Öffnungszeiten": "Mo. bis So. 09.00 bis 20.00 Uhr (Im Innenbereich bis 22.00 Uhr)",
   "Straße": "Rathausstraße 4",
@@ -64783,7 +64783,7 @@ module.exports = [{
   "Distanz": 65.0
 }, {
   "id": 105,
-  "coords": [49.444697, 11.861631],
+  "coords": [11.861631, 49.444697],
   "Name": "Winkler Bräuwirt",
   "Öffnungszeiten": "folgt",
   "Straße": "Untere Nabburger Straße 34",
@@ -64797,7 +64797,7 @@ module.exports = [{
   "Distanz": 65.0
 }, {
   "id": 106,
-  "coords": [49.444274, 11.873019],
+  "coords": [11.873019, 49.444274],
   "Name": "Zum Kummert Bräu",
   "Öffnungszeiten": "folgt",
   "Straße": "Raigeringer Straße 11",
@@ -64811,7 +64811,7 @@ module.exports = [{
   "Distanz": 65.0
 }, {
   "id": 107,
-  "coords": [49.275863, 11.460532],
+  "coords": [11.460532, 49.275863],
   "Name": "Gasthaus Kaiser",
   "Öffnungszeiten": "folgt",
   "Straße": "Ingolstädter Straße 6",
@@ -64825,7 +64825,7 @@ module.exports = [{
   "Distanz": 65.0
 }, {
   "id": 108,
-  "coords": [48.876391, 12.775782],
+  "coords": [12.775782, 48.876391],
   "Name": "Restaurant Buchner",
   "Öffnungszeiten": "folgt",
   "Straße": "Freymannstraße 15",
@@ -64839,7 +64839,7 @@ module.exports = [{
   "Distanz": 65.0
 }, {
   "id": 109,
-  "coords": [49.455696, 11.851171],
+  "coords": [11.851171, 49.455696],
   "Name": "s'Wirtshaus im Amberger Garten",
   "Öffnungszeiten": "folgt",
   "Straße": "Bayreuther Straße 20",
@@ -64853,7 +64853,7 @@ module.exports = [{
   "Distanz": 66.0
 }, {
   "id": 110,
-  "coords": [49.367894, 11.661075],
+  "coords": [11.661075, 49.367894],
   "Name": "Gasthaus Zum Schweppermann",
   "Öffnungszeiten": "folgt",
   "Straße": "Amberger Strasse 11",
@@ -64867,7 +64867,7 @@ module.exports = [{
   "Distanz": 66.0
 }, {
   "id": 111,
-  "coords": [49.278847, 11.461817],
+  "coords": [11.461817, 49.278847],
   "Name": "Neumarkter Bräustübl",
   "Öffnungszeiten": "Di. bis Do. + Sa. 16.00 bis 22.00 Uhr, Fr.  12.00 bis 22.00 Uhr, So. 11.00 bis 22.00 Uhr. Küche jeweils bis 21.00 Uhr Mo. Ruhetag.",
   "Straße": "Schwesterhausgasse 9",
@@ -64881,7 +64881,7 @@ module.exports = [{
   "Distanz": 66.0
 }, {
   "id": 112,
-  "coords": [49.277136, 11.459902],
+  "coords": [11.459902, 49.277136],
   "Name": "Oberer Ganskeller",
   "Öffnungszeiten": "Täglich von 9.30 bis 20.00 Uhr (Innenbereich bis 22.00 Uhr)",
   "Straße": "Ringstraße 2",
@@ -64895,7 +64895,7 @@ module.exports = [{
   "Distanz": 66.0
 }, {
   "id": 113,
-  "coords": [49.404517, 11.792942],
+  "coords": [11.792942, 49.404517],
   "Name": "Gasthaus Michl",
   "Öffnungszeiten": "folgt",
   "Straße": "Oberleinsiedl 8",
@@ -64909,7 +64909,7 @@ module.exports = [{
   "Distanz": 66.0
 }, {
   "id": 114,
-  "coords": [49.402145, 11.755755],
+  "coords": [11.755755, 49.402145],
   "Name": "Gasthof Metzgerei Reif",
   "Öffnungszeiten": "folgt",
   "Straße": "Raiffeisenstrasse 6",
@@ -64923,7 +64923,7 @@ module.exports = [{
   "Distanz": 66.0
 }, {
   "id": 115,
-  "coords": [49.458239, 11.896257],
+  "coords": [11.896257, 49.458239],
   "Name": "Brauerei Sterk",
   "Öffnungszeiten": "folgt",
   "Straße": "Hofmark 2",
@@ -64937,7 +64937,7 @@ module.exports = [{
   "Distanz": 67.0
 }, {
   "id": 116,
-  "coords": [49.198857, 12.745296],
+  "coords": [12.745296, 49.198857],
   "Name": "Gasthof Bäckerwirt Chamerau",
   "Öffnungszeiten": "folgt",
   "Straße": "Chamer Straße 5",
@@ -64951,7 +64951,7 @@ module.exports = [{
   "Distanz": 68.0
 }, {
   "id": 117,
-  "coords": [49.051968, 12.045032],
+  "coords": [12.045032, 49.051968],
   "Name": "Gaststätte Huf Tremmelhauserhöhe",
   "Öffnungszeiten": "folgt",
   "Straße": "Karether Weg 3",
@@ -64965,7 +64965,7 @@ module.exports = [{
   "Distanz": 7.0
 }, {
   "id": 118,
-  "coords": [48.9663, 12.167885],
+  "coords": [12.167885, 48.9663],
   "Name": "Gasthof Stocker",
   "Öffnungszeiten": "folgt",
   "Straße": "St.-Georg-Straße 2",
@@ -64979,7 +64979,7 @@ module.exports = [{
   "Distanz": 7.0
 }, {
   "id": 119,
-  "coords": [49.024906, 12.1726],
+  "coords": [12.1726, 49.024906],
   "Name": "Dorfgasthof Federl/Scheck",
   "Öffnungszeiten": "folgt",
   "Straße": "Tegernheimer Kellerstraße 2",
@@ -64993,7 +64993,7 @@ module.exports = [{
   "Distanz": 7.0
 }, {
   "id": 120,
-  "coords": [49.271599, 11.434577],
+  "coords": [11.434577, 49.271599],
   "Name": "Gasthaus zur Au",
   "Öffnungszeiten": "folgt",
   "Straße": "Hochstraße 19",
@@ -65007,7 +65007,7 @@ module.exports = [{
   "Distanz": 71.0
 }, {
   "id": 121,
-  "coords": [49.491113, 11.820303],
+  "coords": [11.820303, 49.491113],
   "Name": "Gasthaus Kopf",
   "Öffnungszeiten": "folgt",
   "Straße": "Altmannshof 66",
@@ -65021,7 +65021,7 @@ module.exports = [{
   "Distanz": 71.0
 }, {
   "id": 122,
-  "coords": [49.25112, 11.40269],
+  "coords": [11.40269, 49.25112],
   "Name": "Berngauer Hof",
   "Öffnungszeiten": "folgt",
   "Straße": "Neumarkter Straße 20",
@@ -65035,7 +65035,7 @@ module.exports = [{
   "Distanz": 72.0
 }, {
   "id": 123,
-  "coords": [49.52108, 11.80822],
+  "coords": [11.80822, 49.52108],
   "Name": "Biergarten beim Petern",
   "Öffnungszeiten": "folgt",
   "Straße": "Kümmersbuch 9",
@@ -65049,7 +65049,7 @@ module.exports = [{
   "Distanz": 75.0
 }, {
   "id": 124,
-  "coords": [49.170734, 12.856072],
+  "coords": [12.856072, 49.170734],
   "Name": "Lindner-Bräu",
   "Öffnungszeiten": "folgt",
   "Straße": "Weißenregener Straße 4",
@@ -65063,7 +65063,7 @@ module.exports = [{
   "Distanz": 77.0
 }, {
   "id": 125,
-  "coords": [49.16464, 12.844784],
+  "coords": [12.844784, 49.16464],
   "Name": "Zur Klause",
   "Öffnungszeiten": "folgt",
   "Straße": "Weißenregen 72",
@@ -65077,7 +65077,7 @@ module.exports = [{
   "Distanz": 77.0
 }, {
   "id": 126,
-  "coords": [49.461061, 12.419795],
+  "coords": [12.419795, 49.461061],
   "Name": "Cafe Deyerl",
   "Öffnungszeiten": "folgt",
   "Straße": "Am Markplatz 24",
@@ -65091,7 +65091,7 @@ module.exports = [{
   "Distanz": 77.0
 }, {
   "id": 127,
-  "coords": [49.54489, 11.949485],
+  "coords": [11.949485, 49.54489],
   "Name": "Schlosshotel Hirschau",
   "Öffnungszeiten": "folgt",
   "Straße": "Hauptstraße 1",
@@ -65105,7 +65105,7 @@ module.exports = [{
   "Distanz": 78.0
 }, {
   "id": 128,
-  "coords": [49.530328, 12.324603],
+  "coords": [12.324603, 49.530328],
   "Name": "Binnenschreiner",
   "Öffnungszeiten": "folgt",
   "Straße": "Kaufnitzweg 2",
@@ -65119,7 +65119,7 @@ module.exports = [{
   "Distanz": 78.0
 }, {
   "id": 129,
-  "coords": [49.531572, 12.325227],
+  "coords": [12.325227, 49.531572],
   "Name": "Biergarten im Sporthotel zur Post",
   "Öffnungszeiten": "folgt",
   "Straße": "Marktplatz 25",
@@ -65133,7 +65133,7 @@ module.exports = [{
   "Distanz": 78.0
 }, {
   "id": 130,
-  "coords": [48.974485, 12.035801],
+  "coords": [12.035801, 48.974485],
   "Name": "Zur Walba",
   "Öffnungszeiten": "folgt",
   "Straße": "Unterirading 1",
@@ -65147,7 +65147,7 @@ module.exports = [{
   "Distanz": 8.0
 }, {
   "id": 131,
-  "coords": [49.310903, 12.836203],
+  "coords": [12.836203, 49.310903],
   "Name": "Gasthof Fellner",
   "Öffnungszeiten": "folgt",
   "Straße": "Glaserstraße 8",
@@ -65161,7 +65161,7 @@ module.exports = [{
   "Distanz": 80.0
 }, {
   "id": 132,
-  "coords": [49.0286, 12.206612],
+  "coords": [12.206612, 49.0286],
   "Name": "Forsters Posthotel",
   "Öffnungszeiten": "Täglich 11.00 bis 14.00 Uhr sowie 17.30 bis 21.30 Uhr.",
   "Straße": "Maxstraße 43",
@@ -65175,7 +65175,7 @@ module.exports = [{
   "Distanz": 9.0
 }, {
   "id": 133,
-  "coords": [48.99389, 12.195125],
+  "coords": [12.195125, 48.99389],
   "Name": "Ratskeller Neutraubling",
   "Öffnungszeiten": "folgt",
   "Straße": "Regensburger Straße 11",
@@ -65189,7 +65189,7 @@ module.exports = [{
   "Distanz": 9.0
 }, {
   "id": 134,
-  "coords": [49.04269, 12.01622],
+  "coords": [12.01622, 49.04269],
   "Name": "Prösslbräu Adlersberg",
   "Öffnungszeiten": "Di. bis So. 08.00 bis 20.00 Uhr, Mo. Ruhetag.",
   "Straße": "Dominikanerinnenstraße 2-3",
@@ -65203,7 +65203,7 @@ module.exports = [{
   "Distanz": 9.0
 }, {
   "id": 135,
-  "coords": [48.986399, 12.012992],
+  "coords": [12.012992, 48.986399],
   "Name": "Der Grieche",
   "Öffnungszeiten": "folgt",
   "Straße": "Bruckdorf 7",
@@ -65217,7 +65217,7 @@ module.exports = [{
   "Distanz": 9.0
 }, {
   "id": 136,
-  "coords": [49.52201, 11.571],
+  "coords": [11.571, 49.52201],
   "Name": "Landgasthof Peterhof",
   "Öffnungszeiten": "Mo. und Di. Ruhetag, Mi. bis Fr. 09.00 bis 14.00 Uhr und 17.30 bis 20.00 Uhr, Sa., So. und Feiertage 09.00 bis 20.00 Uhr.",
   "Straße": "Lehendorf 21",
@@ -65531,7 +65531,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "59303" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "59677" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};

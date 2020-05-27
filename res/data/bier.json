@@ -2,8 +2,8 @@
   {
     "id": 1,
     "coords": [
-      49.018642,
-      12.099273
+      12.099273,
+      49.018642
     ],
     "Name": "Weltenburger am Dom",
     "Öffnungszeiten": "Mo. Bis Fr. von 11.00 bis 14.00 Uhr und von 17.00 bis 22.00 Uhr, Sa., So. und Feiertage von 11.00 bis 22.00 Uhr",
@@ -20,8 +20,8 @@
   {
     "id": 2,
     "coords": [
-      49.017884,
-      12.095254
+      12.095254,
+      49.017884
     ],
     "Name": "Hacker-Pschorr Wirtshaus",
     "Öffnungszeiten": "täglich 11.00 bis 20.00 Uhr.",
@@ -38,8 +38,8 @@
   {
     "id": 3,
     "coords": [
-      49.007277,
-      12.100024
+      12.100024,
+      49.007277
     ],
     "Name": "Kneitinger Keller",
     "Öffnungszeiten": "Täglich 09.00 bis 20.00 Uhr.",
@@ -56,8 +56,8 @@
   {
     "id": 4,
     "coords": [
-      49.022899,
-      12.09594
+      12.09594,
+      49.022899
     ],
     "Name": "Alte Linde",
     "Öffnungszeiten": "Täglich 11.00 bis 20.00 Uhr (Innenbereich bis 22.00 Uhr)",
@@ -74,8 +74,8 @@
   {
     "id": 5,
     "coords": [
-      49.024165,
-      12.096097
+      12.096097,
+      49.024165
     ],
     "Name": "Gaststätte Spitalgarten",
     "Öffnungszeiten": "Täglich 11.00 bis 20.00 Uhr (Innenbereich bis 22.00 Uhr)",
@@ -92,8 +92,8 @@
   {
     "id": 6,
     "coords": [
-      49.019789,
-      12.085884
+      12.085884,
+      49.019789
     ],
     "Name": "Kreuzschänke",
     "Öffnungszeiten": "folgt",
@@ -110,8 +110,8 @@
   {
     "id": 7,
     "coords": [
-      49.023011,
-      12.091012
+      12.091012,
+      49.023011
     ],
     "Name": "Die Oma in da Antn",
     "Öffnungszeiten": "Bei schönem Wetter: täglich von 12.00 bis 20.00 Uhr ",
@@ -128,8 +128,8 @@
   {
     "id": 8,
     "coords": [
-      48.949161,
-      12.110482
+      12.110482,
+      48.949161
     ],
     "Name": "Höhenhof zum Schützenwirt",
     "Öffnungszeiten": "Mi. bis Fr. von 16.00 bis 20.00 Uhr (Innenraum bis 22.00 Uhr), Sa. von 11.00-20.00 Uhr (Innenraum bis 22.00 Uhr), So. und Feiertage von 11.00 bis 20.00 (Innenraum bis 21.30 Uhr), Mo. Und Di. Ruhetage",
@@ -146,8 +146,8 @@
   {
     "id": 9,
     "coords": [
-      48.965511,
-      12.00723
+      12.00723,
+      48.965511
     ],
     "Name": "Zunftstüberl",
     "Öffnungszeiten": "Täglich von 10.30 bis 20.00 Uhr",
@@ -164,8 +164,8 @@
   {
     "id": 10,
     "coords": [
-      49.00471,
-      11.97484
+      11.97484,
+      49.00471
     ],
     "Name": "Gaststätte Röhrl",
     "Öffnungszeiten": "Mo. und Mi. bis Fr. von 16 bis 20.00 Uhr (Innenraum bis 22.00 Uhr), Sa., So. und Feiertage von 11 Uhr bis 20.00 Uhr (Innenraum bis 22.00 Uhr), Di. Ruhetag",
@@ -182,8 +182,8 @@
   {
     "id": 11,
     "coords": [
-      48.93653,
-      12.04017
+      12.04017,
+      48.93653
     ],
     "Name": "Gasthaus Zirngibl",
     "Öffnungszeiten": "Mo. und Di. Ruhetag, Mi. bis So. 11.00 bis 20.00 Uhr.",
@@ -200,8 +200,8 @@
   {
     "id": 12,
     "coords": [
-      49.015991,
-      12.231944
+      12.231944,
+      49.015991
     ],
     "Name": "Landgasthof Geser",
     "Öffnungszeiten": "Mo. bis Sa. 06.30 bis 13.00 Uhr und 17.00 bis 20.00 Uhr, So. 07.30 bis 20.00 Uhr, Di. Ruhetag.",
@@ -218,8 +218,8 @@
   {
     "id": 13,
     "coords": [
-      49.031001,
-      12.215804
+      12.215804,
+      49.031001
     ],
     "Name": "Historisches Armen Spital",
     "Öffnungszeiten": "Mo. bis Fr. von 14.00 bis 20.00 Uhr, Sa. und So. von 11.00 bis 20.00 Uhr.",
@@ -236,8 +236,8 @@
   {
     "id": 14,
     "coords": [
-      48.948025,
-      12.017201
+      12.017201,
+      48.948025
     ],
     "Name": "Brauereigasthof Berghammer",
     "Öffnungszeiten": "täglich von 11.00 bis 20.00 Uhr (im Innenbereich bis 22.00 Uhr), Di. ist Ruhetag",
@@ -254,8 +254,8 @@
   {
     "id": 15,
     "coords": [
-      49.043031,
-      11.967784
+      11.967784,
+      49.043031
     ],
     "Name": "Landgasthof Spitzauer",
     "Öffnungszeiten": "Di. bis So. 11.00 bis 21.30 Uhr, Mo. Ruhetag.",
@@ -272,8 +272,8 @@
   {
     "id": 16,
     "coords": [
-      49.038292,
-      12.253134
+      12.253134,
+      49.038292
     ],
     "Name": "Landgasthof Hammermühle",
     "Öffnungszeiten": "Täglich von 11.30 bis 20.00 Uhr (ab 2.6. bis 22.00 Uhr), Mi. Ruhetag.",
@@ -290,8 +290,8 @@
   {
     "id": 17,
     "coords": [
-      48.952549,
-      11.986723
+      11.986723,
+      48.952549
     ],
     "Name": "Landgasthof Perzl",
     "Öffnungszeiten": "folgt",
@@ -308,8 +308,8 @@
   {
     "id": 18,
     "coords": [
-      48.983718,
-      12.254045
+      12.254045,
+      48.983718
     ],
     "Name": "Alte Schule",
     "Öffnungszeiten": "folgt",
@@ -326,8 +326,8 @@
   {
     "id": 19,
     "coords": [
-      48.945462,
-      12.003436
+      12.003436,
+      48.945462
     ],
     "Name": "Gasthof Kellner",
     "Öffnungszeiten": "Mo. bis So. 10.00 bis 22.00 Uhr, Mi. Ruhetag.",
@@ -344,8 +344,8 @@
   {
     "id": 20,
     "coords": [
-      49.045215,
-      11.901685
+      11.901685,
+      49.045215
     ],
     "Name": "Münchsmühle",
     "Öffnungszeiten": "Mi. bis Fr. 15.00 bis 20.00 Uhr, Sa. 13.00 bis 20.00 Uhr, So und Feiertage 10.00 bis 20.00 Uhr. Mo. und Di. Ruhetag.",
@@ -362,8 +362,8 @@
   {
     "id": 21,
     "coords": [
-      49.116609,
-      12.065268
+      12.065268,
+      49.116609
     ],
     "Name": "Gasthaus Spanner",
     "Öffnungszeiten": "folgt",
@@ -380,8 +380,8 @@
   {
     "id": 22,
     "coords": [
-      49.072866,
-      11.957829
+      11.957829,
+      49.072866
     ],
     "Name": "Klosterwirtschaft",
     "Öffnungszeiten": "Mi. bis Sa. 11.00 bis 20.00 Uhr, So. 09.00 bis 20.00 Uhr, Mo. Und Di. Ruhetag",
@@ -398,8 +398,8 @@
   {
     "id": 23,
     "coords": [
-      49.126142,
-      12.12884
+      12.12884,
+      49.126142
     ],
     "Name": "Metzgerwirt Regenstauf",
     "Öffnungszeiten": "folgt",
@@ -416,8 +416,8 @@
   {
     "id": 24,
     "coords": [
-      49.119346,
-      12.05139
+      12.05139,
+      49.119346
     ],
     "Name": "Alte Hofmark",
     "Öffnungszeiten": "folgt",
@@ -434,8 +434,8 @@
   {
     "id": 25,
     "coords": [
-      49.021231,
-      12.302001
+      12.302001,
+      49.021231
     ],
     "Name": "Bacherer Landgasthof",
     "Öffnungszeiten": "Täglich ab 10.00 Uhr.",
@@ -452,8 +452,8 @@
   {
     "id": 26,
     "coords": [
-      49.117472,
-      12.040906
+      12.040906,
+      49.117472
     ],
     "Name": "Waldschänke Pilz",
     "Öffnungszeiten": "Mo. und Fr. von 15.00 bis 20.00 Uhr, Sa. von 13.00 bis 20.00 Uhr, So. und Feiertage von 10.00 bis 20.00 Uhr",
@@ -470,8 +470,8 @@
   {
     "id": 27,
     "coords": [
-      48.924266,
-      12.28756
+      12.28756,
+      48.924266
     ],
     "Name": "Gasthaus zum Goldenen Krug",
     "Öffnungszeiten": "Mo. und Di. Ruhetag, Mi. bis Sa. von 17.00 bis 20.00 Uhr, So. von 11.30 bis 20.00 Uhr",
@@ -488,8 +488,8 @@
   {
     "id": 28,
     "coords": [
-      49.023164,
-      12.089143
+      12.089143,
+      49.023164
     ],
     "Name": "Zum Sorgenfrei",
     "Öffnungszeiten": "Mo., Di. und Do. von 16.00 bis 22.00 Uhr, Fr. bis So. von 11:00 Uhr bis 22.00 Uhr, Mi. Ruhetag.",
@@ -506,8 +506,8 @@
   {
     "id": 29,
     "coords": [
-      49.030124,
-      12.10129
+      12.10129,
+      49.030124
     ],
     "Name": "Auerbräu",
     "Öffnungszeiten": "täglich von 12.00 bis 20.00 Uhr (Innenbereich bis 22.00 Uhr)",
@@ -524,8 +524,8 @@
   {
     "id": 30,
     "coords": [
-      49.013808,
-      12.074189
+      12.074189,
+      49.013808
     ],
     "Name": "Bischofshof Braustuben",
     "Öffnungszeiten": "folgt",
@@ -542,8 +542,8 @@
   {
     "id": 31,
     "coords": [
-      48.998831,
-      12.078202
+      12.078202,
+      48.998831
     ],
     "Name": "Kneitinger's Hubertushöhe",
     "Öffnungszeiten": "Täglich bei schönem Wetter 12.00 bis 20.00 Uhr (ab 2.6. bis 22.00 Uhr)",
@@ -560,8 +560,8 @@
   {
     "id": 32,
     "coords": [
-      49.029315,
-      12.095368
+      12.095368,
+      49.029315
     ],
     "Name": "Spitalkeller Regensburg",
     "Öffnungszeiten": "Di. bis Fr. 16.00 bis 20.00 Uhr, Sa. und So. und Feiertage 10.00 bis 20.00 Uhr.",
@@ -578,8 +578,8 @@
   {
     "id": 33,
     "coords": [
-      49.156037,
-      12.141861
+      12.141861,
+      49.156037
     ],
     "Name": "Ramspauer Hof",
     "Öffnungszeiten": "Mo. Ruhetag, Di. bis So. 12.00 bis 22.00 Uhr.",
@@ -596,8 +596,8 @@
   {
     "id": 34,
     "coords": [
-      49.164062,
-      12.098587
+      12.098587,
+      49.164062
     ],
     "Name": "Einkehr zur Alten Post",
     "Öffnungszeiten": "Mo., Do. bis So. 17.30 bis 20.00 Uhr (Innenraum bis 22.00 Uhr), So. und feiertags zusätzlich 11.30 bis 14.00 Uhr, Di. und Mi. Ruhetag",
@@ -614,8 +614,8 @@
   {
     "id": 35,
     "coords": [
-      49.15116,
-      12.174894
+      12.174894,
+      49.15116
     ],
     "Name": "Landgasthof Lautenschlager",
     "Öffnungszeiten": "Mi. und Fr. und Sa. von 11.30 bis 14.00 Uhr und 17.00 bis 20.00 Uhr",
@@ -632,8 +632,8 @@
   {
     "id": 36,
     "coords": [
-      49.123578,
-      11.93951
+      11.93951,
+      49.123578
     ],
     "Name": "Schloßwirtschaft Heitzenhofen",
     "Öffnungszeiten": "folgt",
@@ -650,8 +650,8 @@
   {
     "id": 37,
     "coords": [
-      49.145891,
-      11.952804
+      11.952804,
+      49.145891
     ],
     "Name": "Landgasthof zum Birnthaler",
     "Öffnungszeiten": "Do. bis Mo. Von 9.00 bis 22.00 Uhr, Di. und Mi. Ruhetag",
@@ -668,8 +668,8 @@
   {
     "id": 38,
     "coords": [
-      49.182953,
-      12.115557
+      12.115557,
+      49.182953
     ],
     "Name": "St. Clemenshaus",
     "Öffnungszeiten": "Mo., Mi. und Fr. 17.00 bis 22.00 Uhr, So. 10.00 bis 21.00 Uhr, Di., Do. und Sa. Ruhetag",
@@ -686,8 +686,8 @@
   {
     "id": 39,
     "coords": [
-      48.845318,
-      11.986101
+      11.986101,
+      48.845318
     ],
     "Name": "Stanglbräu",
     "Öffnungszeiten": "Bei schönem Wetter: täglich von 16.00 bis 20.00 Uhr; Reservierung erforderlich",
@@ -704,8 +704,8 @@
   {
     "id": 40,
     "coords": [
-      49.162103,
-      11.950309
+      11.950309,
+      49.162103
     ],
     "Name": "Gasthof zur roten Amsel ",
     "Öffnungszeiten": "momentan geschlossen",
@@ -722,8 +722,8 @@
   {
     "id": 41,
     "coords": [
-      49.160967,
-      11.956277
+      11.956277,
+      49.160967
     ],
     "Name": "Zum weißen Rößl",
     "Öffnungszeiten": "Täglich von 11.00 bis 14.00 Uhr und 17.00 bis 20.00 Uhr (Innenbereich jeweils bis 22.00 Uhr), Di. Ruhetag",
@@ -740,8 +740,8 @@
   {
     "id": 42,
     "coords": [
-      48.906756,
-      11.895063
+      11.895063,
+      48.906756
     ],
     "Name": "Donaugarten",
     "Öffnungszeiten": "Mo. Bis Sa. von 16.00 bis 20.00 Uhr (ab 2.6. bis 22.00 Uhr), So. von 10.00 bis 20.00 Uhr (ab 2.6. bis 21.00 Uhr)",
@@ -758,8 +758,8 @@
   {
     "id": 43,
     "coords": [
-      49.184425,
-      12.087431
+      12.087431,
+      49.184425
     ],
     "Name": "Michl's Landgasthof",
     "Öffnungszeiten": "nur auf Anfrage",
@@ -776,8 +776,8 @@
   {
     "id": 44,
     "coords": [
-      48.917243,
-      11.87387
+      11.87387,
+      48.917243
     ],
     "Name": "Weisses Bräuhaus",
     "Öffnungszeiten": "täglich 11.00 bis 22.00 Uhr.",
@@ -794,8 +794,8 @@
   {
     "id": 45,
     "coords": [
-      49.000117,
-      12.399988
+      12.399988,
+      49.000117
     ],
     "Name": "Gasthof Butz",
     "Öffnungszeiten": "Di. bis So. 09.00 bis 22.00 Uhr. Mo. Ruhetag.",
@@ -812,8 +812,8 @@
   {
     "id": 46,
     "coords": [
-      48.910553,
-      11.851708
+      11.851708,
+      48.910553
     ],
     "Name": "Einsiedelei Klösterl ",
     "Öffnungszeiten": "voraussichtlich bis Ende Juni geschlossen",
@@ -830,8 +830,8 @@
   {
     "id": 47,
     "coords": [
-      49.085713,
-      11.812462
+      11.812462,
+      49.085713
     ],
     "Name": "Landgasthof Friesenmühle",
     "Öffnungszeiten": "Täglich von 8.30 bis 20.00 Uhr, Mi. Ruhetag.",
@@ -848,8 +848,8 @@
   {
     "id": 48,
     "coords": [
-      49.13757,
-      11.867397
+      11.867397,
+      49.13757
     ],
     "Name": "Landgasthof Rechberger Hof",
     "Öffnungszeiten": "Mo. ab 17.00 Uhr, Mi. bis So. 10.00 bis 23.00 Uhr, Di. Ruhetag.",
@@ -866,8 +866,8 @@
   {
     "id": 49,
     "coords": [
-      49.01533,
-      12.0657
+      12.0657,
+      49.01533
     ],
     "Name": "Katharinenhof",
     "Öffnungszeiten": "Mo., Mi. bis So. von 17.30 Uhr bis 20.00 Uhr (Innenbereich bis 22.00 Uhr), So. und Feiertage von 11.00 bis 13.30 Uhr, Di. Ruhetag",
@@ -884,8 +884,8 @@
   {
     "id": 50,
     "coords": [
-      49.071553,
-      12.395776
+      12.395776,
+      49.071553
     ],
     "Name": "Hirschbergers Holzofenkuchl",
     "Öffnungszeiten": "Mo. und Di. Ruhetag (außer Feiertage), Mi. und Do. von 17.00 bis 20.00 Uhr (ab 2.6. bis 22.00 Uhr), Fr. bis So. 11.00 bis 20.00 Uhr (ab 2.6. bis 22.00 Uhr)",
@@ -902,8 +902,8 @@
   {
     "id": 51,
     "coords": [
-      48.937518,
-      11.791146
+      11.791146,
+      48.937518
     ],
     "Name": "Ritterschänke Burg Randeck",
     "Öffnungszeiten": "Täglich von 8.00 bis 22.00 Uhr",
@@ -920,8 +920,8 @@
   {
     "id": 52,
     "coords": [
-      49.197734,
-      12.27247
+      12.27247,
+      49.197734
     ],
     "Name": "Brauereigasthof Jakob Nittenau",
     "Öffnungszeiten": "Täglich von 11.00 bis 14.00 Uhr und 17.00 bis 22.00 Uhr, Mi. Ruhetag.",
@@ -938,8 +938,8 @@
   {
     "id": 53,
     "coords": [
-      49.19753,
-      12.27342
+      12.27342,
+      49.19753
     ],
     "Name": "Hotel-Gaststätte Ludwig Pirzer",
     "Öffnungszeiten": "An sonnigen Tagen von 16.00 Uhr bis 20.00 Uhr (ab 2.6. bis 22.00 Uhr) ",
@@ -956,8 +956,8 @@
   {
     "id": 54,
     "coords": [
-      48.898832,
-      11.819579
+      11.819579,
+      48.898832
     ],
     "Name": "Klosterschenke Weltenburg",
     "Öffnungszeiten": "täglich 09.30 bis 19.00 Uhr.",
@@ -974,8 +974,8 @@
   {
     "id": 55,
     "coords": [
-      48.935422,
-      11.788669
+      11.788669,
+      48.935422
     ],
     "Name": "Brauereigasthof Schneider",
     "Öffnungszeiten": "täglich 10.00 bis 22.00 Uhr. AB 1.6. : Mo. Ab 16.00 Uhr, Di. bis So. von 8.00 bis 23.00 Uhr",
@@ -992,8 +992,8 @@
   {
     "id": 56,
     "coords": [
-      48.815561,
-      11.84704
+      11.84704,
+      48.815561
     ],
     "Name": "Jungbräu",
     "Öffnungszeiten": "Täglich bei schönem Wetter von 11.00 bis 15.00 Uhr und von 18.00 bis 22.00 Uhr",
@@ -1010,8 +1010,8 @@
   {
     "id": 57,
     "coords": [
-      48.816846,
-      11.841879
+      11.841879,
+      48.816846
     ],
     "Name": "Kuchlbauer's Bierwelt",
     "Öffnungszeiten": "Mo. bis Sa. 11.00 bis 20.00 Uhr, So. und Feiertage 10.00 bis 20.00 Uhr.",
@@ -1028,8 +1028,8 @@
   {
     "id": 58,
     "coords": [
-      48.817045,
-      11.839638
+      11.839638,
+      48.817045
     ],
     "Name": "Wirtshaus beim Lauberger",
     "Öffnungszeiten": "Di. bis Fr. von 17.00 bis 20.00 Uhr, Sa. von 15.00 bis 20.00 Uhr, So. und Feiertage von 11.00 bis 20.00 Uhr (ab 2.6. bis 22.00 Uhr), Mo. Ruhetag",
@@ -1046,8 +1046,8 @@
   {
     "id": 59,
     "coords": [
-      48.940103,
-      11.778231
+      11.778231,
+      48.940103
     ],
     "Name": "Essinger Hof",
     "Öffnungszeiten": "folgt",
@@ -1064,8 +1064,8 @@
   {
     "id": 60,
     "coords": [
-      48.942419,
-      11.754688
+      11.754688,
+      48.942419
     ],
     "Name": "Kastlhof",
     "Öffnungszeiten": "folgt",
@@ -1082,8 +1082,8 @@
   {
     "id": 61,
     "coords": [
-      48.926032,
-      11.801699
+      11.801699,
+      48.926032
     ],
     "Name": "Gasthof Ehrl",
     "Öffnungszeiten": "Täglich von 8.00 bis 20.00 Uhr (ab 2.6. bis 22.00 Uhr)",
@@ -1100,8 +1100,8 @@
   {
     "id": 62,
     "coords": [
-      48.769214,
-      11.965848
+      11.965848,
+      48.769214
     ],
     "Name": "Gasthof Sixt",
     "Öffnungszeiten": "folgt",
@@ -1118,8 +1118,8 @@
   {
     "id": 63,
     "coords": [
-      49.277901,
-      12.077465
+      12.077465,
+      49.277901
     ],
     "Name": "Brauereigasthof Plank",
     "Öffnungszeiten": "Mo. und Di. Ruhetag (Ausnahme Feiertage), Mi. bis So. 11.00 bis 14.00 Uhr und bei sonnigem Wetter wieder ab 17.00 Uhr",
@@ -1136,8 +1136,8 @@
   {
     "id": 64,
     "coords": [
-      48.857421,
-      11.770559
+      11.770559,
+      48.857421
     ],
     "Name": "An der Fähre",
     "Öffnungszeiten": "Di. bis So. 10.00 bis 20.00 Uhr, Mo. Ruhetag",
@@ -1154,8 +1154,8 @@
   {
     "id": 65,
     "coords": [
-      49.293158,
-      12.068236
+      12.068236,
+      49.293158
     ],
     "Name": "Gaststätte Beer",
     "Öffnungszeiten": "An Sonn- und Feiertagen von 15.00 bis 20.00 Uhr",
@@ -1172,8 +1172,8 @@
   {
     "id": 66,
     "coords": [
-      48.823584,
-      11.778413
+      11.778413,
+      48.823584
     ],
     "Name": "Hotel Eisvogel",
     "Öffnungszeiten": "Mo. bis Fr. 17.00 bis 20.00 Uhr, Sa., So. und Feiertage von 11.00 bis 20.00 Uhr (Im Innenbereich jeweils bis 22.00 Uhr)",
@@ -1190,8 +1190,8 @@
   {
     "id": 67,
     "coords": [
-      48.825207,
-      11.781452
+      11.781452,
+      48.825207
     ],
     "Name": "Röll'n Biergarten",
     "Öffnungszeiten": "Mo. Bis Do. 16.30  bis 20.00 Uhr (ab 2.6. bis 22.00 Uhr",
@@ -1208,8 +1208,8 @@
   {
     "id": 68,
     "coords": [
-      48.987934,
-      12.140891
+      12.140891,
+      48.987934
     ],
     "Name": "Gasthof Parzefall",
     "Öffnungszeiten": "Mo. und Di. von 11.00 bis 22.00 Uhr, Mi. Ruhetag, Do.,Fr, und Sa. 11.00 bis 22.00 Uhr, So. 11.00-22.00 Uhr.",
@@ -1226,8 +1226,8 @@
   {
     "id": 69,
     "coords": [
-      48.808133,
-      11.763819
+      11.763819,
+      48.808133
     ],
     "Name": "Gasthof Gigl",
     "Öffnungszeiten": "Mo. bis Do. 16.30 bis 22.00 Uhr, So. und feiertags 11.00 bis 22.00 Uhr.",
@@ -1244,8 +1244,8 @@
   {
     "id": 70,
     "coords": [
-      49.270674,
-      12.304965
+      12.304965,
+      49.270674
     ],
     "Name": "Brauereigasthof Jacob Bodenwöhr",
     "Öffnungszeiten": "Täglich von 7.00 bis 20.00 Uhr (Innenbereich bis 22.00 Uhr)",
@@ -1262,8 +1262,8 @@
   {
     "id": 71,
     "coords": [
-      48.959273,
-      11.689363
+      11.689363,
+      48.959273
     ],
     "Name": "Fasslwirtschaft",
     "Öffnungszeiten": "Di. bis So. von 11.00 bis 20.00 Uhr, Mo. Ruhetag",
@@ -1280,8 +1280,8 @@
   {
     "id": 72,
     "coords": [
-      49.311041,
-      12.174669
+      12.174669,
+      49.311041
     ],
     "Name": "Rathausstuben",
     "Öffnungszeiten": "Mo. Bis Sa. von 16.30 bis 20.00 Uhr (ab 2.6. bis 22.00 Uhr), So. von 11.00 bis 14.30 Uhr",
@@ -1298,8 +1298,8 @@
   {
     "id": 73,
     "coords": [
-      48.775024,
-      11.79339
+      11.79339,
+      48.775024
     ],
     "Name": "Lenker's Biergarten ",
     "Öffnungszeiten": "heuer geschlossen",
@@ -1316,8 +1316,8 @@
   {
     "id": 74,
     "coords": [
-      49.329351,
-      12.106016
+      12.106016,
+      49.329351
     ],
     "Name": "Färberhaus-Stub'n",
     "Öffnungszeiten": "folgt",
@@ -1334,8 +1334,8 @@
   {
     "id": 75,
     "coords": [
-      49.329383,
-      12.1057
+      12.1057,
+      49.329383
     ],
     "Name": "Hufschmiede",
     "Öffnungszeiten": "Di. bis Sa. 17.00 bis 20.00 Uhr (ab 2.6. bis 22.00 Uhr), Mo. Und So. Ruhetag.",
@@ -1352,8 +1352,8 @@
   {
     "id": 76,
     "coords": [
-      48.709992,
-      12.017862
+      12.017862,
+      48.709992
     ],
     "Name": "Gasthof Forstner",
     "Öffnungszeiten": "Mi. bis Sa. 11.00 bis 14.00 Uhr  So. und Feiertags von 11.00 bis 15.00 Uhr (Biergarten bei schönem Wetter durchgehend geöffnet), Mo. Und Mi. bis Sa. zusätzlich von 17.00 bis 21.00 Uhr, Di. Ruhetag.",
@@ -1370,8 +1370,8 @@
   {
     "id": 77,
     "coords": [
-      49.247895,
-      12.306979
+      12.306979,
+      49.247895
     ],
     "Name": "Bergerwirt",
     "Öffnungszeiten": "folgt",
@@ -1388,8 +1388,8 @@
   {
     "id": 78,
     "coords": [
-      49.19588,
-      12.51498
+      12.51498,
+      49.19588
     ],
     "Name": "Rodinger Reib'm Biergarten",
     "Öffnungszeiten": "Bei Voranmeldung und guter Witterung geöffnet.",
@@ -1406,8 +1406,8 @@
   {
     "id": 79,
     "coords": [
-      49.254569,
-      12.336072
+      12.336072,
+      49.254569
     ],
     "Name": "Landhotel Mappacher Hof",
     "Öffnungszeiten": "folgt",
@@ -1424,8 +1424,8 @@
   {
     "id": 80,
     "coords": [
-      49.305303,
-      11.938127
+      11.938127,
+      49.305303
     ],
     "Name": "Gut Matheshof ",
     "Öffnungszeiten": "vorerst geschlossen",
@@ -1442,8 +1442,8 @@
   {
     "id": 81,
     "coords": [
-      49.322986,
-      11.941811
+      11.941811,
+      49.322986
     ],
     "Name": "Landgasthof zum Bärenwirt",
     "Öffnungszeiten": "folgt",
@@ -1460,8 +1460,8 @@
   {
     "id": 82,
     "coords": [
-      49.187964,
-      11.603454
+      11.603454,
+      49.187964
     ],
     "Name": "Gasthaus Diepold",
     "Öffnungszeiten": "folgt",
@@ -1478,8 +1478,8 @@
   {
     "id": 83,
     "coords": [
-      49.010655,
-      12.034171
+      12.034171,
+      49.010655
     ],
     "Name": "Gasthaus Goldener Hirsch",
     "Öffnungszeiten": "folgt",
@@ -1496,8 +1496,8 @@
   {
     "id": 84,
     "coords": [
-      48.690392,
-      11.804504
+      11.804504,
+      48.690392
     ],
     "Name": "Schlossgarten Ratzenhofen",
     "Öffnungszeiten": "Fr. von 15.00 bis 20.00 Uhr, Sa. von 12.00 bis 20.00 Uhr, So. und Feiertage von 10.00 bis 20.00 Uhr",
@@ -1514,8 +1514,8 @@
   {
     "id": 85,
     "coords": [
-      49.359245,
-      12.254329
+      12.254329,
+      49.359245
     ],
     "Name": "Schiessl-Tafferne",
     "Öffnungszeiten": "folgt",
@@ -1532,8 +1532,8 @@
   {
     "id": 86,
     "coords": [
-      49.229503,
-      12.549096
+      12.549096,
+      49.229503
     ],
     "Name": "Landgasthof Weitzer",
     "Öffnungszeiten": "folgt",
@@ -1550,8 +1550,8 @@
   {
     "id": 87,
     "coords": [
-      49.182276,
-      12.592628
+      12.592628,
+      49.182276
     ],
     "Name": "Gut Hötzing",
     "Öffnungszeiten": "folgt",
@@ -1568,8 +1568,8 @@
   {
     "id": 88,
     "coords": [
-      49.03606,
-      11.47248
+      11.47248,
+      49.03606
     ],
     "Name": "Brauereigasthof Schattenhofer",
     "Öffnungszeiten": "folgt",
@@ -1586,8 +1586,8 @@
   {
     "id": 89,
     "coords": [
-      49.422226,
-      12.137397
+      12.137397,
+      49.422226
     ],
     "Name": "Gasthof Bodensteiner",
     "Öffnungszeiten": "folgt",
@@ -1604,8 +1604,8 @@
   {
     "id": 90,
     "coords": [
-      49.349147,
-      12.382126
+      12.382126,
+      49.349147
     ],
     "Name": "Gasthof Sporrer",
     "Öffnungszeiten": "folgt",
@@ -1622,8 +1622,8 @@
   {
     "id": 91,
     "coords": [
-      49.403598,
-      12.03615
+      12.03615,
+      49.403598
     ],
     "Name": "Hotel Wolfringmühle",
     "Öffnungszeiten": "folgt",
@@ -1640,8 +1640,8 @@
   {
     "id": 92,
     "coords": [
-      49.38919,
-      11.90686
+      11.90686,
+      49.38919
     ],
     "Name": "Radl Bahnhof",
     "Öffnungszeiten": "folgt",
@@ -1658,8 +1658,8 @@
   {
     "id": 93,
     "coords": [
-      48.641485,
-      11.790065
+      11.790065,
+      48.641485
     ],
     "Name": "Ziegler-Bräu",
     "Öffnungszeiten": "folgt",
@@ -1676,8 +1676,8 @@
   {
     "id": 94,
     "coords": [
-      49.334525,
-      12.441592
+      12.441592,
+      49.334525
     ],
     "Name": "Panorama-Hotel am See",
     "Öffnungszeiten": "Mo. bis Fr. von 6.30 bis 20.00 Uhr, Sa. und Feiertag von 7.30 bis 20.00 Uhr (im Innenbereich jeweils bis 22.00 Uhr), So. Ruhetag",
@@ -1694,8 +1694,8 @@
   {
     "id": 95,
     "coords": [
-      49.018032,
-      12.029495
+      12.029495,
+      49.018032
     ],
     "Name": "Gasthof Krieger",
     "Öffnungszeiten": "folgt",
@@ -1712,8 +1712,8 @@
   {
     "id": 96,
     "coords": [
-      49.007715,
-      12.027377
+      12.027377,
+      49.007715
     ],
     "Name": "Gasthaus Haubner",
     "Öffnungszeiten": "folgt",
@@ -1730,8 +1730,8 @@
   {
     "id": 97,
     "coords": [
-      49.220634,
-      12.666407
+      12.666407,
+      49.220634
     ],
     "Name": "Biergarten auf der Schanze",
     "Öffnungszeiten": "Mo. bis Fr. 11.00 bis 20.00 Uhr, Sa. 16.00 bis 20.00 Uhr, So. 11.00 bis 20.00 Uhr.",
@@ -1748,8 +1748,8 @@
   {
     "id": 98,
     "coords": [
-      49.217438,
-      12.66968
+      12.66968,
+      49.217438
     ],
     "Name": "d'Wasserwirtschaft",
     "Öffnungszeiten": "Mo. Bis Sa. von 11.00 bis 20.00 Uhr, So. und Feiertage von 10.00 bis 20.00 Uhr",
@@ -1766,8 +1766,8 @@
   {
     "id": 99,
     "coords": [
-      49.453799,
-      12.181081
+      12.181081,
+      49.453799
     ],
     "Name": "Gasthof zum Stern",
     "Öffnungszeiten": "folgt",
@@ -1784,8 +1784,8 @@
   {
     "id": 100,
     "coords": [
-      49.106619,
-      11.439749
+      11.439749,
+      49.106619
     ],
     "Name": "Brauerei-Gasthof Winkler",
     "Öffnungszeiten": "folgt",
@@ -1802,8 +1802,8 @@
   {
     "id": 101,
     "coords": [
-      49.418683,
-      11.878855
+      11.878855,
+      49.418683
     ],
     "Name": "Gasthof zur Post",
     "Öffnungszeiten": "Di. bis Sa. von 16.00 bis 20.00 Uhr, So. und feiertags von 11.30 bis 20.00 Uhr",
@@ -1820,8 +1820,8 @@
   {
     "id": 102,
     "coords": [
-      49.404461,
-      12.281619
+      12.281619,
+      49.404461
     ],
     "Name": "Gasthaus Sorgenfrei",
     "Öffnungszeiten": "Mo. bis Mi. + Fr. 18.00 bis 22.00 Uhr, So. 09.00 bis 20.00 Uhr. Do. Ruhetag; Nur mit vorheriger Reservierung!",
@@ -1838,8 +1838,8 @@
   {
     "id": 103,
     "coords": [
-      49.444566,
-      11.857098
+      11.857098,
+      49.444566
     ],
     "Name": "Rußwurmhaus",
     "Öffnungszeiten": "folgt",
@@ -1856,8 +1856,8 @@
   {
     "id": 104,
     "coords": [
-      49.44508,
-      11.85894
+      11.85894,
+      49.44508
     ],
     "Name": "Schloderer Bräu",
     "Öffnungszeiten": "Mo. bis So. 09.00 bis 20.00 Uhr (Im Innenbereich bis 22.00 Uhr)",
@@ -1874,8 +1874,8 @@
   {
     "id": 105,
     "coords": [
-      49.444697,
-      11.861631
+      11.861631,
+      49.444697
     ],
     "Name": "Winkler Bräuwirt",
     "Öffnungszeiten": "folgt",
@@ -1892,8 +1892,8 @@
   {
     "id": 106,
     "coords": [
-      49.444274,
-      11.873019
+      11.873019,
+      49.444274
     ],
     "Name": "Zum Kummert Bräu",
     "Öffnungszeiten": "folgt",
@@ -1910,8 +1910,8 @@
   {
     "id": 107,
     "coords": [
-      49.275863,
-      11.460532
+      11.460532,
+      49.275863
     ],
     "Name": "Gasthaus Kaiser",
     "Öffnungszeiten": "folgt",
@@ -1928,8 +1928,8 @@
   {
     "id": 108,
     "coords": [
-      48.876391,
-      12.775782
+      12.775782,
+      48.876391
     ],
     "Name": "Restaurant Buchner",
     "Öffnungszeiten": "folgt",
@@ -1946,8 +1946,8 @@
   {
     "id": 109,
     "coords": [
-      49.455696,
-      11.851171
+      11.851171,
+      49.455696
     ],
     "Name": "s'Wirtshaus im Amberger Garten",
     "Öffnungszeiten": "folgt",
@@ -1964,8 +1964,8 @@
   {
     "id": 110,
     "coords": [
-      49.367894,
-      11.661075
+      11.661075,
+      49.367894
     ],
     "Name": "Gasthaus Zum Schweppermann",
     "Öffnungszeiten": "folgt",
@@ -1982,8 +1982,8 @@
   {
     "id": 111,
     "coords": [
-      49.278847,
-      11.461817
+      11.461817,
+      49.278847
     ],
     "Name": "Neumarkter Bräustübl",
     "Öffnungszeiten": "Di. bis Do. + Sa. 16.00 bis 22.00 Uhr, Fr.  12.00 bis 22.00 Uhr, So. 11.00 bis 22.00 Uhr. Küche jeweils bis 21.00 Uhr Mo. Ruhetag.",
@@ -2000,8 +2000,8 @@
   {
     "id": 112,
     "coords": [
-      49.277136,
-      11.459902
+      11.459902,
+      49.277136
     ],
     "Name": "Oberer Ganskeller",
     "Öffnungszeiten": "Täglich von 9.30 bis 20.00 Uhr (Innenbereich bis 22.00 Uhr)",
@@ -2018,8 +2018,8 @@
   {
     "id": 113,
     "coords": [
-      49.404517,
-      11.792942
+      11.792942,
+      49.404517
     ],
     "Name": "Gasthaus Michl",
     "Öffnungszeiten": "folgt",
@@ -2036,8 +2036,8 @@
   {
     "id": 114,
     "coords": [
-      49.402145,
-      11.755755
+      11.755755,
+      49.402145
     ],
     "Name": "Gasthof Metzgerei Reif",
     "Öffnungszeiten": "folgt",
@@ -2054,8 +2054,8 @@
   {
     "id": 115,
     "coords": [
-      49.458239,
-      11.896257
+      11.896257,
+      49.458239
     ],
     "Name": "Brauerei Sterk",
     "Öffnungszeiten": "folgt",
@@ -2072,8 +2072,8 @@
   {
     "id": 116,
     "coords": [
-      49.198857,
-      12.745296
+      12.745296,
+      49.198857
     ],
     "Name": "Gasthof Bäckerwirt Chamerau",
     "Öffnungszeiten": "folgt",
@@ -2090,8 +2090,8 @@
   {
     "id": 117,
     "coords": [
-      49.051968,
-      12.045032
+      12.045032,
+      49.051968
     ],
     "Name": "Gaststätte Huf Tremmelhauserhöhe",
     "Öffnungszeiten": "folgt",
@@ -2108,8 +2108,8 @@
   {
     "id": 118,
     "coords": [
-      48.9663,
-      12.167885
+      12.167885,
+      48.9663
     ],
     "Name": "Gasthof Stocker",
     "Öffnungszeiten": "folgt",
@@ -2126,8 +2126,8 @@
   {
     "id": 119,
     "coords": [
-      49.024906,
-      12.1726
+      12.1726,
+      49.024906
     ],
     "Name": "Dorfgasthof Federl/Scheck",
     "Öffnungszeiten": "folgt",
@@ -2144,8 +2144,8 @@
   {
     "id": 120,
     "coords": [
-      49.271599,
-      11.434577
+      11.434577,
+      49.271599
     ],
     "Name": "Gasthaus zur Au",
     "Öffnungszeiten": "folgt",
@@ -2162,8 +2162,8 @@
   {
     "id": 121,
     "coords": [
-      49.491113,
-      11.820303
+      11.820303,
+      49.491113
     ],
     "Name": "Gasthaus Kopf",
     "Öffnungszeiten": "folgt",
@@ -2180,8 +2180,8 @@
   {
     "id": 122,
     "coords": [
-      49.25112,
-      11.40269
+      11.40269,
+      49.25112
     ],
     "Name": "Berngauer Hof",
     "Öffnungszeiten": "folgt",
@@ -2198,8 +2198,8 @@
   {
     "id": 123,
     "coords": [
-      49.52108,
-      11.80822
+      11.80822,
+      49.52108
     ],
     "Name": "Biergarten beim Petern",
     "Öffnungszeiten": "folgt",
@@ -2216,8 +2216,8 @@
   {
     "id": 124,
     "coords": [
-      49.170734,
-      12.856072
+      12.856072,
+      49.170734
     ],
     "Name": "Lindner-Bräu",
     "Öffnungszeiten": "folgt",
@@ -2234,8 +2234,8 @@
   {
     "id": 125,
     "coords": [
-      49.16464,
-      12.844784
+      12.844784,
+      49.16464
     ],
     "Name": "Zur Klause",
     "Öffnungszeiten": "folgt",
@@ -2252,8 +2252,8 @@
   {
     "id": 126,
     "coords": [
-      49.461061,
-      12.419795
+      12.419795,
+      49.461061
     ],
     "Name": "Cafe Deyerl",
     "Öffnungszeiten": "folgt",
@@ -2270,8 +2270,8 @@
   {
     "id": 127,
     "coords": [
-      49.54489,
-      11.949485
+      11.949485,
+      49.54489
     ],
     "Name": "Schlosshotel Hirschau",
     "Öffnungszeiten": "folgt",
@@ -2288,8 +2288,8 @@
   {
     "id": 128,
     "coords": [
-      49.530328,
-      12.324603
+      12.324603,
+      49.530328
     ],
     "Name": "Binnenschreiner",
     "Öffnungszeiten": "folgt",
@@ -2306,8 +2306,8 @@
   {
     "id": 129,
     "coords": [
-      49.531572,
-      12.325227
+      12.325227,
+      49.531572
     ],
     "Name": "Biergarten im Sporthotel zur Post",
     "Öffnungszeiten": "folgt",
@@ -2324,8 +2324,8 @@
   {
     "id": 130,
     "coords": [
-      48.974485,
-      12.035801
+      12.035801,
+      48.974485
     ],
     "Name": "Zur Walba",
     "Öffnungszeiten": "folgt",
@@ -2342,8 +2342,8 @@
   {
     "id": 131,
     "coords": [
-      49.310903,
-      12.836203
+      12.836203,
+      49.310903
     ],
     "Name": "Gasthof Fellner",
     "Öffnungszeiten": "folgt",
@@ -2360,8 +2360,8 @@
   {
     "id": 132,
     "coords": [
-      49.0286,
-      12.206612
+      12.206612,
+      49.0286
     ],
     "Name": "Forsters Posthotel",
     "Öffnungszeiten": "Täglich 11.00 bis 14.00 Uhr sowie 17.30 bis 21.30 Uhr.",
@@ -2378,8 +2378,8 @@
   {
     "id": 133,
     "coords": [
-      48.99389,
-      12.195125
+      12.195125,
+      48.99389
     ],
     "Name": "Ratskeller Neutraubling",
     "Öffnungszeiten": "folgt",
@@ -2396,8 +2396,8 @@
   {
     "id": 134,
     "coords": [
-      49.04269,
-      12.01622
+      12.01622,
+      49.04269
     ],
     "Name": "Prösslbräu Adlersberg",
     "Öffnungszeiten": "Di. bis So. 08.00 bis 20.00 Uhr, Mo. Ruhetag.",
@@ -2414,8 +2414,8 @@
   {
     "id": 135,
     "coords": [
-      48.986399,
-      12.012992
+      12.012992,
+      48.986399
     ],
     "Name": "Der Grieche",
     "Öffnungszeiten": "folgt",
@@ -2432,8 +2432,8 @@
   {
     "id": 136,
     "coords": [
-      49.52201,
-      11.571
+      11.571,
+      49.52201
     ],
     "Name": "Landgasthof Peterhof",
     "Öffnungszeiten": "Mo. und Di. Ruhetag, Mi. bis Fr. 09.00 bis 14.00 Uhr und 17.30 bis 20.00 Uhr, Sa., So. und Feiertage 09.00 bis 20.00 Uhr.",
