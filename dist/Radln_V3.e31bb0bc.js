@@ -65350,7 +65350,6 @@ function createPopup(item) {
       popupContainer = document.querySelector("#popup-container"),
       entryNode = document.createElement("div");
 
-  console.log("in createPopup");
   entryNode.innerHTML = newEntry(item); //data[id-1]
 
   popupContainer.innerHTML = "";
@@ -65377,8 +65376,6 @@ function hideBtnWhenNoLinkExists() {
 }
 
 function bindDataToMarker() {
-  console.log("in bindDataToMarker");
-  console.log(this);
   var re = /[0-9]+/,
       id = re.exec(this.id),
       currItem = data[id - 1];
@@ -65402,8 +65399,6 @@ function drawHbfMarker() {
 }
 
 function drawDataMarkers() {
-  console.log("in drawDataMarkers");
-
   for (var i = 0; i < data.length; i++) {
     if (data[i].coords[0] != 0) {
       // only use data with existing coordinates
@@ -65412,7 +65407,6 @@ function drawDataMarkers() {
       markerContainer.appendChild(currMarkerDiv); // marker divs in #hidden-div
 
       var currMarker = getCurrentMarkerOverlay(data[i], i + 1);
-      console.log(currMarker);
       map.addOverlay(currMarker);
     }
   }
