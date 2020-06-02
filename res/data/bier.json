@@ -24,7 +24,7 @@
       49.017884
     ],
     "Name": "Hacker-Pschorr Wirtshaus",
-    "Öffnungszeiten": "täglich 11.00 bis 20.00 Uhr.",
+    "Öffnungszeiten": "täglich 11.00 bis 22.00 Uhr",
     "Straße": "Neupfarrplatz 15",
     "PLZ": "93047",
     "Ort": "Regensburg",
@@ -42,7 +42,7 @@
       49.007277
     ],
     "Name": "Kneitinger Keller",
-    "Öffnungszeiten": "Täglich 09.00 bis 20.00 Uhr.",
+    "Öffnungszeiten": "Täglich 09.00 bis 22.00 Uhr",
     "Straße": "Galgenbergstraße 18",
     "PLZ": "93053",
     "Ort": "Regensburg",
@@ -60,7 +60,7 @@
       49.022899
     ],
     "Name": "Alte Linde",
-    "Öffnungszeiten": "Täglich 11.00 bis 20.00 Uhr (Innenbereich bis 22.00 Uhr)",
+    "Öffnungszeiten": "Täglich 11.00 bis 22.00 Uhr",
     "Straße": "Müllerstraße 1",
     "PLZ": "93059",
     "Ort": "Regensburg",
@@ -78,7 +78,7 @@
       49.024165
     ],
     "Name": "Gaststätte Spitalgarten",
-    "Öffnungszeiten": "Täglich 11.00 bis 20.00 Uhr (Innenbereich bis 22.00 Uhr)",
+    "Öffnungszeiten": "Täglich 11.00 bis 22.00 Uhr",
     "Straße": "St.-Katharinen-Platz 1",
     "PLZ": "93059",
     "Ort": "Regensburg",
@@ -114,7 +114,7 @@
       49.023011
     ],
     "Name": "Die Oma in da Antn",
-    "Öffnungszeiten": "Bei schönem Wetter: täglich von 12.00 bis 20.00 Uhr ",
+    "Öffnungszeiten": "Bei schönem Wetter: täglich ab 12.00 Uhr ",
     "Straße": "Badstraße 32",
     "PLZ": "93059",
     "Ort": "Regensburg",
@@ -132,7 +132,7 @@
       48.949161
     ],
     "Name": "Höhenhof zum Schützenwirt",
-    "Öffnungszeiten": "Mi. bis Fr. von 16.00 bis 20.00 Uhr (Innenraum bis 22.00 Uhr), Sa. von 11.00-20.00 Uhr (Innenraum bis 22.00 Uhr), So. und Feiertage von 11.00 bis 20.00 (Innenraum bis 21.30 Uhr), Mo. Und Di. Ruhetage",
+    "Öffnungszeiten": "Mi. bis Fr. von 16.00 bis 22.00 Uhr, Sa. von 11.00-22.00 Uhr, So. und Feiertage von 11.00 bis 21.30 Uhr, Mo. Und Di. Ruhetage",
     "Straße": "Höhenhof 15",
     "PLZ": "93083",
     "Ort": "Obertraubling",
@@ -150,7 +150,7 @@
       48.965511
     ],
     "Name": "Zunftstüberl",
-    "Öffnungszeiten": "Täglich von 10.30 bis 20.00 Uhr",
+    "Öffnungszeiten": "Täglich ab 10.30 Uhr",
     "Straße": "An der Donau 21 a",
     "PLZ": "93080",
     "Ort": "Matting",
@@ -168,7 +168,7 @@
       49.00471
     ],
     "Name": "Gaststätte Röhrl",
-    "Öffnungszeiten": "Mo. und Mi. bis Fr. von 16 bis 20.00 Uhr (Innenraum bis 22.00 Uhr), Sa., So. und Feiertage von 11 Uhr bis 20.00 Uhr (Innenraum bis 22.00 Uhr), Di. Ruhetag",
+    "Öffnungszeiten": "Mo. und Mi. bis Fr. von 16 bis 22.00 Uhr, Sa., So. und Feiertage von 11 Uhr bis 22.00 Uhr, Di. Ruhetag",
     "Straße": "Regensburger Straße 3",
     "PLZ": "93161",
     "Ort": "Eilsbrunn",
@@ -186,7 +186,7 @@
       48.93653
     ],
     "Name": "Gasthaus Zirngibl",
-    "Öffnungszeiten": "Mo. und Di. Ruhetag, Mi. bis So. 11.00 bis 20.00 Uhr.",
+    "Öffnungszeiten": "Mo. und Di. Ruhetag, Mi. bis So. 11.00 bis 22.00 Uhr",
     "Straße": "Am Markt 29",
     "PLZ": "93077",
     "Ort": "Bad Abbach",
@@ -204,7 +204,7 @@
       49.015991
     ],
     "Name": "Landgasthof Geser",
-    "Öffnungszeiten": "Mo. bis Sa. 06.30 bis 13.00 Uhr und 17.00 bis 20.00 Uhr, So. 07.30 bis 20.00 Uhr, Di. Ruhetag.",
+    "Öffnungszeiten": "Mo. bis Sa. 06.30 bis 13.00 Uhr und 17.00 bis 22.00 Uhr, So. 07.30 bis 21.00 Uhr, Di. Ruhetag",
     "Straße": "Kirchplatz 4",
     "PLZ": "93092",
     "Ort": "Barbing-Sarching",
@@ -222,7 +222,7 @@
       49.031001
     ],
     "Name": "Historisches Armen Spital",
-    "Öffnungszeiten": "Mo. bis Fr. von 14.00 bis 20.00 Uhr, Sa. und So. von 11.00 bis 20.00 Uhr.",
+    "Öffnungszeiten": "Mo. bis Fr. von 14.00 bis 20.00 Uhr, Sa. und So. von 11.00 bis 20.00 Uhr",
     "Straße": "Walhallastraße 9",
     "PLZ": "93093",
     "Ort": "Donaustauf",
@@ -240,7 +240,7 @@
       48.948025
     ],
     "Name": "Brauereigasthof Berghammer",
-    "Öffnungszeiten": "täglich von 11.00 bis 20.00 Uhr (im Innenbereich bis 22.00 Uhr), Di. ist Ruhetag",
+    "Öffnungszeiten": "täglich von 11.00 bis 22.00 Uhr, Di. ist Ruhetag",
     "Straße": "Donaustraße 55",
     "PLZ": "93077",
     "Ort": "Bad Abbach",
@@ -258,7 +258,7 @@
       49.043031
     ],
     "Name": "Landgasthof Spitzauer",
-    "Öffnungszeiten": "Di. bis So. 11.00 bis 21.30 Uhr, Mo. Ruhetag.",
+    "Öffnungszeiten": "Di. bis So. 11.00 bis 21.30 Uhr, Mo. Ruhetag",
     "Straße": "Löweneckstraße 1",
     "PLZ": "93152",
     "Ort": "Nittendorf",
@@ -276,7 +276,7 @@
       49.038292
     ],
     "Name": "Landgasthof Hammermühle",
-    "Öffnungszeiten": "Täglich von 11.30 bis 20.00 Uhr (ab 2.6. bis 22.00 Uhr), Mi. Ruhetag.",
+    "Öffnungszeiten": "Täglich von 11.30 bis 22.00 Uhr, Mi. Ruhetag",
     "Straße": "Thiergartenstraße 1",
     "PLZ": "93093",
     "Ort": "Donaustauf",
@@ -330,7 +330,7 @@
       48.945462
     ],
     "Name": "Gasthof Kellner",
-    "Öffnungszeiten": "Mo. bis So. 10.00 bis 22.00 Uhr, Mi. Ruhetag.",
+    "Öffnungszeiten": "Mo. bis So. 10.00 bis 22.00 Uhr, Mi. Ruhetag",
     "Straße": "Gundelshausener Straße 73",
     "PLZ": "93309",
     "Ort": "Gundelshausen",
@@ -348,7 +348,7 @@
       49.045215
     ],
     "Name": "Münchsmühle",
-    "Öffnungszeiten": "Mi. bis Fr. 15.00 bis 20.00 Uhr, Sa. 13.00 bis 20.00 Uhr, So und Feiertage 10.00 bis 20.00 Uhr. Mo. und Di. Ruhetag.",
+    "Öffnungszeiten": "Mi. bis Fr. 15.00 bis 20.00 Uhr, Sa. 13.00 bis 20.00 Uhr, So und Feiertage 10.00 bis 20.00 Uhr. Mo. und Di. Ruhetag",
     "Straße": "Münchsmühle 2",
     "PLZ": "93164",
     "Ort": "Münchsmühle",
@@ -474,7 +474,7 @@
       48.924266
     ],
     "Name": "Gasthaus zum Goldenen Krug",
-    "Öffnungszeiten": "Mo. und Di. Ruhetag, Mi. bis Sa. von 17.00 bis 20.00 Uhr, So. von 11.30 bis 20.00 Uhr",
+    "Öffnungszeiten": "Mo. und Di. Ruhetag, Mi. bis Sa. von 17.30 bis 22.00 Uhr, So. von 11.30 bis 14.00 und 17.30 bis 20.00 Uhr",
     "Straße": "Brunnenstraße 6",
     "PLZ": "93098",
     "Ort": "Sengkofen",
@@ -492,7 +492,7 @@
       49.023164
     ],
     "Name": "Zum Sorgenfrei",
-    "Öffnungszeiten": "Mo., Di. und Do. von 16.00 bis 22.00 Uhr, Fr. bis So. von 11:00 Uhr bis 22.00 Uhr, Mi. Ruhetag.",
+    "Öffnungszeiten": "Mo., Di. und Do. von 16.00 bis 22.00 Uhr, Fr. bis So. von 11:00 Uhr bis 22.00 Uhr, Mi. Ruhetag",
     "Straße": "Badstraße 54",
     "PLZ": "93059",
     "Ort": "Regensburg",
@@ -510,7 +510,7 @@
       49.030124
     ],
     "Name": "Auerbräu",
-    "Öffnungszeiten": "täglich von 12.00 bis 20.00 Uhr (Innenbereich bis 22.00 Uhr)",
+    "Öffnungszeiten": "täglich von 12.00 bis 22.00 Uhr",
     "Straße": "Schwandorfer Straße 41",
     "PLZ": "93059",
     "Ort": "Regensburg",
@@ -546,7 +546,7 @@
       48.998831
     ],
     "Name": "Kneitinger's Hubertushöhe",
-    "Öffnungszeiten": "Täglich bei schönem Wetter 12.00 bis 20.00 Uhr (ab 2.6. bis 22.00 Uhr)",
+    "Öffnungszeiten": "Täglich bei schönem Wetter 12.00 bis 22.00 Uhr",
     "Straße": "Wilhelm-Raabe-Straße 1",
     "PLZ": "93051",
     "Ort": "Regensburg",
@@ -564,7 +564,7 @@
       49.029315
     ],
     "Name": "Spitalkeller Regensburg",
-    "Öffnungszeiten": "Di. bis Fr. 16.00 bis 20.00 Uhr, Sa. und So. und Feiertage 10.00 bis 20.00 Uhr.",
+    "Öffnungszeiten": "Di. bis Fr. 16.00 bis 22.00 Uhr, Sa. und So. und Feiertage 10.00 bis 22.00 Uhr",
     "Straße": "Alte Nürnberger Straße 12",
     "PLZ": "93059",
     "Ort": "Regensburg",
@@ -600,7 +600,7 @@
       49.164062
     ],
     "Name": "Einkehr zur Alten Post",
-    "Öffnungszeiten": "Mo., Do. bis So. 17.30 bis 20.00 Uhr (Innenraum bis 22.00 Uhr), So. und feiertags zusätzlich 11.30 bis 14.00 Uhr, Di. und Mi. Ruhetag",
+    "Öffnungszeiten": "Mo., Do. bis So. 17.30 bis 22.00 Uhr, So. und feiertags zusätzlich 11.30 bis 14.00 Uhr, Di. und Mi. Ruhetag",
     "Straße": "Postplatz 1",
     "PLZ": "93142",
     "Ort": "Ponholz",
@@ -726,7 +726,7 @@
       49.160967
     ],
     "Name": "Zum weißen Rößl",
-    "Öffnungszeiten": "Täglich von 11.00 bis 14.00 Uhr und 17.00 bis 20.00 Uhr (Innenbereich jeweils bis 22.00 Uhr), Di. Ruhetag",
+    "Öffnungszeiten": "Täglich von 11.00 bis 14.00 Uhr und 17.00 bis 22.00 Uhr, Di. Ruhetag",
     "Straße": "Alte Regensburger Straße 1",
     "PLZ": "93183",
     "Ort": "Kallmünz",
@@ -744,7 +744,7 @@
       48.906756
     ],
     "Name": "Donaugarten",
-    "Öffnungszeiten": "Mo. Bis Sa. von 16.00 bis 20.00 Uhr (ab 2.6. bis 22.00 Uhr), So. von 10.00 bis 20.00 Uhr (ab 2.6. bis 21.00 Uhr)",
+    "Öffnungszeiten": "Mo. bis Sa. von 16.00 bis 22.00 Uhr, So. von 10.00 bis 21.00 Uhr",
     "Straße": "Regensburger Straße 65",
     "PLZ": "93303",
     "Ort": "Kelheim",
@@ -780,7 +780,7 @@
       48.917243
     ],
     "Name": "Weisses Bräuhaus",
-    "Öffnungszeiten": "täglich 11.00 bis 22.00 Uhr.",
+    "Öffnungszeiten": "täglich 11.00 bis 22.00 Uhr",
     "Straße": "Emil-Ott-Straße 3",
     "PLZ": "93309",
     "Ort": "Kelheim",
@@ -798,7 +798,7 @@
       49.000117
     ],
     "Name": "Gasthof Butz",
-    "Öffnungszeiten": "Di. bis So. 09.00 bis 22.00 Uhr. Mo. Ruhetag.",
+    "Öffnungszeiten": "Di. bis So. 09.00 bis 22.00 Uhr. Mo. Ruhetag",
     "Straße": "Kirchplatz 3",
     "PLZ": "93086",
     "Ort": "Wörth an der Donau",
@@ -834,7 +834,7 @@
       49.085713
     ],
     "Name": "Landgasthof Friesenmühle",
-    "Öffnungszeiten": "Täglich von 8.30 bis 20.00 Uhr, Mi. Ruhetag.",
+    "Öffnungszeiten": "Täglich von 8.30 bis 20.00 Uhr, Mi. Ruhetag",
     "Straße": "Friesenmühle 1",
     "PLZ": "93176",
     "Ort": "Beratzhausen",
@@ -852,7 +852,7 @@
       49.13757
     ],
     "Name": "Landgasthof Rechberger Hof",
-    "Öffnungszeiten": "Mo. ab 17.00 Uhr, Mi. bis So. 10.00 bis 23.00 Uhr, Di. Ruhetag.",
+    "Öffnungszeiten": "Mo. ab 17.00 Uhr, Mi. bis So. 10.00 bis 22.00 Uhr, Di. Ruhetag",
     "Straße": "Leonhard-Nübler-Strasse 5",
     "PLZ": "93176",
     "Ort": "Rechberg",
@@ -870,7 +870,7 @@
       49.01533
     ],
     "Name": "Katharinenhof",
-    "Öffnungszeiten": "Mo., Mi. bis So. von 17.30 Uhr bis 20.00 Uhr (Innenbereich bis 22.00 Uhr), So. und Feiertage von 11.00 bis 13.30 Uhr, Di. Ruhetag",
+    "Öffnungszeiten": "Mo., Mi. bis So. von 17.30 Uhr bis 22.00 Uhr, So. und Feiertage von 11.00 bis 13.30 Uhr, Di. Ruhetag",
     "Straße": "Prüfeninger Straße 83a",
     "PLZ": "93049",
     "Ort": "Regensburg",
@@ -888,7 +888,7 @@
       49.071553
     ],
     "Name": "Hirschbergers Holzofenkuchl",
-    "Öffnungszeiten": "Mo. und Di. Ruhetag (außer Feiertage), Mi. und Do. von 17.00 bis 20.00 Uhr (ab 2.6. bis 22.00 Uhr), Fr. bis So. 11.00 bis 20.00 Uhr (ab 2.6. bis 22.00 Uhr)",
+    "Öffnungszeiten": "Mo. und Di. Ruhetag (außer Feiertage), Mi. und Do. von 17.00 bis 22.00 Uhr, Fr. bis So. 11.00 bis 22.00 Uhr",
     "Straße": "Reimarstraße 5",
     "PLZ": "93179",
     "Ort": "Brennberg",
@@ -924,7 +924,7 @@
       49.197734
     ],
     "Name": "Brauereigasthof Jakob Nittenau",
-    "Öffnungszeiten": "Täglich von 11.00 bis 14.00 Uhr und 17.00 bis 22.00 Uhr, Mi. Ruhetag.",
+    "Öffnungszeiten": "Täglich von 11.00 bis 14.00 Uhr und 17.00 bis 22.00 Uhr, Mi. Ruhetag",
     "Straße": "Hauptstraße 10",
     "PLZ": "93149",
     "Ort": "Nittenau",
@@ -942,7 +942,7 @@
       49.19753
     ],
     "Name": "Hotel-Gaststätte Ludwig Pirzer",
-    "Öffnungszeiten": "An sonnigen Tagen von 16.00 Uhr bis 20.00 Uhr (ab 2.6. bis 22.00 Uhr) ",
+    "Öffnungszeiten": "An sonnigen Tagen von 16.00 Uhr bis 22.00 Uhr",
     "Straße": "Brauhausstraße 3",
     "PLZ": "93149",
     "Ort": "Nittenau",
@@ -960,7 +960,7 @@
       48.898832
     ],
     "Name": "Klosterschenke Weltenburg",
-    "Öffnungszeiten": "täglich 09.30 bis 19.00 Uhr.",
+    "Öffnungszeiten": "täglich 09.30 bis 19.00 Uhr",
     "Straße": "Asamstraße 32",
     "PLZ": "93309",
     "Ort": "Kelheim/Weltenburg",
@@ -978,7 +978,7 @@
       48.935422
     ],
     "Name": "Brauereigasthof Schneider",
-    "Öffnungszeiten": "täglich 10.00 bis 22.00 Uhr. AB 1.6. : Mo. Ab 16.00 Uhr, Di. bis So. von 8.00 bis 23.00 Uhr",
+    "Öffnungszeiten": "Mo. ab 16.00 Uhr, Di. bis So. von 8.00 bis 22.00 Uhr",
     "Straße": "Altmühlgasse 10",
     "PLZ": "93343",
     "Ort": "Essing",
@@ -1014,7 +1014,7 @@
       48.816846
     ],
     "Name": "Kuchlbauer's Bierwelt",
-    "Öffnungszeiten": "Mo. bis Sa. 11.00 bis 20.00 Uhr, So. und Feiertage 10.00 bis 20.00 Uhr.",
+    "Öffnungszeiten": "Mo. bis Sa. 11.00 bis 20.00 Uhr, So. und Feiertage 10.00 bis 20.00 Uhr",
     "Straße": "Römerstraße 5-9",
     "PLZ": "93326",
     "Ort": "Abensberg",
@@ -1032,7 +1032,7 @@
       48.817045
     ],
     "Name": "Wirtshaus beim Lauberger",
-    "Öffnungszeiten": "Di. bis Fr. von 17.00 bis 20.00 Uhr, Sa. von 15.00 bis 20.00 Uhr, So. und Feiertage von 11.00 bis 20.00 Uhr (ab 2.6. bis 22.00 Uhr), Mo. Ruhetag",
+    "Öffnungszeiten": "Di. bis Fr. von 17.00 bis 22.00 Uhr, Sa. von 15.00 bis 22.00 Uhr, So. und Feiertage von 11.00 bis 22.00 Uhr, Mo. Ruhetag",
     "Straße": "Aunkofener Straße 8",
     "PLZ": "93326",
     "Ort": "Abensberg",
@@ -1086,7 +1086,7 @@
       48.926032
     ],
     "Name": "Gasthof Ehrl",
-    "Öffnungszeiten": "Täglich von 8.00 bis 20.00 Uhr (ab 2.6. bis 22.00 Uhr)",
+    "Öffnungszeiten": "Täglich von 8.00 bis 22.00 Uhr",
     "Straße": "Schnellnecker Straße 29",
     "PLZ": "93343",
     "Ort": "Altessing",
@@ -1140,7 +1140,7 @@
       48.857421
     ],
     "Name": "An der Fähre",
-    "Öffnungszeiten": "Di. bis So. 10.00 bis 20.00 Uhr, Mo. Ruhetag",
+    "Öffnungszeiten": "Di. bis So. 10.00 bis 22.00 Uhr, Mo. Ruhetag",
     "Straße": "Zur Überfuhr 15",
     "PLZ": "93333",
     "Ort": "Neustadt",
@@ -1176,7 +1176,7 @@
       48.823584
     ],
     "Name": "Hotel Eisvogel",
-    "Öffnungszeiten": "Mo. bis Fr. 17.00 bis 20.00 Uhr, Sa., So. und Feiertage von 11.00 bis 20.00 Uhr (Im Innenbereich jeweils bis 22.00 Uhr)",
+    "Öffnungszeiten": "Mo. bis Fr. 17.00 bis 22.00 Uhr, Sa., So. und Feiertage von 11.00 bis 22.00 Uhr",
     "Straße": "An der Abends 20",
     "PLZ": "93333",
     "Ort": "Bad Gögging",
@@ -1194,7 +1194,7 @@
       48.825207
     ],
     "Name": "Röll'n Biergarten",
-    "Öffnungszeiten": "Mo. Bis Do. 16.30  bis 20.00 Uhr (ab 2.6. bis 22.00 Uhr",
+    "Öffnungszeiten": "Mo. bis Do. 16.30  bis 22.00 Uhr",
     "Straße": "Römerstraße 4",
     "PLZ": "93333",
     "Ort": "Bad Gögging",
@@ -1212,7 +1212,7 @@
       48.987934
     ],
     "Name": "Gasthof Parzefall",
-    "Öffnungszeiten": "Mo. und Di. von 11.00 bis 22.00 Uhr, Mi. Ruhetag, Do.,Fr, und Sa. 11.00 bis 22.00 Uhr, So. 11.00-22.00 Uhr.",
+    "Öffnungszeiten": "Mo. und Di. von 11.00 bis 22.00 Uhr, Mi. Ruhetag, Do.,Fr, und Sa. 11.00 bis 22.00 Uhr, So. 11.00-22.00 Uhr",
     "Straße": "Obertraublinger Straße 54",
     "PLZ": "93055",
     "Ort": "Regensburg",
@@ -1230,7 +1230,7 @@
       48.808133
     ],
     "Name": "Gasthof Gigl",
-    "Öffnungszeiten": "Mo. bis Do. 16.30 bis 22.00 Uhr, So. und feiertags 11.00 bis 22.00 Uhr.",
+    "Öffnungszeiten": "Mo. bis Do. 16.30 bis 22.00 Uhr, So. und feiertags 11.00 bis 22.00 Uhr",
     "Straße": "Herzog-Ludwig-Straße 6",
     "PLZ": "93333",
     "Ort": "Neustadt an der Donau",
@@ -1248,7 +1248,7 @@
       49.270674
     ],
     "Name": "Brauereigasthof Jacob Bodenwöhr",
-    "Öffnungszeiten": "Täglich von 7.00 bis 20.00 Uhr (Innenbereich bis 22.00 Uhr)",
+    "Öffnungszeiten": "Täglich von 7.00 bis 22.00 Uhr",
     "Straße": "Ludwigsheide 2",
     "PLZ": "92439",
     "Ort": "Bodenwöhr",
@@ -1266,7 +1266,7 @@
       48.959273
     ],
     "Name": "Fasslwirtschaft",
-    "Öffnungszeiten": "Di. bis So. von 11.00 bis 20.00 Uhr, Mo. Ruhetag",
+    "Öffnungszeiten": "Mo. von 11.00 bis 20.00 Uhr, Mi. bis So. von 11.00 bis 21.00 Uhr, Mo. Ruhetag",
     "Straße": "Bergkristallstraße 1",
     "PLZ": "93339",
     "Ort": "Riedenburg",
@@ -1284,7 +1284,7 @@
       49.311041
     ],
     "Name": "Rathausstuben",
-    "Öffnungszeiten": "Mo. Bis Sa. von 16.30 bis 20.00 Uhr (ab 2.6. bis 22.00 Uhr), So. von 11.00 bis 14.30 Uhr",
+    "Öffnungszeiten": "Mo. bis Sa. von 16.30 bis 22.00 Uhr, So. von 11.00 bis 14.30 Uhr",
     "Straße": "Marktplatz 4",
     "PLZ": "92442",
     "Ort": "Wackersdorf",
@@ -1338,7 +1338,7 @@
       49.329383
     ],
     "Name": "Hufschmiede",
-    "Öffnungszeiten": "Di. bis Sa. 17.00 bis 20.00 Uhr (ab 2.6. bis 22.00 Uhr), Mo. Und So. Ruhetag.",
+    "Öffnungszeiten": "Di. bis Sa. 17.00 bis 22.00 Uhr, Mo. und So. Ruhetag",
     "Straße": "Breite Straße 25",
     "PLZ": "92421",
     "Ort": "Schwandorf",
@@ -1356,7 +1356,7 @@
       48.709992
     ],
     "Name": "Gasthof Forstner",
-    "Öffnungszeiten": "Mi. bis Sa. 11.00 bis 14.00 Uhr  So. und Feiertags von 11.00 bis 15.00 Uhr (Biergarten bei schönem Wetter durchgehend geöffnet), Mo. Und Mi. bis Sa. zusätzlich von 17.00 bis 21.00 Uhr, Di. Ruhetag.",
+    "Öffnungszeiten": "Mi. bis Sa. 11.00 bis 14.00 Uhr  So. und Feiertags von 11.00 bis 15.00 Uhr (Biergarten bei schönem Wetter durchgehend geöffnet), Mo. Und Mi. bis Sa. zusätzlich von 17.00 bis 21.00 Uhr, Di. Ruhetag",
     "Straße": "Max-von-Müller Str. 76",
     "PLZ": "84056",
     "Ort": "Rottenburg a.d. Laaber",
@@ -1392,7 +1392,7 @@
       49.19588
     ],
     "Name": "Rodinger Reib'm Biergarten",
-    "Öffnungszeiten": "Bei Voranmeldung und guter Witterung geöffnet.",
+    "Öffnungszeiten": "Bei Voranmeldung und guter Witterung geöffnet",
     "Straße": "Blümelhubergasse 1",
     "PLZ": "93426",
     "Ort": "Roding",
@@ -1410,7 +1410,7 @@
       49.254569
     ],
     "Name": "Landhotel Mappacher Hof",
-    "Öffnungszeiten": "folgt",
+    "Öffnungszeiten": "Mo. bis Do. 8.00 bis 22.00 Uhr, Fr. Ruhetag, Sa. Und So. 8.00 bis 17.00 Uhr",
     "Straße": "Mappach 2",
     "PLZ": "92436",
     "Ort": "Bruck in der Oberpfalz",
@@ -1446,7 +1446,7 @@
       49.322986
     ],
     "Name": "Landgasthof zum Bärenwirt",
-    "Öffnungszeiten": "folgt",
+    "Öffnungszeiten": "Do. bis Sa. von 11.00 bis 14.00 und 17.30 bis 22.00 Uhr, So. und Feiertage von 9.00 bis 15.00 und 17.00 bis 20.00 Uhr, Mo. bis Mi. Ruhetag ",
     "Straße": "Hauptstraße 9",
     "PLZ": "92286",
     "Ort": "Rieden",
@@ -1482,7 +1482,7 @@
       49.010655
     ],
     "Name": "Gasthaus Goldener Hirsch",
-    "Öffnungszeiten": "folgt",
+    "Öffnungszeiten": "Di. bis So. von 11.30 bis 22.00 Uhr, Mo. Ruhetag",
     "Straße": "Großprüfening 21",
     "PLZ": "93049",
     "Ort": "Regensburg",
@@ -1572,7 +1572,7 @@
       49.03606
     ],
     "Name": "Brauereigasthof Schattenhofer",
-    "Öffnungszeiten": "folgt",
+    "Öffnungszeiten": "Werktags ab 16.00 Uhr, So. und Feiertage ab 11.00 Uhr",
     "Straße": "Hauptstraße 44",
     "PLZ": "92339",
     "Ort": "Beilngries",
@@ -1590,7 +1590,7 @@
       49.422226
     ],
     "Name": "Gasthof Bodensteiner",
-    "Öffnungszeiten": "folgt",
+    "Öffnungszeiten": "Mo. bis Mi. von 9.30 bis 14.00 Uhr, Do. bis So. von 9.00 bis 22.00 Uhr",
     "Straße": "Hauptstraße 25",
     "PLZ": "92551",
     "Ort": "Stulln",
@@ -1608,7 +1608,7 @@
       49.349147
     ],
     "Name": "Gasthof Sporrer",
-    "Öffnungszeiten": "folgt",
+    "Öffnungszeiten": "Mo. bis Sa. ab 7.30 Uhr, So. 7.30 bis 14.30 Uhr ",
     "Straße": "Jobplatz 9",
     "PLZ": "92431",
     "Ort": "Neunburg vorm Wald",
@@ -1626,7 +1626,7 @@
       49.403598
     ],
     "Name": "Hotel Wolfringmühle",
-    "Öffnungszeiten": "folgt",
+    "Öffnungszeiten": "Mo. bis Sa. 15.00 bis 22.00 Uhr, So. vonn 11.00 bis 22.00 Uhr",
     "Straße": "Wolfringmühle 3",
     "PLZ": "92269",
     "Ort": "Fensterbach",
@@ -1680,7 +1680,7 @@
       49.334525
     ],
     "Name": "Panorama-Hotel am See",
-    "Öffnungszeiten": "Mo. bis Fr. von 6.30 bis 20.00 Uhr, Sa. und Feiertag von 7.30 bis 20.00 Uhr (im Innenbereich jeweils bis 22.00 Uhr), So. Ruhetag",
+    "Öffnungszeiten": "Mo. bis Fr. von 6.30 bis 22.00 Uhr, Sa. und Feiertage von 7.30 bis 22.00 Uhr, So. Ruhetag",
     "Straße": "Gütenland 22",
     "PLZ": "92431",
     "Ort": "Neunburg vorm Wald",
@@ -1698,7 +1698,7 @@
       49.018032
     ],
     "Name": "Gasthof Krieger",
-    "Öffnungszeiten": "folgt",
+    "Öffnungszeiten": "Mo. bis So. von 11.00 bis 21.00 Uhr",
     "Straße": "Heerbergstraße 3",
     "PLZ": "93186",
     "Ort": "Pettendorf-Mariaort",
@@ -1788,8 +1788,8 @@
       49.106619
     ],
     "Name": "Brauerei-Gasthof Winkler",
-    "Öffnungszeiten": "folgt",
-    "Straße": "Reichenauplatz 21-23",
+    "Öffnungszeiten": "Mo. und Mi. bis Sa. von 11.30 bis 14.00 und 17.30 bis 21.00 Uhr, So. von 11.30 bis 15.00 Uhr, Di. Ruhetag ",
+    "Straße": "Reichenauplatz 22",
     "PLZ": "92334",
     "Ort": "Berching",
     "Telefon": "08462/27331",
@@ -1824,7 +1824,7 @@
       49.404461
     ],
     "Name": "Gasthaus Sorgenfrei",
-    "Öffnungszeiten": "Mo. bis Mi. + Fr. 18.00 bis 22.00 Uhr, So. 09.00 bis 20.00 Uhr. Do. Ruhetag; Nur mit vorheriger Reservierung!",
+    "Öffnungszeiten": "Nur mit vorheriger Reservierung! Mo. bis Mi. und Fr. 18.00 bis 22.00 Uhr, So. 09.00 bis 20.00 Uhr. Do. Ruhetag",
     "Straße": "Neunburger Straße 10",
     "PLZ": "92540",
     "Ort": "Altendorf",
@@ -1860,7 +1860,7 @@
       49.44508
     ],
     "Name": "Schloderer Bräu",
-    "Öffnungszeiten": "Mo. bis So. 09.00 bis 20.00 Uhr (Im Innenbereich bis 22.00 Uhr)",
+    "Öffnungszeiten": "Mo. bis So. 09.00 bis 22.00 Uhr",
     "Straße": "Rathausstraße 4",
     "PLZ": "92224",
     "Ort": "Amberg",
@@ -1878,7 +1878,7 @@
       49.444697
     ],
     "Name": "Winkler Bräuwirt",
-    "Öffnungszeiten": "folgt",
+    "Öffnungszeiten": "Di. bis So. von 11.00 bis 22.00 Uhr, Mo. Ruhetag",
     "Straße": "Untere Nabburger Straße 34",
     "PLZ": "92224",
     "Ort": "Amberg",
@@ -1896,7 +1896,7 @@
       49.444274
     ],
     "Name": "Zum Kummert Bräu",
-    "Öffnungszeiten": "folgt",
+    "Öffnungszeiten": "Mi. bis Sa. Von 17.00 bis 22.00 Uhr, So. 10.00 bis 14.30 Uhr, Mo. und Di. Ruhetag",
     "Straße": "Raigeringer Straße 11",
     "PLZ": "92224",
     "Ort": "Amberg",
@@ -1932,7 +1932,7 @@
       48.876391
     ],
     "Name": "Restaurant Buchner",
-    "Öffnungszeiten": "folgt",
+    "Öffnungszeiten": "Mi. bis So. von 12.00 bis 14.00 und 18.00 bis 22.00 Uhr, Mo. und Di. Ruhetag",
     "Straße": "Freymannstraße 15",
     "PLZ": "94559",
     "Ort": "Welchenberg",
@@ -1950,7 +1950,7 @@
       49.455696
     ],
     "Name": "s'Wirtshaus im Amberger Garten",
-    "Öffnungszeiten": "folgt",
+    "Öffnungszeiten": "Mo. bis Sa. ab 15.00 Uhr, So. und Feiertage ab 11.00 Uhr (bei schönem Wetter)",
     "Straße": "Bayreuther Straße 20",
     "PLZ": "92224",
     "Ort": "Amberg",
@@ -1986,7 +1986,7 @@
       49.278847
     ],
     "Name": "Neumarkter Bräustübl",
-    "Öffnungszeiten": "Di. bis Do. + Sa. 16.00 bis 22.00 Uhr, Fr.  12.00 bis 22.00 Uhr, So. 11.00 bis 22.00 Uhr. Küche jeweils bis 21.00 Uhr Mo. Ruhetag.",
+    "Öffnungszeiten": "Di. bis Do. und Sa. 16.00 bis 22.00 Uhr, Fr. 12.00 bis 22.00 Uhr, So. 11.00 bis 22.00 Uhr. Küche jeweils bis 21.00 Uhr Mo. Ruhetag",
     "Straße": "Schwesterhausgasse 9",
     "PLZ": "92318",
     "Ort": "Neumarkt in der Oberpfalz",
@@ -2004,7 +2004,7 @@
       49.277136
     ],
     "Name": "Oberer Ganskeller",
-    "Öffnungszeiten": "Täglich von 9.30 bis 20.00 Uhr (Innenbereich bis 22.00 Uhr)",
+    "Öffnungszeiten": "Täglich von 9.30 bis 22.00 Uhr",
     "Straße": "Ringstraße 2",
     "PLZ": "92318",
     "Ort": "Neumarkt in der Oberpfalz",
@@ -2076,7 +2076,7 @@
       49.198857
     ],
     "Name": "Gasthof Bäckerwirt Chamerau",
-    "Öffnungszeiten": "folgt",
+    "Öffnungszeiten": "Di. bis So. von 10.30 bis 22.00 Uhr, Mo. Ruhetag",
     "Straße": "Chamer Straße 5",
     "PLZ": "93466",
     "Ort": "Chamerau",
@@ -2130,7 +2130,7 @@
       49.024906
     ],
     "Name": "Dorfgasthof Federl/Scheck",
-    "Öffnungszeiten": "folgt",
+    "Öffnungszeiten": "Reservierung Pflicht: Mo. und Mi. bis Sa. von 11.30 bis 22.00 Uhr, So. von 10.00 bis 15.00 Uhr, Di. Ruhetag",
     "Straße": "Tegernheimer Kellerstraße 2",
     "PLZ": "93105",
     "Ort": "Tegernheim",
@@ -2148,7 +2148,7 @@
       49.271599
     ],
     "Name": "Gasthaus zur Au",
-    "Öffnungszeiten": "folgt",
+    "Öffnungszeiten": "Di. bis Do. ab 16.00 Uhr, Fr. bis So. und Feiertage ab 10.30 Uhr, Mo. Ruhetag",
     "Straße": "Hochstraße 19",
     "PLZ": "92318",
     "Ort": "Neumarkt in der Oberpfalz",
@@ -2166,7 +2166,7 @@
       49.491113
     ],
     "Name": "Gasthaus Kopf",
-    "Öffnungszeiten": "folgt",
+    "Öffnungszeiten": "Mo. bis Mi. und Fr. bis So. von 10.00 bis 22.00 Uhr, Do. von 17.00 bis 22.00 Uhr",
     "Straße": "Altmannshof 66",
     "PLZ": "92284",
     "Ort": "Poppenricht",
@@ -2184,7 +2184,7 @@
       49.25112
     ],
     "Name": "Berngauer Hof",
-    "Öffnungszeiten": "folgt",
+    "Öffnungszeiten": "Mi. bis Fr. ab 17.00 Uhr, Sa., So. und Feiertage ab 11.00 Uhr, Mo. und Di. Ruhetag",
     "Straße": "Neumarkter Straße 20",
     "PLZ": "92361",
     "Ort": "Berngau",
@@ -2220,7 +2220,7 @@
       49.170734
     ],
     "Name": "Lindner-Bräu",
-    "Öffnungszeiten": "folgt",
+    "Öffnungszeiten": "bei schönem Wetter von Mo. bis Sa. Von 11.30 bis 22.00 Uhr",
     "Straße": "Weißenregener Straße 4",
     "PLZ": "93444",
     "Ort": "Bad Kötzting",
@@ -2238,7 +2238,7 @@
       49.16464
     ],
     "Name": "Zur Klause",
-    "Öffnungszeiten": "folgt",
+    "Öffnungszeiten": "bei schonem Wetter täglich von 11.00 bis 20.00 Uhr (Mi. Ruhetag)",
     "Straße": "Weißenregen 72",
     "PLZ": "93445",
     "Ort": "Bad Kötzting",
@@ -2256,7 +2256,7 @@
       49.461061
     ],
     "Name": "Cafe Deyerl",
-    "Öffnungszeiten": "folgt",
+    "Öffnungszeiten": "Mo. bis So von 9.30 bis 22.00 Uhr, Mi., Do. und Fr. von 9.30 bis 13.30 und von 17.30 bis 22.00 Uhr, Di. und Sa. Ruhetag",
     "Straße": "Am Markplatz 24",
     "PLZ": "92526 ",
     "Ort": "Oberviechtach",
@@ -2274,7 +2274,7 @@
       49.54489
     ],
     "Name": "Schlosshotel Hirschau",
-    "Öffnungszeiten": "folgt",
+    "Öffnungszeiten": "bei schönem Wetter täglich ab 18.00 Uhr, Do. Ruhetag",
     "Straße": "Hauptstraße 1",
     "PLZ": "92242",
     "Ort": "Hirschau",
@@ -2310,7 +2310,7 @@
       49.531572
     ],
     "Name": "Biergarten im Sporthotel zur Post",
-    "Öffnungszeiten": "folgt",
+    "Öffnungszeiten": "täglich von 6.00 bis 22.00 Uhr",
     "Straße": "Marktplatz 25",
     "PLZ": "92723",
     "Ort": "Tännesberg",
@@ -2328,7 +2328,7 @@
       48.974485
     ],
     "Name": "Zur Walba",
-    "Öffnungszeiten": "folgt",
+    "Öffnungszeiten": "täglich von 10.00 bis 21.00 Uhr",
     "Straße": "Unterirading 1",
     "PLZ": "93080",
     "Ort": "Pentling",
@@ -2364,7 +2364,7 @@
       49.0286
     ],
     "Name": "Forsters Posthotel",
-    "Öffnungszeiten": "Täglich 11.00 bis 14.00 Uhr sowie 17.30 bis 21.30 Uhr.",
+    "Öffnungszeiten": "Täglich 11.00 bis 14.00 Uhr sowie 17.30 bis 21.30 Uhr",
     "Straße": "Maxstraße 43",
     "PLZ": "93093",
     "Ort": "Donaustauf",
@@ -2400,7 +2400,7 @@
       49.04269
     ],
     "Name": "Prösslbräu Adlersberg",
-    "Öffnungszeiten": "Di. bis So. 08.00 bis 20.00 Uhr, Mo. Ruhetag.",
+    "Öffnungszeiten": "Di. bis So. 08.00 bis 20.00 Uhr, Mo. Ruhetag",
     "Straße": "Dominikanerinnenstraße 2-3",
     "PLZ": "93186",
     "Ort": "Adlersberg",
@@ -2418,7 +2418,7 @@
       48.986399
     ],
     "Name": "Der Grieche",
-    "Öffnungszeiten": "folgt",
+    "Öffnungszeiten": "Mo. bis So. con 17.00 bis 22.00 Uhr, So. und Feiertage zusätzlich von 11.00 bis 14.30 Uhr",
     "Straße": "Bruckdorf 7",
     "PLZ": "93161",
     "Ort": "Sinzing",
@@ -2436,7 +2436,7 @@
       49.52201
     ],
     "Name": "Landgasthof Peterhof",
-    "Öffnungszeiten": "Mo. und Di. Ruhetag, Mi. bis Fr. 09.00 bis 14.00 Uhr und 17.30 bis 20.00 Uhr, Sa., So. und Feiertage 09.00 bis 20.00 Uhr.",
+    "Öffnungszeiten": "Mo. und Di. Ruhetag, Mi. bis Fr. 09.00 bis 14.00 Uhr und 17.30 bis 20.00 Uhr, Sa., So. und Feiertage 09.00 bis 20.00 Uhr",
     "Straße": "Lehendorf 21",
     "PLZ": "92268",
     "Ort": "Etzelwang",
