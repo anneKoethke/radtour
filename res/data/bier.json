@@ -13,8 +13,8 @@
     "Telefon": "0941/5861460",
     "Mail": "info@weltenburger-am-dom.de",
     "url": "https://www.weltenburger-am-dom.de/",
-    "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
-    "Bildnachweis": "unsplash CC0-Lizenz",
+    "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Weltenburger_am_Dom.png",
+    "Bildnachweis": "Lex",
     "Distanz": 0.8
   },
   {
@@ -67,8 +67,8 @@
     "Telefon": "0941/88080",
     "Mail": "altelinde_wiesbeck@yahoo.de",
     "url": "http://www.altelinde-regensburg.de/",
-    "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
-    "Bildnachweis": "unsplash CC0-Lizenz",
+    "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Alte_Linde.png",
+    "Bildnachweis": "Lex",
     "Distanz": 1.5
   },
   {
@@ -157,8 +157,8 @@
     "Telefon": "09404/2112",
     "Mail": "info@gaststaette-roehrl.de",
     "url": "https://www.gaststaette-roehrl.de/",
-    "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
-    "Bildnachweis": "unsplash CC0-Lizenz",
+    "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Gaststätte_Röhrl.png",
+    "Bildnachweis": "Röhrl",
     "Distanz": 10.0
   },
   {
@@ -229,8 +229,8 @@
     "Telefon": "09405/962176",
     "Mail": "gasthof@brauerei-berghammer.de",
     "url": "http://www.brauerei-berghammer.de/",
-    "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
-    "Bildnachweis": "unsplash CC0-Lizenz",
+    "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Brauereigasthof_Berghammer.png",
+    "Bildnachweis": "Gabi Hueber-Lutz",
     "Distanz": 12.0
   },
   {
@@ -276,7 +276,7 @@
       48.952549
     ],
     "Name": "Landgasthof Perzl",
-    "Öffnungszeiten": "folgt",
+    "Öffnungszeiten": "Di. bis So. von 10.00 bis 22.00 Uhr, Mo. Ruhetag",
     "Straße": "Lohstraße 10",
     "PLZ": "93309",
     "Ort": "Kelheim",
@@ -347,12 +347,12 @@
       12.05139,
       49.119346
     ],
-    "Name": "Alte Hofmark",
-    "Öffnungszeiten": "folgt",
+    "Name": "Funkes Alte Hofmark",
+    "Öffnungszeiten": "Di. bis Fr. von 16.00 bis 22.00 Uhr, Sa. von 12.00 bis 22.00 Uhr, So. von 11.00 bis 21.00 Uhr, Mo. Ruhetag",
     "Straße": "Hofmarkstraße 3",
     "PLZ": "93128",
     "Ort": "Regenstauf-Steinsberg",
-    "Telefon": "09402/93320",
+    "Telefon": "09402/7804626",
     "Mail": "info@hotel-pension-hofmark.de",
     "url": "https://www.hotel-pension-hofmark.de/",
     "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
@@ -445,8 +445,8 @@
     "Telefon": "0941/88597",
     "Mail": "",
     "url": "http://www.regensburgregional.de/auer-braeu/e/018893",
-    "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
-    "Bildnachweis": "unsplash CC0-Lizenz",
+    "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Auerbräu.png",
+    "Bildnachweis": "Franz Baumgartner",
     "Distanz": 2.0
   },
   {
@@ -456,11 +456,11 @@
       49.013808
     ],
     "Name": "Bischofshof Braustuben",
-    "Öffnungszeiten": "folgt",
+    "Öffnungszeiten": "Di. bis Sa. von 11.00 bis 22.00 Uhr, Mo. Ruhetag",
     "Straße": "Dechbettener Straße 50",
     "PLZ": "93049",
     "Ort": "Regensburg",
-    "Telefon": "0941/2082170",
+    "Telefon": "",
     "Mail": "info@bischofshof-braustube.de",
     "url": "https://www.bischofshof-braustube.de/de/restaurant/",
     "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
@@ -553,8 +553,8 @@
     "Telefon": "09402/5393",
     "Mail": "info@landgasthof-lautenschlager.de",
     "url": "https://www.landgasthof-lautenschlager.de",
-    "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
-    "Bildnachweis": "unsplash CC0-Lizenz",
+    "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Landgasthof_Lautenschlager.png",
+    "Bildnachweis": "lgs",
     "Distanz": 21.0
   },
   {
@@ -600,7 +600,7 @@
       48.845318
     ],
     "Name": "Stanglbräu",
-    "Öffnungszeiten": "Bei schönem Wetter: täglich von 16.00 bis 20.00 Uhr; Reservierung erforderlich",
+    "Öffnungszeiten": "Bei schönem Wetter: täglich von 16.00 bis 20.00 Uhr. Reservierung erforderlich",
     "Straße": "Dorfstraße 11",
     "PLZ": "93345",
     "Ort": "Herrnwahlthann",
@@ -643,7 +643,7 @@
     "Telefon": "09473/234",
     "Mail": "zum-weissen-roessl@t-online.de",
     "url": "https://zumweissenroessl.eatbu.com",
-    "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Zum weißen Rößl - Foto Renate Ben Dhafer.png",
+    "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Zum_weißen_Rößl.png",
     "Bildnachweis": "Renate Ben Dhafer",
     "Distanz": 24.0
   },
@@ -697,8 +697,8 @@
     "Telefon": "09441/3480",
     "Mail": "info@weisses-brauhaus-kelheim.de",
     "url": "https://www.weisses-brauhaus-kelheim.de/braeuhaus/raeumlichkeiten/",
-    "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
-    "Bildnachweis": "unsplash CC0-Lizenz",
+    "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Weisses_Bräuhaus.png",
+    "Bildnachweis": "Etienne Nückel",
     "Distanz": 26.0
   },
   {
@@ -805,8 +805,8 @@
     "Telefon": "09484/287",
     "Mail": "willkommen@holzofenkuchl.com",
     "url": "https://www.holzofenkuchl.com/",
-    "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
-    "Bildnachweis": "unsplash CC0-Lizenz",
+    "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Hirschbergers_Holzofenkuchl.png",
+    "Bildnachweis": "lbi",
     "Distanz": 31.0
   },
   {
@@ -949,8 +949,8 @@
     "Telefon": "09443/5641",
     "Mail": "mail@lauberger-abensberg.de",
     "url": "https://www.aunkofener-stubn.de/",
-    "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
-    "Bildnachweis": "unsplash CC0-Lizenz",
+    "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Wirtshaus_beim_Lauberger.png",
+    "Bildnachweis": "Kellydruck",
     "Distanz": 34.0
   },
   {
@@ -960,7 +960,7 @@
       48.942419
     ],
     "Name": "Kastlhof",
-    "Öffnungszeiten": "folgt",
+    "Öffnungszeiten": "Mo. bis Do. von 18.00 bis 22.00 Uhr, Fr. bis So. von 10.00 bis 22.00 Uhr",
     "Straße": "Pillhausen 1",
     "PLZ": "93339",
     "Ort": "Riedenburg",
@@ -996,7 +996,7 @@
       48.769214
     ],
     "Name": "Gasthof Sixt",
-    "Öffnungszeiten": "folgt",
+    "Öffnungszeiten": "Mo. bis Do. und Sa. von 10.00 bis 22.00 Uhr, So. von 10.00 bis 20.00 Uhr, Fr. Ruhetag",
     "Straße": "Asamstraße 1",
     "PLZ": "93352",
     "Ort": "Rohr in Niederbayern",
@@ -1090,7 +1090,7 @@
     "Straße": "Römerstraße 4",
     "PLZ": "93333",
     "Ort": "Bad Gögging",
-    "Telefon": "09445/7525613",
+    "Telefon": "",
     "Mail": "heri.e@gmx.de",
     "url": "http://www.pension-eichschmid.de/Roll-n-Biergarten/roll-n-biergarten.html",
     "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
@@ -1237,8 +1237,8 @@
     "Telefon": "09431/996166",
     "Mail": "info@hufschmiede-sad.de",
     "url": "http://www.hufschmiede-sad.de/innenhof.php",
-    "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
-    "Bildnachweis": "unsplash CC0-Lizenz",
+    "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Hufschmiede.png",
+    "Bildnachweis": "Tino Lex",
     "Distanz": 42.0
   },
   {
@@ -1266,7 +1266,7 @@
       49.247895
     ],
     "Name": "Bergerwirt",
-    "Öffnungszeiten": "folgt",
+    "Öffnungszeiten": "noch geschlossen; öffnet voraussichtlich im Juli",
     "Straße": "Hauptstraße 28",
     "PLZ": "92436",
     "Ort": "Bruck in der Oberpfalz",
@@ -1356,7 +1356,7 @@
       49.187964
     ],
     "Name": "Gasthaus Diepold",
-    "Öffnungszeiten": "folgt",
+    "Öffnungszeiten": "Do. bis Sa. von 17.00 bis 22.00 Uhr, So. von 10.00 bis 22.00 Uhr, Mo. bis Mi. Ruhetag",
     "Straße": "Hauptstraße 33",
     "PLZ": "92358",
     "Ort": "Batzhausen",
@@ -1410,7 +1410,7 @@
       49.359245
     ],
     "Name": "Schiessl-Tafferne",
-    "Öffnungszeiten": "folgt",
+    "Öffnungszeiten": "täglich von 11.00 bis 22.00 Uhr, Mi. Ruhetag",
     "Straße": "Kemnath bei Fuhrn 8",
     "PLZ": "92431",
     "Ort": "Neunburg vorm Wald",
@@ -1428,7 +1428,7 @@
       49.229503
     ],
     "Name": "Landgasthof Weitzer",
-    "Öffnungszeiten": "folgt",
+    "Öffnungszeiten": "Di. bis So. von 11.00 bis 21.00 Uhr, Mo. Ruhetag",
     "Straße": "Untere Hauptstraße 1",
     "PLZ": "93483",
     "Ort": "Pösing",
@@ -1441,24 +1441,6 @@
   },
   {
     "id": 81,
-    "coords": [
-      12.592628,
-      49.182276
-    ],
-    "Name": "Gut Hötzing",
-    "Öffnungszeiten": "folgt",
-    "Straße": "Hötzing 1",
-    "PLZ": "93489",
-    "Ort": "Schorndorf",
-    "Telefon": " 09461/913220",
-    "Mail": "d.wanningers@gmail.com",
-    "url": "https://www.gut-hoetzing.de/der-biergarten",
-    "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
-    "Bildnachweis": "unsplash CC0-Lizenz",
-    "Distanz": 52.0
-  },
-  {
-    "id": 82,
     "coords": [
       11.47248,
       49.03606
@@ -1476,7 +1458,7 @@
     "Distanz": 53.0
   },
   {
-    "id": 83,
+    "id": 82,
     "coords": [
       12.137397,
       49.422226
@@ -1494,7 +1476,7 @@
     "Distanz": 54.0
   },
   {
-    "id": 84,
+    "id": 83,
     "coords": [
       12.382126,
       49.349147
@@ -1512,7 +1494,7 @@
     "Distanz": 55.0
   },
   {
-    "id": 85,
+    "id": 84,
     "coords": [
       12.03615,
       49.403598
@@ -1530,7 +1512,7 @@
     "Distanz": 56.0
   },
   {
-    "id": 86,
+    "id": 85,
     "coords": [
       11.90686,
       49.38919
@@ -1548,13 +1530,13 @@
     "Distanz": 56.0
   },
   {
-    "id": 87,
+    "id": 86,
     "coords": [
       11.790065,
       48.641485
     ],
     "Name": "Ziegler-Bräu",
-    "Öffnungszeiten": "folgt",
+    "Öffnungszeiten": "Mo. bis Sa. von 16.30 bis 22.00 Uhr, So. von 10.00 bis 22.00 Uhr",
     "Straße": "Scharfstrasse 22",
     "PLZ": "84048",
     "Ort": "Mainburg",
@@ -1566,7 +1548,7 @@
     "Distanz": 56.0
   },
   {
-    "id": 88,
+    "id": 87,
     "coords": [
       12.441592,
       49.334525
@@ -1584,7 +1566,7 @@
     "Distanz": 59.0
   },
   {
-    "id": 89,
+    "id": 88,
     "coords": [
       12.029495,
       49.018032
@@ -1602,25 +1584,7 @@
     "Distanz": 6.0
   },
   {
-    "id": 90,
-    "coords": [
-      12.027377,
-      49.007715
-    ],
-    "Name": "Gasthaus Haubner",
-    "Öffnungszeiten": "folgt",
-    "Straße": "Mariaorter Str. 17",
-    "PLZ": "93161",
-    "Ort": "Sinzing",
-    "Telefon": "",
-    "Mail": "",
-    "url": "",
-    "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
-    "Bildnachweis": "unsplash CC0-Lizenz",
-    "Distanz": 6.0
-  },
-  {
-    "id": 91,
+    "id": 89,
     "coords": [
       12.666407,
       49.220634
@@ -1638,7 +1602,7 @@
     "Distanz": 60.0
   },
   {
-    "id": 92,
+    "id": 90,
     "coords": [
       12.66968,
       49.217438
@@ -1656,13 +1620,13 @@
     "Distanz": 60.0
   },
   {
-    "id": 93,
+    "id": 91,
     "coords": [
       12.181081,
       49.453799
     ],
     "Name": "Gasthof zum Stern",
-    "Öffnungszeiten": "folgt",
+    "Öffnungszeiten": "Mo. bis Sa. von 17.00 bis 22.00 Uhr, So. von 10.00 bis 22.00 Uhr",
     "Straße": "Oberer Markt 6",
     "PLZ": "92507",
     "Ort": "Nabburg",
@@ -1674,7 +1638,7 @@
     "Distanz": 60.0
   },
   {
-    "id": 94,
+    "id": 92,
     "coords": [
       11.439749,
       49.106619
@@ -1686,13 +1650,13 @@
     "Ort": "Berching",
     "Telefon": "08462/27331",
     "Mail": "info@brauereigasthof-winkler.de",
-    "url": "http://www.brauereigasthof-winkler.de/index.htm",
-    "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
-    "Bildnachweis": "unsplash CC0-Lizenz",
+    "url": "http://www.brauereigasthof-winkler.de/",
+    "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Brauerei-Gasthof_Winkler.png",
+    "Bildnachweis": "Franz Guttenberger",
     "Distanz": 61.0
   },
   {
-    "id": 95,
+    "id": 93,
     "coords": [
       11.878855,
       49.418683
@@ -1710,7 +1674,7 @@
     "Distanz": 61.0
   },
   {
-    "id": 96,
+    "id": 94,
     "coords": [
       12.281619,
       49.404461
@@ -1728,13 +1692,13 @@
     "Distanz": 62.0
   },
   {
-    "id": 97,
+    "id": 95,
     "coords": [
       11.857098,
       49.444566
     ],
     "Name": "Rußwurmhaus",
-    "Öffnungszeiten": "folgt",
+    "Öffnungszeiten": "Di. bis So. von 11.00 bis 14.00 und von 17.00 bis 22.00 Uhr, Mo. Ruhetag",
     "Straße": "Eichenforstgäßchen 14",
     "PLZ": "92224",
     "Ort": "Amberg",
@@ -1746,7 +1710,7 @@
     "Distanz": 64.0
   },
   {
-    "id": 98,
+    "id": 96,
     "coords": [
       11.85894,
       49.44508
@@ -1764,7 +1728,7 @@
     "Distanz": 65.0
   },
   {
-    "id": 99,
+    "id": 97,
     "coords": [
       11.861631,
       49.444697
@@ -1776,13 +1740,13 @@
     "Ort": "Amberg",
     "Telefon": "0 96 21 / 91 34 55",
     "Mail": "",
-    "url": "http://www.winkler-braeuwirt.de/gasthaus.html",
+    "url": "https://de-de.facebook.com/winklerbraeuwirt/",
     "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
     "Bildnachweis": "unsplash CC0-Lizenz",
     "Distanz": 65.0
   },
   {
-    "id": 100,
+    "id": 98,
     "coords": [
       11.873019,
       49.444274
@@ -1800,7 +1764,7 @@
     "Distanz": 65.0
   },
   {
-    "id": 101,
+    "id": 99,
     "coords": [
       11.460532,
       49.275863
@@ -1818,7 +1782,7 @@
     "Distanz": 65.0
   },
   {
-    "id": 102,
+    "id": 100,
     "coords": [
       12.775782,
       48.876391
@@ -1827,7 +1791,7 @@
     "Öffnungszeiten": "Mi. bis So. von 12.00 bis 14.00 und 18.00 bis 22.00 Uhr, Mo. und Di. Ruhetag",
     "Straße": "Freymannstraße 15",
     "PLZ": "94559",
-    "Ort": "Welchenberg",
+    "Ort": "Niederwinkling",
     "Telefon": "09962/730",
     "Mail": "info@buchner-welchenberg.de",
     "url": "https://buchner-welchenberg.de/",
@@ -1836,7 +1800,7 @@
     "Distanz": 65.0
   },
   {
-    "id": 103,
+    "id": 101,
     "coords": [
       11.851171,
       49.455696
@@ -1854,13 +1818,13 @@
     "Distanz": 66.0
   },
   {
-    "id": 104,
+    "id": 102,
     "coords": [
       11.661075,
       49.367894
     ],
     "Name": "Gasthaus Zum Schweppermann",
-    "Öffnungszeiten": "folgt",
+    "Öffnungszeiten": "Mo. bis MI. und Fr. von 11.00 bis 14.00 und von 17.00 bis 22.00 Uhr, Sa. und So. von 11.00 bis 22.00 Uhr, Do. Ruhetag (Öffnungszeiten können sich jederzeit ändern, bitte vorher telefonisch erkundigen!)",
     "Straße": "Amberger Strasse 11",
     "PLZ": "92280",
     "Ort": "Kastl",
@@ -1872,7 +1836,7 @@
     "Distanz": 66.0
   },
   {
-    "id": 105,
+    "id": 103,
     "coords": [
       11.461817,
       49.278847
@@ -1890,7 +1854,7 @@
     "Distanz": 66.0
   },
   {
-    "id": 106,
+    "id": 104,
     "coords": [
       11.459902,
       49.277136
@@ -1908,13 +1872,13 @@
     "Distanz": 66.0
   },
   {
-    "id": 107,
+    "id": 105,
     "coords": [
       11.792942,
       49.404517
     ],
     "Name": "Gasthaus Michl",
-    "Öffnungszeiten": "folgt",
+    "Öffnungszeiten": "Mi. und Do. von 17.00 bis 22.00 Uhr, Fr. von 11.00 bis 14.00 und von 17.00 bis 22.00 Uhr, Sa. und So. von 11.00 bis 22.00 Uhr, Mo. und Di. Ruhetag",
     "Straße": "Oberleinsiedl 8",
     "PLZ": "92289",
     "Ort": "Ursensollen",
@@ -1926,13 +1890,13 @@
     "Distanz": 66.0
   },
   {
-    "id": 108,
+    "id": 106,
     "coords": [
       11.755755,
       49.402145
     ],
     "Name": "Gasthof Metzgerei Reif",
-    "Öffnungszeiten": "folgt",
+    "Öffnungszeiten": "Mo. von 11.00 bis 13.00 Uhr, Di., Mi. und Fr. von 11.00 bis 22.00 Uhr, Do. von 11.00 bis 14.00 Uhr, Sa. von 11.00 bis 14.00 und von 17.30 bis 22.00 Uhr, So. von 11.00 bis 14.00 Uhr",
     "Straße": "Raiffeisenstrasse 6",
     "PLZ": "92289",
     "Ort": "Ursensollen",
@@ -1944,13 +1908,13 @@
     "Distanz": 66.0
   },
   {
-    "id": 109,
+    "id": 107,
     "coords": [
       11.896257,
       49.458239
     ],
     "Name": "Brauerei Sterk",
-    "Öffnungszeiten": "folgt",
+    "Öffnungszeiten": "Mi. bis Sa. von 16.00 bis 22.00 Uhr, So. und Feiertage von 10.30 bis 22.00 Uhr, Mo. Und Di. Ruhetag",
     "Straße": "Hofmark 2",
     "PLZ": "92224",
     "Ort": "Amberg",
@@ -1962,7 +1926,7 @@
     "Distanz": 67.0
   },
   {
-    "id": 110,
+    "id": 108,
     "coords": [
       12.745296,
       49.198857
@@ -1980,13 +1944,13 @@
     "Distanz": 68.0
   },
   {
-    "id": 111,
+    "id": 109,
     "coords": [
       12.045032,
       49.051968
     ],
     "Name": "Gaststätte Huf Tremmelhauserhöhe",
-    "Öffnungszeiten": "folgt",
+    "Öffnungszeiten": "täglich von 12.00 bis 22.00 Uhr, Do. Ruhetag",
     "Straße": "Karether Weg 3",
     "PLZ": "93138",
     "Ort": "Lappersdorf",
@@ -1998,13 +1962,13 @@
     "Distanz": 7.0
   },
   {
-    "id": 112,
+    "id": 110,
     "coords": [
       12.167885,
       48.9663
     ],
     "Name": "Gasthof Stocker",
-    "Öffnungszeiten": "folgt",
+    "Öffnungszeiten": "Mo. bis Fr. von 11.30 bis 14.00 und von 17.00 bis 22.00 Uhr, So. von 17.00 bis 22.00 Uhr, Sa. Ruhetag",
     "Straße": "St.-Georg-Straße 2",
     "PLZ": "93083",
     "Ort": "Obertraubling",
@@ -2016,7 +1980,7 @@
     "Distanz": 7.0
   },
   {
-    "id": 113,
+    "id": 111,
     "coords": [
       12.1726,
       49.024906
@@ -2034,7 +1998,7 @@
     "Distanz": 7.0
   },
   {
-    "id": 114,
+    "id": 112,
     "coords": [
       11.434577,
       49.271599
@@ -2052,7 +2016,7 @@
     "Distanz": 71.0
   },
   {
-    "id": 115,
+    "id": 113,
     "coords": [
       11.820303,
       49.491113
@@ -2070,7 +2034,7 @@
     "Distanz": 71.0
   },
   {
-    "id": 116,
+    "id": 114,
     "coords": [
       11.40269,
       49.25112
@@ -2088,25 +2052,7 @@
     "Distanz": 72.0
   },
   {
-    "id": 117,
-    "coords": [
-      11.80822,
-      49.52108
-    ],
-    "Name": "Biergarten beim Petern",
-    "Öffnungszeiten": "folgt",
-    "Straße": "Kümmersbuch 9",
-    "PLZ": "92256",
-    "Ort": "Hahnbach",
-    "Telefon": "09664/250",
-    "Mail": "beimPetern@t-online.de",
-    "url": "https://www.hahnbach.de/tourismus-freizeit/gastronomie-unterkuenfte/",
-    "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
-    "Bildnachweis": "unsplash CC0-Lizenz",
-    "Distanz": 75.0
-  },
-  {
-    "id": 118,
+    "id": 115,
     "coords": [
       12.856072,
       49.170734
@@ -2118,13 +2064,13 @@
     "Ort": "Bad Kötzting",
     "Telefon": "09941/1429",
     "Mail": "",
-    "url": "http://www.lindner-bier.de/",
+    "url": "http://www.lindner-braeu.de/",
     "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
     "Bildnachweis": "unsplash CC0-Lizenz",
     "Distanz": 77.0
   },
   {
-    "id": 119,
+    "id": 116,
     "coords": [
       12.844784,
       49.16464
@@ -2142,7 +2088,7 @@
     "Distanz": 77.0
   },
   {
-    "id": 120,
+    "id": 117,
     "coords": [
       12.419795,
       49.461061
@@ -2160,7 +2106,7 @@
     "Distanz": 77.0
   },
   {
-    "id": 121,
+    "id": 118,
     "coords": [
       11.949485,
       49.54489
@@ -2172,19 +2118,19 @@
     "Ort": "Hirschau",
     "Telefon": "09622/70100",
     "Mail": "webhotel@schloss-hirschau.de",
-    "url": "https://www.schloss-hirschau.de/restaurant",
+    "url": "https://www.schloss-hirschau.de/",
     "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
     "Bildnachweis": "unsplash CC0-Lizenz",
     "Distanz": 78.0
   },
   {
-    "id": 122,
+    "id": 119,
     "coords": [
       12.324603,
       49.530328
     ],
     "Name": "Binnenschreiner",
-    "Öffnungszeiten": "folgt",
+    "Öffnungszeiten": "bei schönem Wetter geöffnet, bitte vorher telefonisch erkundigen",
     "Straße": "Kaufnitzweg 2",
     "PLZ": "92723",
     "Ort": "Tännesberg",
@@ -2196,7 +2142,7 @@
     "Distanz": 78.0
   },
   {
-    "id": 123,
+    "id": 120,
     "coords": [
       12.325227,
       49.531572
@@ -2214,7 +2160,7 @@
     "Distanz": 78.0
   },
   {
-    "id": 124,
+    "id": 121,
     "coords": [
       12.035801,
       48.974485
@@ -2227,18 +2173,18 @@
     "Telefon": "09405/2102",
     "Mail": "",
     "url": "",
-    "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
-    "Bildnachweis": "unsplash CC0-Lizenz",
+    "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Zur_Walba.png",
+    "Bildnachweis": "Steffen",
     "Distanz": 8.0
   },
   {
-    "id": 125,
+    "id": 122,
     "coords": [
       12.836203,
       49.310903
     ],
     "Name": "Gasthof Fellner",
-    "Öffnungszeiten": "folgt",
+    "Öffnungszeiten": "täglich von 10.00 bis 22.00 Uhr",
     "Straße": "Glaserstraße 8",
     "PLZ": "93437",
     "Ort": "Furth im Wald",
@@ -2250,7 +2196,7 @@
     "Distanz": 80.0
   },
   {
-    "id": 126,
+    "id": 123,
     "coords": [
       12.206612,
       49.0286
@@ -2268,13 +2214,13 @@
     "Distanz": 9.0
   },
   {
-    "id": 127,
+    "id": 124,
     "coords": [
       12.195125,
       48.99389
     ],
     "Name": "Ratskeller Neutraubling",
-    "Öffnungszeiten": "folgt",
+    "Öffnungszeiten": "täglich von 11.00 bis 14.00 und von 17.00 bis 22.00 Uhr",
     "Straße": "Regensburger Straße 11",
     "PLZ": "93073",
     "Ort": "Neutraubling",
@@ -2286,7 +2232,7 @@
     "Distanz": 9.0
   },
   {
-    "id": 128,
+    "id": 125,
     "coords": [
       12.01622,
       49.04269
@@ -2304,7 +2250,7 @@
     "Distanz": 9.0
   },
   {
-    "id": 129,
+    "id": 126,
     "coords": [
       12.012992,
       48.986399
@@ -2322,7 +2268,7 @@
     "Distanz": 9.0
   },
   {
-    "id": 130,
+    "id": 127,
     "coords": [
       11.571,
       49.52201
@@ -2338,5 +2284,23 @@
     "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Landgasthof_Peterhof.png",
     "Bildnachweis": "D. Donhauser",
     "Distanz": 91.0
+  },
+  {
+    "id": 128,
+    "coords": [
+      12.6376,
+      49.1687
+    ],
+    "Name": "Zum Hofmark-Bräu",
+    "Öffnungszeiten": "Mo. bis Fr. von 16.00 bis 22.00 Uhr, sa. Von 14.00 bis 22.00 Uhr, So. und Feiertage von 10.00 bis 22.00 Uhr, Di. Ruhetag",
+    "Straße": "Hofmarkstraße 29",
+    "PLZ": "93455",
+    "Ort": "Loifling bei Cham",
+    "Telefon": "09971/3363",
+    "Mail": "info@Hofmark-Bier.de",
+    "url": "https://www.bayerischer-wald.de/Media/Attraktionen/Zum-Hofmark-Braeu",
+    "Foto": "https://dig-red.mittelbayerische.de/OL/klonk.png",
+    "Bildnachweis": "unsplash CC0-Lizenz",
+    "Distanz": 58.0
   }
 ]
