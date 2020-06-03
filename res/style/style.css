@@ -74,7 +74,7 @@ canvas.ol-unselectable {
   margin: .1em 0;
 }
 #MZ-lightblue {
-  background-color: #a7ccdc;
+  background-color: #96B8C6; /* actual lightblue: #a7ccdc; made darker for visualization purposes */
 }
 #MZ-midblue {
   background-color: #6699cc;
@@ -89,7 +89,7 @@ canvas.ol-unselectable {
   background-color: #8e8e8e;
 }
 #MZ-darkgray {
-  background-color: #3e3e3e;
+  background-color: #727272; /* actual Lightgray: #3e3e3e; made darker for visualization purposes */
 }
 #legend-inner-container {
   margin: .1em 0 1em .1em;
