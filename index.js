@@ -150,7 +150,7 @@ function getCurrentMarkerOverlay(item, k) { // k = i+1 from calling function
   return currentMarkerOverlay;
 }
 function switchColorByDistance(distance) {
-  let color = rgb_colors.dunkelgrau;
+  let color = rgb_colors.neudunkelblau;
   if(distance < 10) {
     color = rgb_colors.hellblau;
     count10++;

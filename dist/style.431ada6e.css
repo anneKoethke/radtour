@@ -1,9 +1,9 @@
 /* GENERAL */
 @font-face {
   font-family: 'National2WebRegular';
-  src: url('../font/national2/National2Web-Regular.eot'); /* IE9 Compat Modes */
-  src: url('../font/national2/National2Web-Bold.woff2') format('woff2'); /* Super Modern Browsers */
-  src: url('../font/national2/National2Web-Regular.woff') format('woff'); /* Pretty Modern Browsers */
+  src: url('/National2Web-Regular.244412e7.eot'); /* IE9 Compat Modes */
+  src: url('/National2Web-Bold.9d9f2c49.woff2') format('woff2'); /* Super Modern Browsers */
+  src: url('/National2Web-Regular.ef8f1ba9.woff') format('woff'); /* Pretty Modern Browsers */
   font-weight: 400;
   font-style: normal;
 }
@@ -205,3 +205,6 @@ canvas.ol-unselectable {
     grid-gap: .1em;
   }
 }
+
+
+/*# sourceMappingURL=/style.431ada6e.css.map */
