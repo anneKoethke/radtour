@@ -65183,40 +65183,44 @@ var mapOptions = require("./res/generalOptions/mapOptions.json");
 var lupeSrc = require("./res/img/lupe.png");
 /* ------------------ START: MAP MAKING ------------------ */
 // TODO: define custom control: search button for biergärten
-// könnte man eventuell auslagern?!
+// src: https://openlayers.org/en/latest/examples/navigation-controls.html
 
 
-var SearchControl = /*@__PURE__*/function (Control) {
+var SearchControl = function (Control) {
   function SearchControl(opt_options) {
     var options = opt_options || {};
-    var button = document.createElement('button');
-    button.className = 'search-btn'; //button.innerHTML = 'L';
-
+    var searchBtn = document.createElement('button');
+    searchBtn.className = 'search-btn';
     var lupe = document.createElement('img');
     lupe.src = lupeSrc;
     lupe.className = 'lupe';
-    button.appendChild(lupe);
+    searchBtn.appendChild(lupe);
     var inputField = document.createElement('input');
     inputField.placeholder = "Biergarten suchen...";
     var element = document.createElement('div');
     element.className = 'search-control ol-zoom-extent ol-unselectable ol-control';
-    element.appendChild(button);
+    element.appendChild(searchBtn);
     element.appendChild(inputField);
     Control.call(this, {
       element: element,
       target: options.target
     });
     var clickEvent = getEventType();
-    button.addEventListener(clickEvent, this.handleRotateNorth.bind(this), false);
+    searchBtn.addEventListener(clickEvent, this.searchData.bind(this), false);
   }
 
   if (Control) SearchControl.__proto__ = Control;
   SearchControl.prototype = Object.create(Control && Control.prototype);
   SearchControl.prototype.constructor = SearchControl;
 
-  SearchControl.prototype.handleRotateNorth = function handleRotateNorth() {
+  SearchControl.prototype.searchData = function searchData() {
     //this.getMap().getView().setRotation(0);
-    console.log("Suche nach Biergarten!");
+    console.log("Suche nach Biergarten!"); // data verfügbar // console.log(data)
+    // TODO: search JSON 
+    // (first approach: search for name -> one result; 
+    //  later: search for place -> several results)
+    // TODO: update map view (set center to latLng) to Biergarten + Zoom in
+    // TODO: highlight biergarten dot with ornage, tooltip NOT opend yet 
   };
 
   return SearchControl;
@@ -65239,14 +65243,14 @@ var mapView = new _ol2.View({
   constrainRotation: 1 // constrains rotating the map on mobile (snaps back)
 
 }); // build the map 
-// TODO: expand controls here ->  controls: defaultControls().extend([ new myCustomControl() ]), ...
 
 var map = new _ol2.Map({
   controls: (0, _control.defaults)({
     attributionOptions: {
       collapsible: true
     }
-  }).extend([new SearchControl()]),
+  }).extend([new SearchControl() // custon control
+  ]),
   interactions: (0, _interaction.defaults)({
     constrainResolution: true
   }),
