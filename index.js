@@ -51,8 +51,8 @@ var SearchControl = /*@__PURE__*/(function (Control) {
       element: element,
       target: options.target
     });
-
-    button.addEventListener('click', this.handleRotateNorth.bind(this), false);
+    let clickEvent = getEventType();
+    button.addEventListener(clickEvent, this.handleRotateNorth.bind(this), false);
   }
 
   if ( Control ) SearchControl.__proto__ = Control;
@@ -61,7 +61,7 @@ var SearchControl = /*@__PURE__*/(function (Control) {
 
   SearchControl.prototype.handleRotateNorth = function handleRotateNorth () {
     //this.getMap().getView().setRotation(0);
-    console.log("hurrai!")
+    console.log("Suche nach Biergarten!")
   };
 
   return SearchControl;
