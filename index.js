@@ -39,6 +39,7 @@ var SearchControl = (function (Control) {
     searchBtn.appendChild(lupe);
 
     var inputField = document.createElement('input');
+    inputField.id = 'search-input';
     inputField.placeholder = "Biergarten suchen...";
 
     var element = document.createElement('div');
@@ -59,13 +60,15 @@ var SearchControl = (function (Control) {
   SearchControl.prototype.constructor = SearchControl;
 
   SearchControl.prototype.searchData = function searchData () {
-    //this.getMap().getView().setRotation(0);
-    console.log("Suche nach Biergarten!")
+    let input = document.querySelector('#search-input');
+    if (input.value) console.log(input.value); // leerzeichen testen! 
+    
     // data verfügbar // console.log(data)
     // TODO: search JSON 
           // (first approach: search for name -> one result; 
           //  later: search for place -> several results)
     // TODO: update map view (set center to latLng) to Biergarten + Zoom in
+    //this.getMap().getView().setRotation(0);
     // TODO: highlight biergarten dot with ornage, tooltip NOT opend yet 
   };
 
