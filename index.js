@@ -8,7 +8,7 @@ import Point from 'ol/geom/Point';
 import Vector from 'ol/source/Vector';
 import Overlay from 'ol/Overlay';
 import Projection from 'ol/proj/Projection';
-import { defaults as defaultControls } from 'ol/control.js';
+import { defaults as defaultControls, Control } from 'ol/control';
 import { defaults as defaultInteractions } from 'ol/interaction.js';
 import Stamen from 'ol/source/Stamen.js';
 
@@ -25,6 +25,73 @@ const mapOptions = require("./res/generalOptions/mapOptions.json");
 /* ------------------ START: MAP MAKING ------------------ */
 
 // TODO: define custom control: search button for biergärten
+// könnte man eventuell auslagern?!
+/*
+var SearchControl = (function (Control) {
+
+  function SearchControl(opt_options) {
+    let options = opt_options || {};
+    let searchBtn = document.createElement('button');
+    searchBtn.innerHTML = 'Lupe';
+    let inputField = document.createElement('input');
+    let el = document.createElement('div');
+    element.className = 'search-button ol-unselectable ol-control';
+    element.appendChild(searchBtn);
+    element.appendChild(inputField);
+
+    Control.call(this, {
+      element: element,
+      target: options.target
+    });
+
+    searchBtn.addEventListener('click', this.searchData.bind(this), false);
+  }
+    
+  if (Control) SearchControl.__proto__ = Control;
+  SearchControl.prototype = Object.create( Control && Control.prototype );
+  SearchControl.prototype.constructor = SearchControl;
+
+  SearchControl.prototype.searchData = function searchData() {
+      console.log("searching");
+      // this.getMap().getView().setRotation(0);
+  }
+}(Control)); 
+*/
+
+var SearchControl = /*@__PURE__*/(function (Control) {
+  function SearchControl(opt_options) {
+    var options = opt_options || {};
+
+    var button = document.createElement('button');
+    button.innerHTML = 'L';
+
+    var inputField = document.createElement('input');
+    inputField.innerHTML = "search...";
+
+    var element = document.createElement('div');
+    element.className = 'search-control ol-zoom-extent ol-unselectable ol-control';
+    element.appendChild(button);
+    element.appendChild(inputField);
+
+    Control.call(this, {
+      element: element,
+      target: options.target
+    });
+
+    button.addEventListener('click', this.handleRotateNorth.bind(this), false);
+  }
+
+  if ( Control ) SearchControl.__proto__ = Control;
+  SearchControl.prototype = Object.create( Control && Control.prototype );
+  SearchControl.prototype.constructor = SearchControl;
+
+  SearchControl.prototype.handleRotateNorth = function handleRotateNorth () {
+    this.getMap().getView().setRotation(0);
+  };
+
+  return SearchControl;
+}(Control));
+
 
 // STAMEN TileLayer
 const mapTileLayer = new TileLayer({ 
@@ -46,7 +113,12 @@ const mapView = new View({
 // build the map 
 // TODO: expand controls here ->  controls: defaultControls().extend([ new myCustomControl() ]), ...
 const map = new Map({
-  controls: defaultControls({ attributionOptions: { collapsible: true } }),
+  controls: defaultControls({ 
+    attributionOptions: { 
+      collapsible: true } 
+    }).extend([
+    new SearchControl()
+  ]),
   interactions: defaultInteractions({ constrainResolution: true }),
   target: 'map',
   layers: [ mapTileLayer ],
