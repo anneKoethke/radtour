@@ -24,6 +24,9 @@ const mapOptions = require("./res/generalOptions/mapOptions.json");
 
 /* ------------------ START: MAP MAKING ------------------ */
 
+// TODO: define custom control: search button for biergärten
+
+// STAMEN TileLayer
 const mapTileLayer = new TileLayer({ 
   source: new Stamen({
     layer: 'terrain',
@@ -31,6 +34,7 @@ const mapTileLayer = new TileLayer({
                   ' under <a href="http://creativecommons.org/licenses/by/3.0" target="_blank">CC BY 3.0</a>.'           
   }) 
 });
+// intial map view
 const mapView = new View({
     // OL5 + OSM >>> Web Mercator projection (EPSG:3857) || Google Maps GUI >>> EPSG:4326 == LonLat (or rather LatLon)
     center: fromLonLat(mapOptions.center),
@@ -39,6 +43,8 @@ const mapView = new View({
     zoom: mapOptions.initialZoom,
     constrainRotation: 1 // constrains rotating the map on mobile (snaps back)
   })
+// build the map 
+// TODO: expand controls here ->  controls: defaultControls().extend([ new myCustomControl() ]), ...
 const map = new Map({
   controls: defaultControls({ attributionOptions: { collapsible: true } }),
   interactions: defaultInteractions({ constrainResolution: true }),
@@ -46,6 +52,7 @@ const map = new Map({
   layers: [ mapTileLayer ],
   view: mapView
 });
+
 // counters
 let count10 = 0,
     count30 = 0,
