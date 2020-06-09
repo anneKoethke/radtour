@@ -21,52 +21,26 @@ const data = require("./res/data/bier.json");
 // GENERAL OPTION
 const rgb_colors = require("./res/generalOptions/MZ_colors.json");
 const mapOptions = require("./res/generalOptions/mapOptions.json");
+const lupeSrc = require("./res/img/lupe.png");
 
 /* ------------------ START: MAP MAKING ------------------ */
 
 // TODO: define custom control: search button for biergärten
 // könnte man eventuell auslagern?!
-/*
-var SearchControl = (function (Control) {
-
-  function SearchControl(opt_options) {
-    let options = opt_options || {};
-    let searchBtn = document.createElement('button');
-    searchBtn.innerHTML = 'Lupe';
-    let inputField = document.createElement('input');
-    let el = document.createElement('div');
-    element.className = 'search-button ol-unselectable ol-control';
-    element.appendChild(searchBtn);
-    element.appendChild(inputField);
-
-    Control.call(this, {
-      element: element,
-      target: options.target
-    });
-
-    searchBtn.addEventListener('click', this.searchData.bind(this), false);
-  }
-    
-  if (Control) SearchControl.__proto__ = Control;
-  SearchControl.prototype = Object.create( Control && Control.prototype );
-  SearchControl.prototype.constructor = SearchControl;
-
-  SearchControl.prototype.searchData = function searchData() {
-      console.log("searching");
-      // this.getMap().getView().setRotation(0);
-  }
-}(Control)); 
-*/
-
 var SearchControl = /*@__PURE__*/(function (Control) {
   function SearchControl(opt_options) {
     var options = opt_options || {};
 
     var button = document.createElement('button');
-    button.innerHTML = 'L';
+    button.className = 'search-btn';
+    //button.innerHTML = 'L';
+    var lupe = document.createElement('img');
+    lupe.src = lupeSrc;
+    lupe.className = 'lupe';
+    button.appendChild(lupe);
 
     var inputField = document.createElement('input');
-    inputField.innerHTML = "search...";
+    inputField.placeholder = "Biergarten suchen...";
 
     var element = document.createElement('div');
     element.className = 'search-control ol-zoom-extent ol-unselectable ol-control';
@@ -86,7 +60,8 @@ var SearchControl = /*@__PURE__*/(function (Control) {
   SearchControl.prototype.constructor = SearchControl;
 
   SearchControl.prototype.handleRotateNorth = function handleRotateNorth () {
-    this.getMap().getView().setRotation(0);
+    //this.getMap().getView().setRotation(0);
+    console.log("hurrai!")
   };
 
   return SearchControl;

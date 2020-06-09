@@ -65135,6 +65135,8 @@ module.exports = {
   "maximalZoom": 14,
   "maxExtent": [48.762563, 11.152466, 49.461515, 13.107112]
 };
+},{}],"res/img/lupe.png":[function(require,module,exports) {
+module.exports = "/lupe.ec9104db.png";
 },{}],"index.js":[function(require,module,exports) {
 "use strict";
 
@@ -65177,50 +65179,25 @@ var data = require("./res/data/bier.json"); // GENERAL OPTION
 var rgb_colors = require("./res/generalOptions/MZ_colors.json");
 
 var mapOptions = require("./res/generalOptions/mapOptions.json");
+
+var lupeSrc = require("./res/img/lupe.png");
 /* ------------------ START: MAP MAKING ------------------ */
 // TODO: define custom control: search button for biergärten
 // könnte man eventuell auslagern?!
-
-/*
-var SearchControl = (function (Control) {
-
-  function SearchControl(opt_options) {
-    let options = opt_options || {};
-    let searchBtn = document.createElement('button');
-    searchBtn.innerHTML = 'Lupe';
-    let inputField = document.createElement('input');
-    let el = document.createElement('div');
-    element.className = 'search-button ol-unselectable ol-control';
-    element.appendChild(searchBtn);
-    element.appendChild(inputField);
-
-    Control.call(this, {
-      element: element,
-      target: options.target
-    });
-
-    searchBtn.addEventListener('click', this.searchData.bind(this), false);
-  }
-    
-  if (Control) SearchControl.__proto__ = Control;
-  SearchControl.prototype = Object.create( Control && Control.prototype );
-  SearchControl.prototype.constructor = SearchControl;
-
-  SearchControl.prototype.searchData = function searchData() {
-      console.log("searching");
-      // this.getMap().getView().setRotation(0);
-  }
-}(Control)); 
-*/
 
 
 var SearchControl = /*@__PURE__*/function (Control) {
   function SearchControl(opt_options) {
     var options = opt_options || {};
     var button = document.createElement('button');
-    button.innerHTML = 'L';
+    button.className = 'search-btn'; //button.innerHTML = 'L';
+
+    var lupe = document.createElement('img');
+    lupe.src = lupeSrc;
+    lupe.className = 'lupe';
+    button.appendChild(lupe);
     var inputField = document.createElement('input');
-    inputField.innerHTML = "search...";
+    inputField.placeholder = "Biergarten suchen...";
     var element = document.createElement('div');
     element.className = 'search-control ol-zoom-extent ol-unselectable ol-control';
     element.appendChild(button);
@@ -65237,7 +65214,8 @@ var SearchControl = /*@__PURE__*/function (Control) {
   SearchControl.prototype.constructor = SearchControl;
 
   SearchControl.prototype.handleRotateNorth = function handleRotateNorth() {
-    this.getMap().getView().setRotation(0);
+    //this.getMap().getView().setRotation(0);
+    console.log("hurrai!");
   };
 
   return SearchControl;
@@ -65459,7 +65437,7 @@ var drawMarkers = function () {
 
 
 map.on("moveend", mapMoveEndHandler);
-},{"ol/ol.css":"node_modules/ol/ol.css","ol":"node_modules/ol/index.js","ol/layer/Tile":"node_modules/ol/layer/Tile.js","ol/layer/Vector":"node_modules/ol/layer/Vector.js","ol/source/OSM":"node_modules/ol/source/OSM.js","ol/proj":"node_modules/ol/proj.js","ol/geom/Point":"node_modules/ol/geom/Point.js","ol/source/Vector":"node_modules/ol/source/Vector.js","ol/Overlay":"node_modules/ol/Overlay.js","ol/proj/Projection":"node_modules/ol/proj/Projection.js","ol/control":"node_modules/ol/control.js","ol/interaction.js":"node_modules/ol/interaction.js","ol/source/Stamen.js":"node_modules/ol/source/Stamen.js","underscore":"node_modules/underscore/modules/index-all.js","./res/data/bier.json":"res/data/bier.json","./res/generalOptions/MZ_colors.json":"res/generalOptions/MZ_colors.json","./res/generalOptions/mapOptions.json":"res/generalOptions/mapOptions.json"}],"node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
+},{"ol/ol.css":"node_modules/ol/ol.css","ol":"node_modules/ol/index.js","ol/layer/Tile":"node_modules/ol/layer/Tile.js","ol/layer/Vector":"node_modules/ol/layer/Vector.js","ol/source/OSM":"node_modules/ol/source/OSM.js","ol/proj":"node_modules/ol/proj.js","ol/geom/Point":"node_modules/ol/geom/Point.js","ol/source/Vector":"node_modules/ol/source/Vector.js","ol/Overlay":"node_modules/ol/Overlay.js","ol/proj/Projection":"node_modules/ol/proj/Projection.js","ol/control":"node_modules/ol/control.js","ol/interaction.js":"node_modules/ol/interaction.js","ol/source/Stamen.js":"node_modules/ol/source/Stamen.js","underscore":"node_modules/underscore/modules/index-all.js","./res/data/bier.json":"res/data/bier.json","./res/generalOptions/MZ_colors.json":"res/generalOptions/MZ_colors.json","./res/generalOptions/mapOptions.json":"res/generalOptions/mapOptions.json","./res/img/lupe.png":"res/img/lupe.png"}],"node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
 var OldModule = module.bundle.Module;
@@ -65487,7 +65465,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "57955" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "60261" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
