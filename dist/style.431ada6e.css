@@ -196,8 +196,6 @@ canvas.ol-unselectable {
   display: grid;
   grid-template-columns: 1fr 6fr;
 }
-.lupe {
-}
 
 /* MEDIA-QUERIES */
 @media only screen and (max-width: 840px) {
