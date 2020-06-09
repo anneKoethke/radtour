@@ -138,7 +138,7 @@ canvas.ol-unselectable {
 }
 .close {
   margin: auto 0;
-  background-color: #000;
+  background-color: #069;
   color: white;
   border: 1px solid white;
   text-align: center;
@@ -149,7 +149,7 @@ canvas.ol-unselectable {
 }
 .close:hover {
   background-color: #8e8e8e;
-  color: #000 !important;
+  color: #069 !important;
 }
 .popup > p {
   color: white;
@@ -170,7 +170,7 @@ canvas.ol-unselectable {
 .popup-link {
   color: white !important;
   text-decoration: none;
-  background-color: #000;
+  background-color: #069;
   border: 1px solid white;
   padding: .1em .5em .3em .5em;
   text-align: center;
@@ -180,7 +180,7 @@ canvas.ol-unselectable {
 }
 .popup-link:hover {
   background-color: #8e8e8e;
-  color: #000 !important;
+  color: #069 !important;
 }
 .popup-single-item {
   display: grid;
