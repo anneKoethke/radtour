@@ -65133,6 +65133,7 @@ module.exports = {
   "center": [12.100510, 49.059635],
   "initialZoom": 8,
   "maximalZoom": 14,
+  "searchZoom": 12,
   "maxExtent": [48.762563, 11.152466, 49.461515, 13.107112]
 };
 },{}],"res/img/lupe.png":[function(require,module,exports) {
@@ -65217,41 +65218,58 @@ var SearchControl = function (Control) {
 
   SearchControl.prototype.searchData = function searchData() {
     var inp = document.querySelector('#search-input'),
-        currVal = inp.value ? inp.value.trim().toLowerCase() : null;
+        // remove whitespace from input (left and right end), lower case for later easy comparison with marker's data name
+    currVal = inp.value ? inp.value.trim().toLowerCase() : null;
 
     if (!currVal) {
+      remindUserToTypeIntoInputField(inp);
+    } else {
+      // this refers here to the map controls (the custom build controls)
+      highlightMarkerAndCenterZoomMap(this, currVal);
+      inp.value = "";
+    }
+
+    function remindUserToTypeIntoInputField(inp) {
       inp.placeholder = "Suchbegriff hier eingeben";
       inp.style.borderColor = 'red';
       inp.addEventListener('focus', function (e) {
         inp.placeholder = "Biergarten suchen...";
         inp.style.borderColor = 'initial';
       });
-    } else {
-      console.log(currVal);
+    } // so far handles just ONE result
 
+
+    function highlightMarkerAndCenterZoomMap(mapControl, currVal) {
       for (var i = 0; i < data.length; i++) {
         var currName = data[i].Name.toLowerCase(),
-            currMarker = document.querySelector('#marker-' + data[i].id); // no highlight for all markers unconcerned
-
-        currMarker.style.backgroundColor = switchColorByDistance(data[i].Distanz);
-        currMarker.style.border = "none";
+            currMarker = document.querySelector('#marker-' + data[i].id);
+        removeHighlightFromMarker(currMarker, data[i].Distanz);
 
         if (currName === currVal) {
-          // highlight marker
-          currMarker.style.backgroundColor = "orange";
-          currMarker.style.border = "1px solid white"; // change map (position, zoom) to location
-
-          this.getMap().getView().setCenter((0, _proj.fromLonLat)(data[i].coords));
-          this.getMap().getView().setZoom(14);
+          highlightMarker(currMarker);
+          centerAndZoomMapToMarker(mapControl, data[i].coords);
         }
       }
-    } // data verfügbar // console.log(data)
-    // TODO: search JSON 
-    // (first approach: search for name -> one result; 
-    //  later: search for place -> several results)
-    // TODO: update map view (set center to latLng) to Biergarten + Zoom in
-    //this.getMap().getView().setRotation(0);
-    // TODO: highlight biergarten dot with ornage, tooltip NOT opend yet 
+    } // no highlight for all markers unconcerned
+
+
+    function removeHighlightFromMarker(currMarker, distance) {
+      currMarker.style.backgroundColor = switchColorByDistance(distance);
+      currMarker.style.border = "none";
+    } // highlight the marker(s) found by search
+
+
+    function highlightMarker(currMarker) {
+      currMarker.style.backgroundColor = "orange";
+      currMarker.style.border = "1px solid white";
+    } // center map on the ONE found marker (by name search)
+
+
+    function centerAndZoomMapToMarker(mapControl, coordinates) {
+      mapControl.getMap().getView().setCenter((0, _proj.fromLonLat)(coordinates));
+      mapControl.getMap().getView().setZoom(mapOptions.searchZoom);
+    } // TODO: search JSON 
+    // search for place -> several results (seacrh by name -> one result works!)
 
   };
 
