@@ -65217,7 +65217,7 @@ var SearchControl = function (Control) {
 
   SearchControl.prototype.searchData = function searchData() {
     var inp = document.querySelector('#search-input'),
-        currVal = inp.value ? inp.value.trim() : null;
+        currVal = inp.value ? inp.value.trim().toLowerCase() : null;
 
     if (!currVal) {
       inp.placeholder = "Suchbegriff hier eingeben";
@@ -65230,12 +65230,21 @@ var SearchControl = function (Control) {
       console.log(currVal);
 
       for (var i = 0; i < data.length; i++) {
-        if (data[i].Name === currVal) {
+        var currName = data[i].Name.toLowerCase(),
+            currMarker = document.querySelector('#marker-' + data[i].id); // no highlight for all markers unconcerned
+
+        currMarker.style.backgroundColor = switchColorByDistance(data[i].Distanz);
+        currMarker.style.border = "none";
+
+        if (currName === currVal) {
+          // highlight marker
+          currMarker.style.backgroundColor = "orange";
+          currMarker.style.border = "1px solid white"; // change map (position, zoom) to location
+
           this.getMap().getView().setCenter((0, _proj.fromLonLat)(data[i].coords));
           this.getMap().getView().setZoom(14);
         }
-      } // Val in Data? ->  change Map
-
+      }
     } // data verfügbar // console.log(data)
     // TODO: search JSON 
     // (first approach: search for name -> one result; 
