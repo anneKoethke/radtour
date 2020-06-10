@@ -65,6 +65,7 @@ var SearchControl = (function (Control) {
   SearchControl.prototype.searchData = function searchData () {
     let inp = document.querySelector('#search-input'), 
       // remove whitespace from input (left and right end), lower case for later easy comparison with marker's data name
+      // TODO: remove ', <Ort>'
       currVal = (inp.value)? ((inp.value).trim()).toLowerCase() : null;
     if (!currVal) {
       remindUserToTypeIntoInputField(inp);
@@ -266,7 +267,7 @@ function addActive(x) {
 function getNameArray() {
   let arr = [];
   for (let i = 0; i < data.length; i++) {
-    arr.push(data[i].Name);
+    arr.push(data[i].Name + ", " + data[i].Ort);
   }
   return arr;
 }

@@ -65221,6 +65221,7 @@ var SearchControl = function (Control) {
   SearchControl.prototype.searchData = function searchData() {
     var inp = document.querySelector('#search-input'),
         // remove whitespace from input (left and right end), lower case for later easy comparison with marker's data name
+    // TODO: remove ', <Ort>'
     currVal = inp.value ? inp.value.trim().toLowerCase() : null;
 
     if (!currVal) {
@@ -65434,7 +65435,7 @@ function getNameArray() {
   var arr = [];
 
   for (var i = 0; i < data.length; i++) {
-    arr.push(data[i].Name);
+    arr.push(data[i].Name + ", " + data[i].Ort);
   }
 
   return arr;
