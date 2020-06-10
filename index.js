@@ -28,6 +28,7 @@ const lupeSrc = require("./res/img/lupe.png");
 // TODO: define custom control: search button for biergärten
 // src: https://openlayers.org/en/latest/examples/navigation-controls.html
 var SearchControl = (function (Control) {
+
   function SearchControl(opt_options) {
     var options = opt_options || {};
 
@@ -51,6 +52,7 @@ var SearchControl = (function (Control) {
       element: element,
       target: options.target
     });
+
     let clickEvent = getEventType();
     searchBtn.addEventListener(clickEvent, this.searchData.bind(this), false);
   }
@@ -60,8 +62,20 @@ var SearchControl = (function (Control) {
   SearchControl.prototype.constructor = SearchControl;
 
   SearchControl.prototype.searchData = function searchData () {
-    let input = document.querySelector('#search-input');
-    if (input.value) console.log(input.value); // leerzeichen testen! 
+    let inp = document.querySelector('#search-input'), 
+      currVal = (inp.value)? (inp.value).trim() : null;
+    if (!currVal) {
+      inp.placeholder = "Suchbegriff hier eingeben";
+      inp.style.borderColor = 'red';
+      inp.addEventListener("focus", function(e) {
+        inp.placeholder = "Biergarten suchen...";
+        inp.style.borderColor = 'initial';
+      })
+    } else {
+      console.log(currVal);
+      // Val in Data? ->  change Map
+    }
+    
     
     // data verfügbar // console.log(data)
     // TODO: search JSON 
@@ -70,7 +84,7 @@ var SearchControl = (function (Control) {
     // TODO: update map view (set center to latLng) to Biergarten + Zoom in
     //this.getMap().getView().setRotation(0);
     // TODO: highlight biergarten dot with ornage, tooltip NOT opend yet 
-  };
+  };    
 
   return SearchControl;
 }(Control));

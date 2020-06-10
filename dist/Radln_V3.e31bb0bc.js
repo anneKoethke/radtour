@@ -65215,15 +65215,26 @@ var SearchControl = function (Control) {
   SearchControl.prototype.constructor = SearchControl;
 
   SearchControl.prototype.searchData = function searchData() {
-    var input = document.querySelector('#search-input');
-    if (input.value) console.log(input.value); // leerzeichen testen! 
-    // data verfügbar // console.log(data)
+    var inp = document.querySelector('#search-input'),
+        currVal = inp.value ? inp.value.trim() : null;
+
+    if (!currVal) {
+      inp.placeholder = "Suchbegriff hier eingeben";
+      inp.style.borderColor = 'red';
+      inp.addEventListener("focus", function (e) {
+        inp.placeholder = "Biergarten suchen...";
+        inp.style.borderColor = 'initial';
+      });
+    } else {
+      console.log(currVal); // Val in Data? ->  change Map
+    } // data verfügbar // console.log(data)
     // TODO: search JSON 
     // (first approach: search for name -> one result; 
     //  later: search for place -> several results)
     // TODO: update map view (set center to latLng) to Biergarten + Zoom in
     //this.getMap().getView().setRotation(0);
     // TODO: highlight biergarten dot with ornage, tooltip NOT opend yet 
+
   };
 
   return SearchControl;
@@ -65473,7 +65484,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "61212" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "64069" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
