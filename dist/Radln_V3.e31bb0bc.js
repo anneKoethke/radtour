@@ -65199,7 +65199,8 @@ var SearchControl = function (Control) {
     lupe.className = 'lupe';
     searchBtn.appendChild(lupe);
     inputField.id = 'search-input';
-    inputField.placeholder = "Biergarten suchen..."; // put all eleemnts into positin on map (via div with className 'ol-zoom-extent')
+    inputField.placeholder = "Biergarten suchen...";
+    inputField.setAttribute('autocomplete', 'off'); // put all eleemnts into positin on map (via div with className 'ol-zoom-extent')
 
     parentEl.className = 'search-control ol-zoom-extent ol-unselectable ol-control';
     parentEl.appendChild(searchBtn);
@@ -65411,7 +65412,8 @@ function removeActive(x) {
   for (var i = 0; i < x.length; i++) {
     x[i].classList.remove("autocomplete-active");
   }
-}
+} //TODO: auhc bei searchBtn
+
 
 function closeAllLists(elmnt) {
   /*close all autocomplete lists in the document,
@@ -65643,7 +65645,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "64069" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "56719" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};

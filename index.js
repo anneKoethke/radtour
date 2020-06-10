@@ -42,6 +42,7 @@ var SearchControl = (function (Control) {
     searchBtn.appendChild(lupe);
     inputField.id = 'search-input';
     inputField.placeholder = "Biergarten suchen...";
+    inputField.setAttribute('autocomplete', 'off');
     // put all eleemnts into positin on map (via div with className 'ol-zoom-extent')
     parentEl.className = 'search-control ol-zoom-extent ol-unselectable ol-control';
     parentEl.appendChild(searchBtn);
@@ -249,6 +250,7 @@ function addActive(x) {
       x[i].classList.remove("autocomplete-active");
     }
   }
+  //TODO: auhc bei searchBtn
   function closeAllLists(elmnt) {
     /*close all autocomplete lists in the document,
     except the one passed as an argument:*/
