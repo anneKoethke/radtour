@@ -65182,8 +65182,8 @@ var mapOptions = require("./res/generalOptions/mapOptions.json");
 
 var lupeSrc = require("./res/img/lupe.png");
 /* ------------------ START: MAP MAKING ------------------ */
-// TODO: define custom control: search button for biergärten
-// src: https://openlayers.org/en/latest/examples/navigation-controls.html
+// Custom Map Control: for biergarten search
+// src: https://openlayers.org/en/latest/examples/custom-controls.html
 
 
 var SearchControl = function (Control) {
@@ -65201,7 +65201,8 @@ var SearchControl = function (Control) {
     var element = document.createElement('div');
     element.className = 'search-control ol-zoom-extent ol-unselectable ol-control';
     element.appendChild(searchBtn);
-    element.appendChild(inputField);
+    element.appendChild(inputField); // 
+
     Control.call(this, {
       element: element,
       target: options.target
@@ -65221,12 +65222,20 @@ var SearchControl = function (Control) {
     if (!currVal) {
       inp.placeholder = "Suchbegriff hier eingeben";
       inp.style.borderColor = 'red';
-      inp.addEventListener("focus", function (e) {
+      inp.addEventListener('focus', function (e) {
         inp.placeholder = "Biergarten suchen...";
         inp.style.borderColor = 'initial';
       });
     } else {
-      console.log(currVal); // Val in Data? ->  change Map
+      console.log(currVal);
+
+      for (var i = 0; i < data.length; i++) {
+        if (data[i].Name === currVal) {
+          this.getMap().getView().setCenter((0, _proj.fromLonLat)(data[i].coords));
+          this.getMap().getView().setZoom(14);
+        }
+      } // Val in Data? ->  change Map
+
     } // data verfügbar // console.log(data)
     // TODO: search JSON 
     // (first approach: search for name -> one result; 

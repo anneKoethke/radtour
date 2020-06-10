@@ -25,8 +25,8 @@ const lupeSrc = require("./res/img/lupe.png");
 
 /* ------------------ START: MAP MAKING ------------------ */
 
-// TODO: define custom control: search button for biergärten
-// src: https://openlayers.org/en/latest/examples/navigation-controls.html
+// Custom Map Control: for biergarten search
+// src: https://openlayers.org/en/latest/examples/custom-controls.html
 var SearchControl = (function (Control) {
 
   function SearchControl(opt_options) {
@@ -47,7 +47,7 @@ var SearchControl = (function (Control) {
     element.className = 'search-control ol-zoom-extent ol-unselectable ol-control';
     element.appendChild(searchBtn);
     element.appendChild(inputField);
-
+    // 
     Control.call(this, {
       element: element,
       target: options.target
@@ -67,12 +67,19 @@ var SearchControl = (function (Control) {
     if (!currVal) {
       inp.placeholder = "Suchbegriff hier eingeben";
       inp.style.borderColor = 'red';
-      inp.addEventListener("focus", function(e) {
+      inp.addEventListener('focus', function(e) {
         inp.placeholder = "Biergarten suchen...";
         inp.style.borderColor = 'initial';
       })
     } else {
       console.log(currVal);
+      for (let i = 0; i < data.length; i++) {
+        if (data[i].Name === currVal) {
+          this.getMap().getView().setCenter(fromLonLat(data[i].coords))
+          this.getMap().getView().setZoom(14)
+        }
+      }
+      
       // Val in Data? ->  change Map
     }
     
