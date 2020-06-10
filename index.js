@@ -30,30 +30,31 @@ const lupeSrc = require("./res/img/lupe.png");
 var SearchControl = (function (Control) {
 
   function SearchControl(opt_options) {
-    var options = opt_options || {};
-
-    var searchBtn = document.createElement('button');
+    let options = opt_options || {}, 
+      searchBtn = document.createElement('button'),
+      lupe = document.createElement('img'),
+      inputField = document.createElement('input'),
+      parentEl = document.createElement('div');
+    
     searchBtn.className = 'search-btn';
-    var lupe = document.createElement('img');
     lupe.src = lupeSrc;
     lupe.className = 'lupe';
     searchBtn.appendChild(lupe);
-
-    var inputField = document.createElement('input');
     inputField.id = 'search-input';
     inputField.placeholder = "Biergarten suchen...";
-
-    var element = document.createElement('div');
-    element.className = 'search-control ol-zoom-extent ol-unselectable ol-control';
-    element.appendChild(searchBtn);
-    element.appendChild(inputField);
-    // 
+    // put all eleemnts into positin on map (via div with className 'ol-zoom-extent')
+    parentEl.className = 'search-control ol-zoom-extent ol-unselectable ol-control';
+    parentEl.appendChild(searchBtn);
+    parentEl.appendChild(inputField);
+    
+    // enhance Control function via .call() with this custom control (SearchControl)
     Control.call(this, {
-      element: element,
+      element: parentEl,
       target: options.target
     });
 
     let clickEvent = getEventType();
+    // bind the searchData-function of SearchControl to the searchBtn (wouldn't work without '.bind()')
     searchBtn.addEventListener(clickEvent, this.searchData.bind(this), false);
   }
 
@@ -68,18 +69,19 @@ var SearchControl = (function (Control) {
     if (!currVal) {
       remindUserToTypeIntoInputField(inp);
     } else {
-      // this refers here to the map controls (the custom build controls)
+      // 'this' refers here to the map controls (the custom build controls)
       highlightMarkerAndCenterZoomMap(this, currVal);
       inp.value = "";
     }
     
+    // help the user avoid mistakes and frustration
     function remindUserToTypeIntoInputField(inp) {
       inp.placeholder = "Suchbegriff hier eingeben";
       inp.style.borderColor = 'red';
       inp.addEventListener('focus', function(e) {
         inp.placeholder = "Biergarten suchen...";
         inp.style.borderColor = 'initial';
-      })
+      }, false)
     }
 
     // so far handles just ONE result
@@ -106,7 +108,7 @@ var SearchControl = (function (Control) {
       currMarker.style.backgroundColor = "orange";
       currMarker.style.border = "1px solid white";
     }
-    
+
     // center map on the ONE found marker (by name search)
     function centerAndZoomMapToMarker(mapControl, coordinates) {
       mapControl.getMap().getView().setCenter(fromLonLat(coordinates));
@@ -119,7 +121,6 @@ var SearchControl = (function (Control) {
   return SearchControl;
 }(Control));
 
-
 // STAMEN TileLayer
 const mapTileLayer = new TileLayer({ 
   source: new Stamen({
@@ -128,6 +129,7 @@ const mapTileLayer = new TileLayer({
                   ' under <a href="http://creativecommons.org/licenses/by/3.0" target="_blank">CC BY 3.0</a>.'           
   }) 
 });
+
 // intial map view
 const mapView = new View({
     // OL5 + OSM >>> Web Mercator projection (EPSG:3857) || Google Maps GUI >>> EPSG:4326 == LonLat (or rather LatLon)
@@ -137,13 +139,14 @@ const mapView = new View({
     zoom: mapOptions.initialZoom,
     constrainRotation: 1 // constrains rotating the map on mobile (snaps back)
   })
+
 // build the map 
 const map = new Map({
   controls: defaultControls({ 
     attributionOptions: { 
       collapsible: true } 
     }).extend([
-    new SearchControl() // custon control
+    new SearchControl() // custon control (see above)
   ]),
   interactions: defaultInteractions({ constrainResolution: true }),
   target: 'map',
@@ -151,17 +154,17 @@ const map = new Map({
   view: mapView
 });
 
-// counters
+/* ------------------ END: MAP MAKING ------------------ */
+
+
+/* ------------------ START: USER INTERACTION ------------------ */
+
+// counters for switchColorByDistance
 let count10 = 0,
     count30 = 0,
     count50 = 0,
     count75 = 0,
     countMore = 0;
-
-/* ------------------ END: MAP MAKING ------------------ */
-
-
-/* ------------------ START: USER INTERACTION ------------------ */
 
 // Safari click/touch Handler
 function getEventType () {
@@ -187,12 +190,16 @@ function createPopup(item) {
   hidePopup(popupContainer);
   hideBtnWhenNoLinkExists();
 }
+
+// removal of data - a bit of a brute force approach :) 
 function hidePopup(currPopup) {
   let closeBtn = document.querySelector("#closeBtn");
   closeBtn.addEventListener(eventType, function () {
     currPopup.innerHTML = "";
-  });
+  }, false);
 }
+
+// only when there is contact data to use, there will be a button to click
 function hideBtnWhenNoLinkExists() {
   let popupLinkList = document.querySelectorAll(".popup-link");
   for(let i = 0; i < popupLinkList.length; i++) {
@@ -201,11 +208,12 @@ function hideBtnWhenNoLinkExists() {
     }
   }
 }
+
+// data binding for the creation of the popups
 function bindDataToMarker() {
   let re = /[0-9]+/,
     id = re.exec(this.id),
     currItem = data[(id-1)];
-    
   createPopup(currItem);
 }
 
@@ -215,8 +223,10 @@ function bindDataToMarker() {
 
 /* ------------------ Start: MAP-MARKERS >>> drawMarkers() ------------------ */
 
+// parking lot for the markers (when they are created, before they can be layed over the map by their coords)
 const markerContainer = document.getElementById("hidden-div");
 
+// the focal marker (Regensburg Hbf), from which the cycling distances are measured
 function drawHbfMarker() {  
   const hbfMarker = new Overlay({
     position: fromLonLat(mapOptions.rgbg_hbf),
@@ -227,17 +237,20 @@ function drawHbfMarker() {
   map.addOverlay(hbfMarker);
 }
 
+// foreach point in the data make a marker div and lay it over the map
 function drawDataMarkers() {
   for (let i = 0; i < data.length; i++) {
     if (data[i].coords[0] != 0) { // only use data with existing coordinates
       let currMarkerDiv = getCurrentMarkerDiv(data[i], i+1);
-      currMarkerDiv.addEventListener(eventType, bindDataToMarker)
+      currMarkerDiv.addEventListener(eventType, bindDataToMarker, false)
       markerContainer.appendChild(currMarkerDiv); // marker divs in #hidden-div
       let currMarker = getCurrentMarkerOverlay(data[i], i+1);
       map.addOverlay(currMarker);
     }
   }
 }
+
+// make a marker Div for the current data point 
 function getCurrentMarkerDiv(item, k) { // k = i+1 from calling function
   let currentDiv = document.createElement("div");
   currentDiv.className = "marker";
@@ -245,6 +258,8 @@ function getCurrentMarkerDiv(item, k) { // k = i+1 from calling function
   currentDiv.style.backgroundColor = switchColorByDistance(item.Distanz);
   return currentDiv;
 }
+
+// positioning of the marker on the map
 function getCurrentMarkerOverlay(item, k) { // k = i+1 from calling function
   let currentMarkerOverlay = new Overlay({
     position: fromLonLat(item.coords),
@@ -254,6 +269,8 @@ function getCurrentMarkerOverlay(item, k) { // k = i+1 from calling function
   });
   return currentMarkerOverlay;
 }
+
+// color codes for distance to Regensburg Hbf as preattentive visual cue
 function switchColorByDistance(distance) {
   let color = rgb_colors.neudunkelblau;
   if(distance < 10) {
@@ -273,37 +290,44 @@ function switchColorByDistance(distance) {
   }
   return color;
 }
+
+// end of map movement after zoom
 function mapMoveEndHandler() {
   let currZoom = map.getView().getZoom(),
     markerList = document.getElementsByClassName("marker"); 
   for (let i = 0; i < markerList.length; i++) {
-    switch (currZoom) {
+    switchSizeOnZoomLevel(currZoom, markerList[i]);
+  }
+}
+
+// change the size of the markers for mobile friendly use (zoom in expands the markers for touch, zoom out shrinks them back for better oversight)
+function switchSizeOnZoomLevel(currZoom, marker) {
+  switch (currZoom) {
       case 8:
       case 9: 
-        markerList[i].style.width = "8px";  
-        markerList[i].style.height = "8px";   
+        marker.style.width = "8px";  
+        marker.style.height = "8px";   
         break;
       case 10:
       case 11:
-        markerList[i].style.width = "10px";  
-        markerList[i].style.height = "10px";   
+        marker.style.width = "10px";  
+        marker.style.height = "10px";   
         break;
       case 12:
-        markerList[i].style.width = "15px";  
-        markerList[i].style.height = "15px"; 
+        marker.style.width = "15px";  
+        marker.style.height = "15px"; 
         break;
       case 13:
-        markerList[i].style.width = "20px";  
-        markerList[i].style.height = "20px"; 
+        marker.style.width = "20px";  
+        marker.style.height = "20px"; 
         break;
       case 14:
-        markerList[i].style.width = "25px";  
-        markerList[i].style.height = "25px";
+        marker.style.width = "25px";  
+        marker.style.height = "25px";
         break;
       default:
         break;
     }
-  }
 }
 
 // after map making >>> draw the markers via data
@@ -314,5 +338,5 @@ const drawMarkers = (function () {
 
 /* ------------------ END: MAP MARKERS ------------------ */
 
-// marker visualization according to zoom level 
+// marker visualization according to zoom level (moveend == zoom event haopend and stopped now)
 map.on("moveend", mapMoveEndHandler);
