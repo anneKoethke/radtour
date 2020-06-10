@@ -178,6 +178,99 @@ function getEventType () {
 }
 const eventType = getEventType();
 
+// autocomplete handler
+let currFocus;
+const nameArray = getNameArray();
+
+const input = document.querySelector('#search-input');
+// if user puts dat in input
+input.addEventListener('input', function(e) {
+  let a, b, i, val = this.value;
+  // close all lists
+  if (!val) return false; 
+  currFocus = -1;
+
+  a = document.createElement('div');
+  a.setAttribute("id", this.id + "autocomplete-list");
+  a.setAttribute("class", "autocomplete-items");
+  this.parentNode.appendChild(a);
+  
+  for (let i = 0; i < nameArray.length; i++) {
+    if (nameArray[i].substr(0, val.length).toLowerCase() == val.toLowerCase()) {
+      b = document.createElement("DIV");
+      b.innerHTML = "<strong>" + nameArray[i].substr(0, val.length) + "</strong>";
+      b.innerHTML += nameArray[i].substr(val.length);
+      b.innerHTML += "<input type='hidden' value='" + nameArray[i] + "'>";
+      let currEvent = getEventType();
+      b.addEventListener(currEvent, function(e) {
+        input.value = this.getElementsByTagName("input")[0].value;
+        // closeAllLists();
+      });
+      a.appendChild(b);
+    }
+  }
+})
+
+// funzt nicht
+input.addEventListener("keydown", function(e) {
+  let x = document.getElementById(this.id + "autocomplete-list");
+  if (x) x = x.getElementsByTagName("div");
+  if (e.keyCode == 40) { 
+    // key DOWN -> currFocus increased by one
+    currFocus++;
+    // current Focus mor vsible
+    addActive(x);
+  } else if (e.keyCode == 38) { // key UP
+    currFocus--;
+    addActive(x);
+  } else if (e.keyCode == 13) { // key ENTER
+    e.preventDefault();
+    if (currFocus > -1) {
+    /*and simulate a click on the "active" item:*/
+      if (x) x[currFocus].click();
+    }
+  }
+});
+
+function addActive(x) {
+    /*a function to classify an item as "active":*/
+    if (!x) return false;
+    /*start by removing the "active" class on all items:*/
+    removeActive(x);
+    if (currFocus >= x.length) currFocus = 0;
+    if (currFocus < 0) currentFocus = (x.length - 1);
+    /*add class "autocomplete-active":*/
+    x[currFocus].classList.add("autocomplete-active");
+  }
+  function removeActive(x) {
+    /*a function to remove the "active" class from all autocomplete items:*/
+    for (var i = 0; i < x.length; i++) {
+      x[i].classList.remove("autocomplete-active");
+    }
+  }
+  function closeAllLists(elmnt) {
+    /*close all autocomplete lists in the document,
+    except the one passed as an argument:*/
+    var x = document.getElementsByClassName("autocomplete-items");
+    for (var i = 0; i < x.length; i++) {
+      if (elmnt != x[i] && elmnt != input) {
+        x[i].parentNode.removeChild(x[i]);
+      }
+    }
+  }
+  /*execute a function when someone clicks in the document:*/
+  document.addEventListener("click", function (e) {
+      closeAllLists(e.target);
+  });
+
+function getNameArray() {
+  let arr = [];
+  for (let i = 0; i < data.length; i++) {
+    arr.push(data[i].Name);
+  }
+  return arr;
+}
+
 // popup handler
 function createPopup(item) {
   let templDiv = document.querySelector("#pop").innerHTML,
