@@ -65378,8 +65378,11 @@ function getAutocompleteList(that) {
 
 function handleHighlighting(autocompleteList, highlighting, val) {
   for (var i = 0; i < nameArray.length; i++) {
-    if (nameArray[i].substr(0, val.length).toLowerCase() == val.toLowerCase()) {
-      highlighting = document.createElement('div');
+    var curr = nameArray[i].toLowerCase();
+
+    if (curr.search(val.toLowerCase()) > -1) {
+      highlighting = document.createElement('div'); // TODO: auch nach zweitem Namen suchbar machen (regex?)
+
       highlighting.innerHTML = "<strong>" + nameArray[i].substr(0, val.length) + "</strong>";
       highlighting.innerHTML += nameArray[i].substr(val.length);
       highlighting.innerHTML += "<input type='hidden' value='" + nameArray[i] + "'>"; // click on item of autocomplete list to push it to input (required for SearchControl)
@@ -65662,7 +65665,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "56699" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "58556" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};

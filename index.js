@@ -216,8 +216,10 @@ function getAutocompleteList(that) {
 // on input create a div for each elem in the nameArray and highlight the part already typed
 function handleHighlighting(autocompleteList, highlighting, val) {
   for (let i = 0; i < nameArray.length; i++) {
-    if (nameArray[i].substr(0, val.length).toLowerCase() == val.toLowerCase()) {
+    let curr = nameArray[i].toLowerCase();
+    if (curr.search(val.toLowerCase()) > -1) {
       highlighting = document.createElement('div');
+      // TODO: auch nach zweitem Namen suchbar machen (regex?)
       highlighting.innerHTML = "<strong>" + nameArray[i].substr(0, val.length) + "</strong>";
       highlighting.innerHTML += nameArray[i].substr(val.length);
       highlighting.innerHTML += "<input type='hidden' value='" + nameArray[i] + "'>";
