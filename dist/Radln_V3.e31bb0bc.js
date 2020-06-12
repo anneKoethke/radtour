@@ -65340,14 +65340,17 @@ var eventType = getEventType(); // autocomplete handler
 
 var currFocus;
 var nameArray = getNameArray();
-var input = document.querySelector('#search-input'); // if user puts dat in input
+var input = document.querySelector('#search-input'); // if user puts data in input
 
-input.addEventListener('input', function (e) {
+input.addEventListener('input', handleDropdownListForAutocomplete);
+
+function handleDropdownListForAutocomplete() {
   var a,
       b,
       i,
       val = this.value; // close all lists
 
+  closeAllLists();
   if (!val) return false;
   currFocus = -1;
   a = document.createElement('div');
@@ -65368,14 +65371,14 @@ input.addEventListener('input', function (e) {
       a.appendChild(b);
     }
   }
-}); // funzt nicht
+}
 
 input.addEventListener("keydown", function (e) {
   var x = document.getElementById(this.id + "autocomplete-list");
   if (x) x = x.getElementsByTagName("div");
 
   if (e.keyCode == 40) {
-    // key DOWN -> currFocus increased by one
+    // key DOWN
     currFocus++; // current Focus mor vsible
 
     addActive(x);
@@ -65645,7 +65648,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "56719" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "51188" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
