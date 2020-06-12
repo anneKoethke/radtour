@@ -23,6 +23,20 @@ const rgb_colors = require("./res/generalOptions/MZ_colors.json");
 const mapOptions = require("./res/generalOptions/mapOptions.json");
 const lupeSrc = require("./res/img/lupe.png");
 
+// Safari click/touch Handler
+function getEventType () {
+  let eventType = "click";
+  if(navigator.userAgent.match(/mobile/i)) {
+    if(navigator.userAgent.match(/iPad|iPhone/i)) {
+      eventType = "touchend";
+    }
+	}
+  return eventType;
+}
+
+// supplements 'click' event for safari when touch screen
+const eventType = getEventType();
+
 /* ------------------ START: MAP MAKING ------------------ */
 
 // Custom Map Control: for biergarten search
@@ -53,10 +67,9 @@ var SearchControl = (function (Control) {
       element: parentEl,
       target: options.target
     });
-
-    let clickEvent = getEventType();
     // bind the searchData-function of SearchControl to the searchBtn (wouldn't work without '.bind()')
-    searchBtn.addEventListener(clickEvent, this.searchData.bind(this), false);
+    searchBtn.addEventListener(eventType, this.searchData.bind(this), false);
+
   }
 
   if ( Control ) SearchControl.__proto__ = Control;
@@ -65,9 +78,10 @@ var SearchControl = (function (Control) {
 
   SearchControl.prototype.searchData = function searchData () {
     let inp = document.querySelector('#search-input'), 
-      // remove whitespace from input (left and right end), lower case for later easy comparison with marker's data name
-      // TODO: remove ', <Ort>'
-      currVal = (inp.value)? ((inp.value).trim()).toLowerCase() : null;
+      // trim: remove whitespace from input (left and right end), 
+      // split(',')[0] : get only the name part (not ', <Ort>'); split return a string array
+      // lower case for easy comparison with marker's data name later
+      currVal = (inp.value)? (((inp.value).trim()).split(','))[0].toLowerCase() : null;
     if (!currVal) {
       remindUserToTypeIntoInputField(inp);
     } else {
@@ -168,110 +182,113 @@ let count10 = 0,
     count75 = 0,
     countMore = 0;
 
-// Safari click/touch Handler
-function getEventType () {
-  let eventType = "click";
-  if(navigator.userAgent.match(/mobile/i)) {
-    if(navigator.userAgent.match(/iPad|iPhone/i)) {
-      eventType = "touchend";
-    }
-	}
-  return eventType;
-}
-const eventType = getEventType();
+/* AUTOCOMPLETE HANDLER */
 
-// autocomplete handler
+// the active element in the autocoplete dropdown list
 let currFocus;
+// Array of the Biergraten names for Search / Dorpdown
 const nameArray = getNameArray();
-
 const input = document.querySelector('#search-input');
-// if user puts data in input
+// User types a name into the Dropdown
 input.addEventListener('input', handleDropdownListForAutocomplete);
+input.addEventListener("keydown", handleKeyboardUseOnDropdown);
 
 function handleDropdownListForAutocomplete() {
-  let a, b, i, val = this.value;
+  let autocompleteList, highlighting, val = this.value;
   // close all lists
   closeAllLists();
-  
+  // no input value? do nothing
   if (!val) return false; 
+  // nothing is selected (nothign is active) yet
   currFocus = -1;
+  //create the autocomplete list (dropdown with suggestions)
+  autocompleteList = getAutocompleteList(this);
+  // append list to parent of input (a div)
+  this.parentNode.appendChild(autocompleteList);
+  handleHighlighting(autocompleteList, highlighting, val);
+}
 
-  a = document.createElement('div');
-  a.setAttribute("id", this.id + "autocomplete-list");
+function getAutocompleteList(that) {
+  let a = document.createElement('div');
+  a.setAttribute("id", that.id + "autocomplete-list");
   a.setAttribute("class", "autocomplete-items");
-  this.parentNode.appendChild(a);
-  
+  return a;
+}
+
+// on input create a div for each elem in the nameArray and highlight the part already typed
+function handleHighlighting(autocompleteList, highlighting, val) {
   for (let i = 0; i < nameArray.length; i++) {
     if (nameArray[i].substr(0, val.length).toLowerCase() == val.toLowerCase()) {
-      b = document.createElement("DIV");
-      b.innerHTML = "<strong>" + nameArray[i].substr(0, val.length) + "</strong>";
-      b.innerHTML += nameArray[i].substr(val.length);
-      b.innerHTML += "<input type='hidden' value='" + nameArray[i] + "'>";
-      let currEvent = getEventType();
-      b.addEventListener(currEvent, function(e) {
+      highlighting = document.createElement('div');
+      highlighting.innerHTML = "<strong>" + nameArray[i].substr(0, val.length) + "</strong>";
+      highlighting.innerHTML += nameArray[i].substr(val.length);
+      highlighting.innerHTML += "<input type='hidden' value='" + nameArray[i] + "'>";
+
+      highlighting.addEventListener(eventType, function(e) {
         input.value = this.getElementsByTagName("input")[0].value;
-        // closeAllLists();
+        closeAllLists();
       });
-      a.appendChild(b);
+      autocompleteList.appendChild(highlighting);
     }
   }
 }
 
-input.addEventListener("keydown", function(e) {
+// handling the use of arrow keys on the dropdown
+function handleKeyboardUseOnDropdown(e) {
+  // x is the htmlCollection representing the list
   let x = document.getElementById(this.id + "autocomplete-list");
   if (x) x = x.getElementsByTagName("div");
+  // move up and down the selection  
   if (e.keyCode == 40) { // key DOWN
     currFocus++;
-    // current Focus mor vsible
     addActive(x);
   } else if (e.keyCode == 38) { // key UP
     currFocus--;
     addActive(x);
+    // simulate a click on the "active" item on ENTER
   } else if (e.keyCode == 13) { // key ENTER
     e.preventDefault();
     if (currFocus > -1) {
-    /*and simulate a click on the "active" item:*/
       if (x) x[currFocus].click();
     }
   }
-});
+}
 
+// handling the 'active' attribute (CSS) for 
 function addActive(x) {
-    /*a function to classify an item as "active":*/
-    if (!x) return false;
-    /*start by removing the "active" class on all items:*/
-    removeActive(x);
-    if (currFocus >= x.length) currFocus = 0;
-    if (currFocus < 0) currentFocus = (x.length - 1);
-    /*add class "autocomplete-active":*/
-    x[currFocus].classList.add("autocomplete-active");
+  if (!x) return false;
+  removeActive(x);
+  if (currFocus >= x.length) currFocus = 0;
+  if (currFocus < 0) currentFocus = (x.length - 1);
+  x[currFocus].classList.add("autocomplete-active");
+}
+
+// removes active property from all elements in autocomplete list
+function removeActive(x) {
+  for (var i = 0; i < x.length; i++) {
+    x[i].classList.remove("autocomplete-active");
   }
-  function removeActive(x) {
-    /*a function to remove the "active" class from all autocomplete items:*/
-    for (var i = 0; i < x.length; i++) {
-      x[i].classList.remove("autocomplete-active");
+}
+
+// close all autocomplete lists in the document,except the one passed as an argument
+function closeAllLists(elmnt) {
+  let x = document.getElementsByClassName("autocomplete-items");
+  for (var i = 0; i < x.length; i++) {
+    if (elmnt != x[i] && elmnt != input) {
+      x[i].parentNode.removeChild(x[i]);
     }
   }
-  //TODO: auhc bei searchBtn
-  function closeAllLists(elmnt) {
-    /*close all autocomplete lists in the document,
-    except the one passed as an argument:*/
-    var x = document.getElementsByClassName("autocomplete-items");
-    for (var i = 0; i < x.length; i++) {
-      if (elmnt != x[i] && elmnt != input) {
-        x[i].parentNode.removeChild(x[i]);
-      }
-    }
-  }
+}
   /*execute a function when someone clicks in the document:*/
-  document.addEventListener("click", function (e) {
-      closeAllLists(e.target);
-  });
+/* document.addEventListener(eventType, function (e) {
+  closeAllLists(e.target);
+}); */
 
 function getNameArray() {
   let arr = [];
   for (let i = 0; i < data.length; i++) {
     arr.push(data[i].Name + ", " + data[i].Ort);
+    //arr.push(data[i].Name);
   }
   return arr;
 }
