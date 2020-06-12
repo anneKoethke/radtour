@@ -220,7 +220,8 @@ function handleHighlighting(autocompleteList, highlighting, val) {
     if (curr.search(val.toLowerCase()) > -1) {
       highlighting = document.createElement('div');
       // TODO: auch nach zweitem Namen suchbar machen (regex?)
-      highlighting.innerHTML = "<strong>" + nameArray[i].substr(0, val.length) + "</strong>";
+      //highlighting.innerHTML = "<strong>" + nameArray[i].substr(0, val.length) + "</strong>";
+      highlighting.innerHTML = nameArray[i].substr(0, val.length);
       highlighting.innerHTML += nameArray[i].substr(val.length);
       highlighting.innerHTML += "<input type='hidden' value='" + nameArray[i] + "'>";
       // click on item of autocomplete list to push it to input (required for SearchControl)
