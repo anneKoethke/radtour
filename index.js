@@ -12,6 +12,7 @@ import { defaults as defaultControls, Control } from 'ol/control';
 import { defaults as defaultInteractions } from 'ol/interaction.js';
 import Stamen from 'ol/source/Stamen.js';
 
+
 /* INITIAL STEPS */
 
 // underscoreJS for templating of popups
@@ -39,9 +40,9 @@ const eventType = getEventType();
 
 /* ------------------ START: MAP MAKING ------------------ */
 
-// Custom Map Control: for biergarten search
+// CUSTOM MAP CONTROL: for biergarten search
 // src: https://openlayers.org/en/latest/examples/custom-controls.html
-var SearchControl = (function (Control) {
+const SearchControl = (function (Control) {
 
   function SearchControl(opt_options) {
     let options = opt_options || {}, 
@@ -49,7 +50,6 @@ var SearchControl = (function (Control) {
       lupe = document.createElement('img'),
       inputField = document.createElement('input'),
       parentEl = document.createElement('div');
-    
     searchBtn.className = 'search-btn';
     lupe.src = lupeSrc;
     lupe.className = 'lupe';
@@ -57,11 +57,10 @@ var SearchControl = (function (Control) {
     inputField.id = 'search-input';
     inputField.placeholder = "Biergarten suchen...";
     inputField.setAttribute('autocomplete', 'off');
-    // put all eleemnts into positin on map (via div with className 'ol-zoom-extent')
+    // put all elements into positin on map (via div with className 'ol-zoom-extent')
     parentEl.className = 'search-control ol-zoom-extent ol-unselectable ol-control';
     parentEl.appendChild(searchBtn);
-    parentEl.appendChild(inputField);
-    
+    parentEl.appendChild(inputField);   
     // enhance Control function via .call() with this custom control (SearchControl)
     Control.call(this, {
       element: parentEl,
@@ -69,13 +68,12 @@ var SearchControl = (function (Control) {
     });
     // bind the searchData-function of SearchControl to the searchBtn (wouldn't work without '.bind()')
     searchBtn.addEventListener(eventType, this.searchData.bind(this), false);
-
   }
-
+  // make sure, OL Control is imported, before adding SearchControl as custom Corntol to it
   if ( Control ) SearchControl.__proto__ = Control;
   SearchControl.prototype = Object.create( Control && Control.prototype );
   SearchControl.prototype.constructor = SearchControl;
-
+  // the function: search the data via the input when the button is clicked
   SearchControl.prototype.searchData = function searchData () {
     let inp = document.querySelector('#search-input'), 
       // trim: remove whitespace from input (left and right end), 
@@ -133,7 +131,7 @@ var SearchControl = (function (Control) {
     // TODO: search JSON 
           // search for place -> several results (seacrh by name -> one result works!)
   };    
-
+  
   return SearchControl;
 }(Control));
 
@@ -146,9 +144,10 @@ const mapTileLayer = new TileLayer({
   }) 
 });
 
-// intial map view
+// INITIAL map view
 const mapView = new View({
-    // OL5 + OSM >>> Web Mercator projection (EPSG:3857) || Google Maps GUI >>> EPSG:4326 == LonLat (or rather LatLon)
+    // OL5 + OSM >>> Web Mercator projection (EPSG:3857) 
+    // != Google Maps GUI >>> EPSG:4326 == LonLat (or rather LatLon)
     center: fromLonLat(mapOptions.center),
     maxZoom: mapOptions.maximalZoom,
     minZoom: mapOptions.initialZoom,
@@ -184,19 +183,18 @@ let count10 = 0,
 
 /* AUTOCOMPLETE HANDLER */
 
-// the active element in the autocoplete dropdown list
+// the (going to be) active element in the autocomplete dropdown list
 let currFocus;
-// Array of the Biergraten names for Search / Dorpdown
+// Array of the Biergraten names for Search / Dropdown
 const nameArray = getNameArray();
 const input = document.querySelector('#search-input');
-// User types a name into the Dropdown
+// user types a name into the Dropdown
 input.addEventListener('input', handleDropdownListForAutocomplete);
-input.addEventListener("keydown", handleKeyboardUseOnDropdown);
+input.addEventListener('keydown', handleKeyboardUseOnDropdown);
 
 function handleDropdownListForAutocomplete() {
   let autocompleteList, highlighting, val = this.value;
-  // close all lists
-  closeAllLists();
+  closeAllLists(); // close previous autocomplete lists
   // no input value? do nothing
   if (!val) return false; 
   // nothing is selected (nothign is active) yet
@@ -223,7 +221,7 @@ function handleHighlighting(autocompleteList, highlighting, val) {
       highlighting.innerHTML = "<strong>" + nameArray[i].substr(0, val.length) + "</strong>";
       highlighting.innerHTML += nameArray[i].substr(val.length);
       highlighting.innerHTML += "<input type='hidden' value='" + nameArray[i] + "'>";
-
+      // click on item of autocomplete list to push it to input (required for SearchControl)
       highlighting.addEventListener(eventType, function(e) {
         input.value = this.getElementsByTagName("input")[0].value;
         closeAllLists();
@@ -236,53 +234,54 @@ function handleHighlighting(autocompleteList, highlighting, val) {
 // handling the use of arrow keys on the dropdown
 function handleKeyboardUseOnDropdown(e) {
   // x is the htmlCollection representing the list
-  let x = document.getElementById(this.id + "autocomplete-list");
-  if (x) x = x.getElementsByTagName("div");
+  let elementsList = document.getElementById(this.id + "autocomplete-list");
+  if (elementsList) elementsList = elementsList.getElementsByTagName("div");
   // move up and down the selection  
   if (e.keyCode == 40) { // key DOWN
     currFocus++;
-    addActive(x);
+    addActive(elementsList);
   } else if (e.keyCode == 38) { // key UP
     currFocus--;
-    addActive(x);
-    // simulate a click on the "active" item on ENTER
+    addActive(elementsList);
   } else if (e.keyCode == 13) { // key ENTER
     e.preventDefault();
     if (currFocus > -1) {
-      if (x) x[currFocus].click();
+      // simulate a click on the "active" item on ENTER
+      if (elementsList) elementsList[currFocus].click();
     }
   }
 }
 
 // handling the 'active' attribute (CSS) for 
-function addActive(x) {
-  if (!x) return false;
-  removeActive(x);
-  if (currFocus >= x.length) currFocus = 0;
-  if (currFocus < 0) currentFocus = (x.length - 1);
-  x[currFocus].classList.add("autocomplete-active");
+function addActive(list) {
+  if (!list) return false;
+  removeActive(list);
+  if (currFocus >= list.length) currFocus = 0;
+  if (currFocus < 0) currentFocus = (list.length - 1);
+  list[currFocus].classList.add("autocomplete-active");
 }
 
 // removes active property from all elements in autocomplete list
-function removeActive(x) {
-  for (var i = 0; i < x.length; i++) {
-    x[i].classList.remove("autocomplete-active");
+function removeActive(list) {
+  for (var i = 0; i < list.length; i++) {
+    list[i].classList.remove("autocomplete-active");
   }
 }
 
 // close all autocomplete lists in the document,except the one passed as an argument
 function closeAllLists(elmnt) {
-  let x = document.getElementsByClassName("autocomplete-items");
-  for (var i = 0; i < x.length; i++) {
-    if (elmnt != x[i] && elmnt != input) {
-      x[i].parentNode.removeChild(x[i]);
+  let list = document.getElementsByClassName("autocomplete-items");
+  for (var i = 0; i < list.length; i++) {
+    if (elmnt != list[i] && elmnt != input) {
+      list[i].parentNode.removeChild(list[i]);
     }
   }
 }
-  /*execute a function when someone clicks in the document:*/
-/* document.addEventListener(eventType, function (e) {
+
+// close autocomplete list when clicking o the map
+map.addEventListener(eventType, function (e) {
   closeAllLists(e.target);
-}); */
+});
 
 function getNameArray() {
   let arr = [];
