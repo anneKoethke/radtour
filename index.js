@@ -51,6 +51,7 @@ const SearchControl = (function (Control) {
       inputField = document.createElement('input'),
       parentEl = document.createElement('div');
     searchBtn.className = 'search-btn';
+    searchBtn.id = 'searching';
     lupe.src = lupeSrc;
     lupe.className = 'lupe';
     searchBtn.appendChild(lupe);
@@ -225,6 +226,8 @@ function handleHighlighting(autocompleteList, highlighting, val) {
       // click on item of autocomplete list to push it to input (required for SearchControl)
       highlighting.addEventListener(eventType, function(e) {
         input.value = this.getElementsByTagName("input")[0].value;
+        let searchBtn = document.querySelector("#searching");
+        searchBtn.click();
         closeAllLists();
       });
       autocompleteList.appendChild(highlighting);

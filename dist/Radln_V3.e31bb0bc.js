@@ -65210,6 +65210,7 @@ var SearchControl = function (Control) {
         inputField = document.createElement('input'),
         parentEl = document.createElement('div');
     searchBtn.className = 'search-btn';
+    searchBtn.id = 'searching';
     lupe.src = lupeSrc;
     lupe.className = 'lupe';
     searchBtn.appendChild(lupe);
@@ -65388,6 +65389,8 @@ function handleHighlighting(autocompleteList, highlighting, val) {
 
       highlighting.addEventListener(eventType, function (e) {
         input.value = this.getElementsByTagName("input")[0].value;
+        var searchBtn = document.querySelector("#searching");
+        searchBtn.click();
         closeAllLists();
       });
       autocompleteList.appendChild(highlighting);
