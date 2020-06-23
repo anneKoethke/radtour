@@ -213,6 +213,7 @@ canvas.ol-unselectable {
   top: 100%;
   left: 0;
   right: 0;
+  /* make results scrollable */
   max-height: 220px;
   overflow: auto;
 }
