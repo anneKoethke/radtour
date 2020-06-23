@@ -63692,7 +63692,7 @@ module.exports = [{
 }, {
   "id": 27,
   "coords": [12.078202, 48.998831],
-  "Name": "Kneitinger's Hubertushöhe",
+  "Name": "Kneitinger`s Hubertushöhe",
   "Öffnungszeiten": "Täglich bei schönem Wetter 12.00 bis 22.00 Uhr",
   "Straße": "Wilhelm-Raabe-Straße 1",
   "PLZ": "93051",
@@ -63846,7 +63846,7 @@ module.exports = [{
 }, {
   "id": 38,
   "coords": [12.087431, 49.184425],
-  "Name": "Michl's Landgasthof",
+  "Name": "Michl`s Landgasthof",
   "Öffnungszeiten": "nur auf Anfrage",
   "Straße": "Bergmannstraße 43",
   "PLZ": "93142",
@@ -64042,7 +64042,7 @@ module.exports = [{
 }, {
   "id": 52,
   "coords": [11.841879, 48.816846],
-  "Name": "Kuchlbauer's Bierwelt",
+  "Name": "Kuchlbauer`s Bierwelt",
   "Öffnungszeiten": "Mo. bis Sa. 11.00 bis 20.00 Uhr, So. und Feiertage 10.00 bis 20.00 Uhr",
   "Straße": "Römerstraße 5-9",
   "PLZ": "93326",
@@ -64168,7 +64168,7 @@ module.exports = [{
 }, {
   "id": 61,
   "coords": [11.781452, 48.825207],
-  "Name": "Röll'n Biergarten",
+  "Name": "Röll`n Biergarten",
   "Öffnungszeiten": "Mo. bis Do. 16.30  bis 22.00 Uhr",
   "Straße": "Römerstraße 4",
   "PLZ": "93333",
@@ -64252,7 +64252,7 @@ module.exports = [{
 }, {
   "id": 67,
   "coords": [11.79339, 48.775024],
-  "Name": "Lenker's Biergarten ",
+  "Name": "Lenker`s Biergarten",
   "Öffnungszeiten": "heuer geschlossen",
   "Straße": "Siegenburgerstr. 18",
   "PLZ": "93333",
@@ -64266,7 +64266,7 @@ module.exports = [{
 }, {
   "id": 68,
   "coords": [12.106016, 49.329351],
-  "Name": "Färberhaus-Stub'n",
+  "Name": "Färberhaus-Stub`n",
   "Öffnungszeiten": "folgt",
   "Straße": "Breite Straße 23",
   "PLZ": "92421",
@@ -64322,7 +64322,7 @@ module.exports = [{
 }, {
   "id": 72,
   "coords": [12.51498, 49.19588],
-  "Name": "Rodinger Reib'm Biergarten",
+  "Name": "Rodinger Reib`m Biergarten",
   "Öffnungszeiten": "Bei Voranmeldung und guter Witterung geöffnet",
   "Straße": "Blümelhubergasse 1",
   "PLZ": "93426",
@@ -64574,7 +64574,7 @@ module.exports = [{
 }, {
   "id": 90,
   "coords": [12.66968, 49.217438],
-  "Name": "d'Wasserwirtschaft",
+  "Name": "d`Wasserwirtschaft",
   "Öffnungszeiten": "Mo. Bis Sa. von 11.00 bis 20.00 Uhr, So. und Feiertage von 10.00 bis 20.00 Uhr",
   "Straße": "Oberer Regenanger 3",
   "PLZ": "93413",
@@ -64728,7 +64728,7 @@ module.exports = [{
 }, {
   "id": 101,
   "coords": [11.851171, 49.455696],
-  "Name": "s'Wirtshaus im Amberger Garten",
+  "Name": "s`Wirtshaus im Amberger Garten",
   "Öffnungszeiten": "Mo. bis Sa. ab 15.00 Uhr, So. und Feiertage ab 11.00 Uhr (bei schönem Wetter)",
   "Straße": "Bayreuther Straße 20",
   "PLZ": "92224",
