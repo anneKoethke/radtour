@@ -128,8 +128,6 @@ const SearchControl = (function (Control) {
       mapControl.getMap().getView().setCenter(fromLonLat(coordinates));
       mapControl.getMap().getView().setZoom(mapOptions.searchZoom);
     }
-    // TODO: search JSON 
-          // search for place -> several results (seacrh by name -> one result works!)
   };    
   
   return SearchControl;
@@ -218,11 +216,11 @@ function handleHighlighting(autocompleteList, highlighting, val) {
   for (let i = 0; i < nameArray.length; i++) {
     let curr = nameArray[i].toLowerCase();
     if (curr.search(val.toLowerCase()) > -1) {
+      let num = curr.search(val.toLowerCase());
       highlighting = document.createElement('div');
-      // TODO: auch nach zweitem Namen suchbar machen (regex?)
-      //highlighting.innerHTML = "<strong>" + nameArray[i].substr(0, val.length) + "</strong>";
-      highlighting.innerHTML = nameArray[i].substr(0, val.length);
-      highlighting.innerHTML += nameArray[i].substr(val.length);
+      highlighting.innerHTML = nameArray[i].substr(0, num);
+      highlighting.innerHTML += "<strong>" + nameArray[i].substr(num, val.length)+ "</strong>";
+      highlighting.innerHTML += nameArray[i].substr(num + val.length);
       highlighting.innerHTML += "<input type='hidden' value='" + nameArray[i] + "'>";
       // click on item of autocomplete list to push it to input (required for SearchControl)
       highlighting.addEventListener(eventType, function(e) {
