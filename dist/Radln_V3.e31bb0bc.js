@@ -63385,7 +63385,7 @@ module.exports = [{
   "id": 5,
   "coords": [12.096097, 49.024165],
   "Name": "Gaststätte Spitalgarten",
-  "Öffnungszeiten": "Täglich 11.00 bis 22.00 Uhr",
+  "Öffnungszeiten": "Täglich 11.00 bis 23.00 Uhr",
   "Straße": "St.-Katharinen-Platz 1",
   "PLZ": "93059",
   "Ort": "Regensburg",
@@ -63427,7 +63427,7 @@ module.exports = [{
   "id": 8,
   "coords": [12.00723, 48.965511],
   "Name": "Zunftstüberl",
-  "Öffnungszeiten": "Täglich ab 10.30 Uhr",
+  "Öffnungszeiten": "Wochentags ab 10.30 Uhr, Fr. ab 14.00 Uhr, Sa. ab 12.00 Uhr, So. ab 10.00 Uhr",
   "Straße": "An der Donau 21 a",
   "PLZ": "93080",
   "Ort": "Matting",
@@ -63441,7 +63441,7 @@ module.exports = [{
   "id": 9,
   "coords": [11.97484, 49.00471],
   "Name": "Gaststätte Röhrl",
-  "Öffnungszeiten": "Mo. und Mi. bis Fr. von 16 bis 22.00 Uhr, Sa., So. und Feiertage von 11 Uhr bis 22.00 Uhr, Di. Ruhetag",
+  "Öffnungszeiten": "Mo. und Mi. bis Fr. von 16 bis 23.00 Uhr, Sa., So. und Feiertage von 11 Uhr bis 23.00 Uhr, Di. Ruhetag",
   "Straße": "Regensburger Straße 3",
   "PLZ": "93161",
   "Ort": "Eilsbrunn",
@@ -63469,7 +63469,7 @@ module.exports = [{
   "id": 11,
   "coords": [12.231944, 49.015991],
   "Name": "Landgasthof Geser",
-  "Öffnungszeiten": "Mo. bis Sa. 06.30 bis 13.00 Uhr und 17.00 bis 22.00 Uhr, So. 07.30 bis 21.00 Uhr, Di. Ruhetag",
+  "Öffnungszeiten": "Mo. bis Sa. 06.30 bis 13.00 Uhr und 17.00 bis 22.30 Uhr, So. 07.30 bis 21.00 Uhr, Di. Ruhetag",
   "Straße": "Kirchplatz 4",
   "PLZ": "93092",
   "Ort": "Barbing-Sarching",
@@ -63497,7 +63497,7 @@ module.exports = [{
   "id": 13,
   "coords": [12.017201, 48.948025],
   "Name": "Brauereigasthof Berghammer",
-  "Öffnungszeiten": "täglich von 11.00 bis 22.00 Uhr, Di. ist Ruhetag",
+  "Öffnungszeiten": "Täglich von 11.00 bis 23.00 Uhr, Di. ist Ruhetag",
   "Straße": "Donaustraße 55",
   "PLZ": "93077",
   "Ort": "Bad Abbach",
@@ -63539,7 +63539,7 @@ module.exports = [{
   "id": 16,
   "coords": [11.986723, 48.952549],
   "Name": "Landgasthof Perzl",
-  "Öffnungszeiten": "Di. bis So. von 10.00 bis 22.00 Uhr, Mo. Ruhetag",
+  "Öffnungszeiten": "Di. bis So. von 09.00 bis 01.00 Uhr, Mo. Ruhetag",
   "Straße": "Lohstraße 10",
   "PLZ": "93309",
   "Ort": "Kelheim",
@@ -63567,7 +63567,7 @@ module.exports = [{
   "id": 18,
   "coords": [11.901685, 49.045215],
   "Name": "Münchsmühle",
-  "Öffnungszeiten": "Mi. bis Fr. 15.00 bis 20.00 Uhr, Sa. 13.00 bis 20.00 Uhr, So und Feiertage 10.00 bis 20.00 Uhr. Mo. und Di. Ruhetag",
+  "Öffnungszeiten": "Mi. bis Fr. 15.00 bis 23.00 Uhr, Sa. 13.00 bis 23.00 Uhr, So und Feiertage 10.00 bis 23.00 Uhr. Mo. und Di. Ruhetag",
   "Straße": "Münchsmühle 2",
   "PLZ": "93164",
   "Ort": "Münchsmühle",
@@ -63581,7 +63581,7 @@ module.exports = [{
   "id": 19,
   "coords": [11.957829, 49.072866],
   "Name": "Klosterwirtschaft",
-  "Öffnungszeiten": "Mi. bis Sa. 11.00 bis 20.00 Uhr, So. 09.00 bis 20.00 Uhr, Mo. Und Di. Ruhetag",
+  "Öffnungszeiten": "Mi. bis Sa. 11.00 bis 22.00 Uhr, So. 09.00 bis 22.00 Uhr, Mo. Und Di. Ruhetag",
   "Straße": "Klosterstraße 6",
   "PLZ": "93188",
   "Ort": "Pielenhofen",
@@ -63637,7 +63637,7 @@ module.exports = [{
   "id": 23,
   "coords": [12.28756, 48.924266],
   "Name": "Gasthaus zum Goldenen Krug",
-  "Öffnungszeiten": "Mo. und Di. Ruhetag, Mi. bis Sa. von 17.30 bis 22.00 Uhr, So. von 11.30 bis 14.00 und 17.30 bis 20.00 Uhr",
+  "Öffnungszeiten": "Mo. und Di. Ruhetag, Mi. und Do. von 17.30 bis 22.00 Uhr, Fr. und Sa. von 17.30 bis 23.00 Uhr, So. von 11.30 bis 14.00 und 17.30 bis 21.30 Uhr",
   "Straße": "Brunnenstraße 6",
   "PLZ": "93098",
   "Ort": "Sengkofen",
@@ -63651,7 +63651,7 @@ module.exports = [{
   "id": 24,
   "coords": [12.089143, 49.023164],
   "Name": "Zum Sorgenfrei",
-  "Öffnungszeiten": "Mo., Di. und Do. von 16.00 bis 22.00 Uhr, Fr. bis So. von 11:00 Uhr bis 22.00 Uhr, Mi. Ruhetag",
+  "Öffnungszeiten": "Mo., Di. und Do. von 16.00 bis 23.00 Uhr, Fr. und Sa. von 11:00 Uhr bis 00.00 Uhr, So. von 11.00 bis 22.00 Uhr, Mi. Ruhetag",
   "Straße": "Badstraße 54",
   "PLZ": "93059",
   "Ort": "Regensburg",
@@ -63665,7 +63665,7 @@ module.exports = [{
   "id": 25,
   "coords": [12.10129, 49.030124],
   "Name": "Auerbräu",
-  "Öffnungszeiten": "täglich von 12.00 bis 22.00 Uhr",
+  "Öffnungszeiten": "Täglich von 11.00 bis 00.30 Uhr",
   "Straße": "Schwandorfer Straße 41",
   "PLZ": "93059",
   "Ort": "Regensburg",
@@ -63679,7 +63679,7 @@ module.exports = [{
   "id": 26,
   "coords": [12.074189, 49.013808],
   "Name": "Bischofshof Braustuben",
-  "Öffnungszeiten": "Di. bis Sa. von 11.00 bis 22.00 Uhr, Mo. Ruhetag",
+  "Öffnungszeiten": "Di. bis Sa. von 11.00 bis 22.00 Uhr, So. und Feiertage von 11.00 bis 17.00 Uhr, Mo. Ruhetag",
   "Straße": "Dechbettener Straße 50",
   "PLZ": "93049",
   "Ort": "Regensburg",
@@ -63693,7 +63693,7 @@ module.exports = [{
   "id": 27,
   "coords": [12.078202, 48.998831],
   "Name": "Kneitinger`s Hubertushöhe",
-  "Öffnungszeiten": "Täglich bei schönem Wetter 12.00 bis 22.00 Uhr",
+  "Öffnungszeiten": "Täglich bei schönem Wetter 11.00 bis 23.00 Uhr",
   "Straße": "Wilhelm-Raabe-Straße 1",
   "PLZ": "93051",
   "Ort": "Regensburg",
@@ -63721,13 +63721,13 @@ module.exports = [{
   "id": 29,
   "coords": [12.141861, 49.156037],
   "Name": "Ramspauer Hof",
-  "Öffnungszeiten": "Mo. Ruhetag, Di. bis So. 12.00 bis 22.00 Uhr.",
+  "Öffnungszeiten": "Mo. Ruhetag, Di. bis So. 12.00 bis 23.00 Uhr",
   "Straße": "Dorfstraße 5",
   "PLZ": "93128",
   "Ort": "Ramspau",
   "Telefon": "09402/4560",
   "Mail": "Ramspauer-Hof@Kneitinger.de",
-  "url": "https://ramspauer-hof.metro.rest/?lang=de",
+  "url": "https://ramspauer-hof.com/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Ramspauer_Hof.png",
   "Bildnachweis": "Joachim Kehl",
   "Distanz": 20.0
@@ -63805,7 +63805,7 @@ module.exports = [{
   "id": 35,
   "coords": [11.950309, 49.162103],
   "Name": "Gasthof zur roten Amsel ",
-  "Öffnungszeiten": "momentan geschlossen",
+  "Öffnungszeiten": "Momentan geschlossen",
   "Straße": "Vilsgasse 26",
   "PLZ": "93183",
   "Ort": "Kallmünz",
@@ -63847,7 +63847,7 @@ module.exports = [{
   "id": 38,
   "coords": [12.087431, 49.184425],
   "Name": "Michl`s Landgasthof",
-  "Öffnungszeiten": "nur auf Anfrage",
+  "Öffnungszeiten": "Nur auf Anfrage",
   "Straße": "Bergmannstraße 43",
   "PLZ": "93142",
   "Ort": "Maxhütte-Winkerling",
@@ -63861,7 +63861,7 @@ module.exports = [{
   "id": 39,
   "coords": [11.87387, 48.917243],
   "Name": "Weisses Bräuhaus",
-  "Öffnungszeiten": "täglich 11.00 bis 22.00 Uhr",
+  "Öffnungszeiten": "Täglich 11.00 bis 22.00 Uhr, Mo. Ruhetag",
   "Straße": "Emil-Ott-Straße 3",
   "PLZ": "93309",
   "Ort": "Kelheim",
@@ -63875,7 +63875,7 @@ module.exports = [{
   "id": 40,
   "coords": [12.399988, 49.000117],
   "Name": "Gasthof Butz",
-  "Öffnungszeiten": "Di. bis So. 09.00 bis 22.00 Uhr. Mo. Ruhetag",
+  "Öffnungszeiten": "Di. bis Sa. 09.00 bis 22.00 Uhr. Mo. und So. Ruhetage",
   "Straße": "Kirchplatz 3",
   "PLZ": "93086",
   "Ort": "Wörth an der Donau",
@@ -63917,7 +63917,7 @@ module.exports = [{
   "id": 43,
   "coords": [11.867397, 49.13757],
   "Name": "Landgasthof Rechberger Hof",
-  "Öffnungszeiten": "Mo. ab 17.00 Uhr, Mi. bis So. 10.00 bis 22.00 Uhr, Di. Ruhetag",
+  "Öffnungszeiten": "Mo. ab 17.00 Uhr, Mi. bis So. 10.00 bis 23.00 Uhr, Di. Ruhetag",
   "Straße": "Leonhard-Nübler-Strasse 5",
   "PLZ": "93176",
   "Ort": "Rechberg",
@@ -63973,7 +63973,7 @@ module.exports = [{
   "id": 47,
   "coords": [12.27247, 49.197734],
   "Name": "Brauereigasthof Jakob Nittenau",
-  "Öffnungszeiten": "Täglich von 11.00 bis 14.00 Uhr und 17.00 bis 22.00 Uhr, Mi. Ruhetag",
+  "Öffnungszeiten": "Mo., Di., Do. bis Sa. von 09.00 bis 14.00 Uhr und 17.00 bis 24.00 Uhr, Mi. Ruhetag, So. durchgehend geöffnet",
   "Straße": "Hauptstraße 10",
   "PLZ": "93149",
   "Ort": "Nittenau",
@@ -64001,7 +64001,7 @@ module.exports = [{
   "id": 49,
   "coords": [11.819579, 48.898832],
   "Name": "Klosterschenke Weltenburg",
-  "Öffnungszeiten": "täglich 09.30 bis 19.00 Uhr",
+  "Öffnungszeiten": "Täglich 09.30 bis 19.00 Uhr",
   "Straße": "Asamstraße 32",
   "PLZ": "93309",
   "Ort": "Kelheim/Weltenburg",
@@ -64015,7 +64015,7 @@ module.exports = [{
   "id": 50,
   "coords": [11.788669, 48.935422],
   "Name": "Brauereigasthof Schneider",
-  "Öffnungszeiten": "Mo. ab 16.00 Uhr, Di. bis So. von 8.00 bis 22.00 Uhr",
+  "Öffnungszeiten": "Mo. ab 16.00 Uhr, Di. bis So. von 8.00 bis 23.00 Uhr",
   "Straße": "Altmühlgasse 10",
   "PLZ": "93343",
   "Ort": "Essing",
@@ -64057,7 +64057,7 @@ module.exports = [{
   "id": 53,
   "coords": [11.839638, 48.817045],
   "Name": "Wirtshaus beim Lauberger",
-  "Öffnungszeiten": "Di. bis Fr. von 17.00 bis 22.00 Uhr, Sa. von 15.00 bis 22.00 Uhr, So. und Feiertage von 11.00 bis 22.00 Uhr, Mo. Ruhetag",
+  "Öffnungszeiten": "Di. bis Fr. von 17.00 bis 23.00 Uhr, Sa. von 15.00 bis 23.00 Uhr, So. und Feiertage von 11.00 bis 23.00 Uhr, Mo. Ruhetag",
   "Straße": "Aunkofener Straße 8",
   "PLZ": "93326",
   "Ort": "Abensberg",
@@ -64085,7 +64085,7 @@ module.exports = [{
   "id": 55,
   "coords": [11.801699, 48.926032],
   "Name": "Gasthof Ehrl",
-  "Öffnungszeiten": "Täglich von 8.00 bis 22.00 Uhr",
+  "Öffnungszeiten": "Täglich von 8.00 bis 23.00 Uhr",
   "Straße": "Schnellnecker Straße 29",
   "PLZ": "93343",
   "Ort": "Altessing",
@@ -64099,7 +64099,7 @@ module.exports = [{
   "id": 56,
   "coords": [11.965848, 48.769214],
   "Name": "Gasthof Sixt",
-  "Öffnungszeiten": "Mo. bis Do. und Sa. von 10.00 bis 22.00 Uhr, So. von 10.00 bis 20.00 Uhr, Fr. Ruhetag",
+  "Öffnungszeiten": "Mo. bis Do. und Sa. von 08.00 bis 01.00 Uhr, So. von 08.00 bis 20.00 Uhr, Fr. Ruhetag",
   "Straße": "Asamstraße 1",
   "PLZ": "93352",
   "Ort": "Rohr in Niederbayern",
@@ -64225,7 +64225,7 @@ module.exports = [{
   "id": 65,
   "coords": [11.689363, 48.959273],
   "Name": "Fasslwirtschaft",
-  "Öffnungszeiten": "Mo. von 11.00 bis 20.00 Uhr, Mi. bis So. von 11.00 bis 21.00 Uhr, Mo. Ruhetag",
+  "Öffnungszeiten": "So. von 11.00 bis 20.00 Uhr, Di. bis Sa. von 11.00 bis 21.00 Uhr, Mo. Ruhetag",
   "Straße": "Bergkristallstraße 1",
   "PLZ": "93339",
   "Ort": "Riedenburg",
@@ -64239,7 +64239,7 @@ module.exports = [{
   "id": 66,
   "coords": [12.174669, 49.311041],
   "Name": "Rathausstuben",
-  "Öffnungszeiten": "Mo. bis Sa. von 16.30 bis 22.00 Uhr, So. von 11.00 bis 14.30 Uhr",
+  "Öffnungszeiten": "Mo. bis Sa. von 17.30 bis 22.00 Uhr, So. von 11.00 bis 14.30 Uhr, Feiertage von 11.00 bis 14.30 und von 17.30 bis 21.00 Uhr",
   "Straße": "Marktplatz 4",
   "PLZ": "92442",
   "Ort": "Wackersdorf",
@@ -64251,23 +64251,9 @@ module.exports = [{
   "Distanz": 41.0
 }, {
   "id": 67,
-  "coords": [11.79339, 48.775024],
-  "Name": "Lenker`s Biergarten",
-  "Öffnungszeiten": "heuer geschlossen",
-  "Straße": "Siegenburgerstr. 18",
-  "PLZ": "93333",
-  "Ort": "Mühlhausen",
-  "Telefon": "09444/87542",
-  "Mail": "",
-  "url": "https://mein-mühlhausen.bayern/knowledgebase/lenkers-biergarten/",
-  "Foto": "https://dig-red.mittelbayerische.de/OL/132472530.png",
-  "Bildnachweis": "Lino Mirgeler, dpa",
-  "Distanz": 42.0
-}, {
-  "id": 68,
   "coords": [12.106016, 49.329351],
   "Name": "Färberhaus-Stub`n",
-  "Öffnungszeiten": "folgt",
+  "Öffnungszeiten": "Di. bis Fr. von 11.00 bis 14.00 und 17.30 bis 23.00 Uhr, Sa. von 17.30 bis 23.00 Uhr, So. von 11.00 bis 14.00 und 17.30 bis 23.00 Uhr",
   "Straße": "Breite Straße 23",
   "PLZ": "92421",
   "Ort": "Schwandorf",
@@ -64278,10 +64264,10 @@ module.exports = [{
   "Bildnachweis": "Lino Mirgeler, dpa",
   "Distanz": 42.0
 }, {
-  "id": 69,
+  "id": 68,
   "coords": [12.1057, 49.329383],
   "Name": "Hufschmiede",
-  "Öffnungszeiten": "Di. bis Sa. 17.00 bis 22.00 Uhr, Mo. und So. Ruhetag",
+  "Öffnungszeiten": "Täglich von 18.00 bis 1.00 Uhr, So. Ruhetag",
   "Straße": "Breite Straße 25",
   "PLZ": "92421",
   "Ort": "Schwandorf",
@@ -64292,21 +64278,21 @@ module.exports = [{
   "Bildnachweis": "Tino Lex",
   "Distanz": 42.0
 }, {
-  "id": 70,
+  "id": 69,
   "coords": [12.017862, 48.709992],
   "Name": "Gasthof Forstner",
-  "Öffnungszeiten": "Mi. bis Sa. 11.00 bis 14.00 Uhr  So. und Feiertags von 11.00 bis 15.00 Uhr (Biergarten bei schönem Wetter durchgehend geöffnet), Mo. Und Mi. bis Sa. zusätzlich von 17.00 bis 21.00 Uhr, Di. Ruhetag",
+  "Öffnungszeiten": "Mo. ab 17.30 Uhr, Mi. bis Sa. 11.00 bis 14.00 und ab 17.30 Uhr, So. von 11.00 bis 15.00 Uhr (Biergarten bei sonnigem Wetter auch Sonntagabends geöffnet), Di. Ruhetag",
   "Straße": "Max-von-Müller Str. 76",
   "PLZ": "84056",
   "Ort": "Rottenburg a.d. Laaber",
   "Telefon": "08781/1301",
-  "Mail": "",
-  "url": "",
+  "Mail": "info@forstnerwirt.de",
+  "url": "https://www.forstnerwirt.de/wirtshaus/biergarten.php",
   "Foto": "https://dig-red.mittelbayerische.de/OL/132472530.png",
   "Bildnachweis": "Lino Mirgeler, dpa",
   "Distanz": 43.0
 }, {
-  "id": 71,
+  "id": 70,
   "coords": [12.306979, 49.247895],
   "Name": "Bergerwirt",
   "Öffnungszeiten": "noch geschlossen; öffnet voraussichtlich im Juli",
@@ -64320,7 +64306,7 @@ module.exports = [{
   "Bildnachweis": "Lino Mirgeler, dpa",
   "Distanz": 44.0
 }, {
-  "id": 72,
+  "id": 71,
   "coords": [12.51498, 49.19588],
   "Name": "Rodinger Reib`m Biergarten",
   "Öffnungszeiten": "Bei Voranmeldung und guter Witterung geöffnet",
@@ -64334,7 +64320,7 @@ module.exports = [{
   "Bildnachweis": "Lino Mirgeler, dpa",
   "Distanz": 45.0
 }, {
-  "id": 73,
+  "id": 72,
   "coords": [12.336072, 49.254569],
   "Name": "Landhotel Mappacher Hof",
   "Öffnungszeiten": "Mo. bis Do. 8.00 bis 22.00 Uhr, Fr. Ruhetag, Sa. Und So. 8.00 bis 17.00 Uhr",
@@ -64348,10 +64334,10 @@ module.exports = [{
   "Bildnachweis": "Lino Mirgeler, dpa",
   "Distanz": 46.0
 }, {
-  "id": 74,
+  "id": 73,
   "coords": [11.938127, 49.305303],
   "Name": "Gut Matheshof ",
-  "Öffnungszeiten": "vorerst geschlossen",
+  "Öffnungszeiten": "Corona bedingt vorerst geschlossen",
   "Straße": "Hans-Nowak-Ring 1",
   "PLZ": "92286",
   "Ort": "Rieden",
@@ -64362,7 +64348,7 @@ module.exports = [{
   "Bildnachweis": "Lino Mirgeler, dpa",
   "Distanz": 46.0
 }, {
-  "id": 75,
+  "id": 74,
   "coords": [11.941811, 49.322986],
   "Name": "Landgasthof zum Bärenwirt",
   "Öffnungszeiten": "Do. bis Sa. von 11.00 bis 14.00 und 17.30 bis 22.00 Uhr, So. und Feiertage von 9.00 bis 15.00 und 17.00 bis 20.00 Uhr, Mo. bis Mi. Ruhetag ",
@@ -64376,10 +64362,10 @@ module.exports = [{
   "Bildnachweis": "Lino Mirgeler, dpa",
   "Distanz": 48.0
 }, {
-  "id": 76,
+  "id": 75,
   "coords": [11.603454, 49.187964],
   "Name": "Gasthaus Diepold",
-  "Öffnungszeiten": "Do. bis Sa. von 17.00 bis 22.00 Uhr, So. von 10.00 bis 22.00 Uhr, Mo. bis Mi. Ruhetag",
+  "Öffnungszeiten": "Um telefonische Reservierung wird unbedingt gebeten! Do. bis Sa. von 17.00 bis 22.00 Uhr, So. von 10.00 bis 22.00 Uhr, Mo. bis Mi. Ruhetag",
   "Straße": "Hauptstraße 33",
   "PLZ": "92358",
   "Ort": "Batzhausen",
@@ -64390,10 +64376,10 @@ module.exports = [{
   "Bildnachweis": "Lino Mirgeler, dpa",
   "Distanz": 49.0
 }, {
-  "id": 77,
+  "id": 76,
   "coords": [12.034171, 49.010655],
   "Name": "Gasthaus Goldener Hirsch",
-  "Öffnungszeiten": "Di. bis So. von 11.30 bis 22.00 Uhr, Mo. Ruhetag",
+  "Öffnungszeiten": "Um Reservierung wird dringend gebeten! Di. bis So. von 11.30 bis 22.00 Uhr, Mo. Ruhetag",
   "Straße": "Großprüfening 21",
   "PLZ": "93049",
   "Ort": "Regensburg",
@@ -64404,10 +64390,10 @@ module.exports = [{
   "Bildnachweis": "Lino Mirgeler, dpa",
   "Distanz": 5.0
 }, {
-  "id": 78,
+  "id": 77,
   "coords": [11.804504, 48.690392],
   "Name": "Schlossgarten Ratzenhofen",
-  "Öffnungszeiten": "Fr. von 15.00 bis 20.00 Uhr, Sa. von 12.00 bis 20.00 Uhr, So. und Feiertage von 10.00 bis 20.00 Uhr",
+  "Öffnungszeiten": "Bis 27. September 2020: Fr. ab 15.00 Uhr, Sa. ab 12.00 Uhr, So. und Feiertage ab 10.00 Uhr",
   "Straße": "Dorfstraße 32",
   "PLZ": "84094",
   "Ort": "Elsendorf/Ratzenhofen",
@@ -64418,10 +64404,10 @@ module.exports = [{
   "Bildnachweis": "Karin Zierer",
   "Distanz": 50.0
 }, {
-  "id": 79,
+  "id": 78,
   "coords": [12.254329, 49.359245],
   "Name": "Schiessl-Tafferne",
-  "Öffnungszeiten": "täglich von 11.00 bis 22.00 Uhr, Mi. Ruhetag",
+  "Öffnungszeiten": "Täglich von 11.30 bis 23.00 Uhr, Mi. Ruhetag",
   "Straße": "Kemnath bei Fuhrn 8",
   "PLZ": "92431",
   "Ort": "Neunburg vorm Wald",
@@ -64432,10 +64418,10 @@ module.exports = [{
   "Bildnachweis": "Lino Mirgeler, dpa",
   "Distanz": 50.0
 }, {
-  "id": 80,
+  "id": 79,
   "coords": [12.549096, 49.229503],
   "Name": "Landgasthof Weitzer",
-  "Öffnungszeiten": "Di. bis So. von 11.00 bis 21.00 Uhr, Mo. Ruhetag",
+  "Öffnungszeiten": "Nur Selbstabholung der Speisen nach telefonischer Vorbestellung; Di. bis So. von 11.00 bis 21.00 Uhr, Mo. Ruhetag",
   "Straße": "Untere Hauptstraße 1",
   "PLZ": "93483",
   "Ort": "Pösing",
@@ -64446,10 +64432,10 @@ module.exports = [{
   "Bildnachweis": "Lino Mirgeler, dpa",
   "Distanz": 51.0
 }, {
-  "id": 81,
+  "id": 80,
   "coords": [11.47248, 49.03606],
   "Name": "Brauereigasthof Schattenhofer",
-  "Öffnungszeiten": "Werktags ab 16.00 Uhr, So. und Feiertage ab 11.00 Uhr",
+  "Öffnungszeiten": "Ab 01. Juni 2020 wegen Umbau geschlossen",
   "Straße": "Hauptstraße 44",
   "PLZ": "92339",
   "Ort": "Beilngries",
@@ -64460,10 +64446,10 @@ module.exports = [{
   "Bildnachweis": "Lino Mirgeler, dpa",
   "Distanz": 53.0
 }, {
-  "id": 82,
+  "id": 81,
   "coords": [12.137397, 49.422226],
   "Name": "Gasthof Bodensteiner",
-  "Öffnungszeiten": "Mo. bis Mi. von 9.30 bis 14.00 Uhr, Do. bis So. von 9.00 bis 22.00 Uhr",
+  "Öffnungszeiten": "Mo. bis Mi. von 9.30 bis 14:00 Uhr, Do. bis So. von 9.00 bis 24.00 Uhr",
   "Straße": "Hauptstraße 25",
   "PLZ": "92551",
   "Ort": "Stulln",
@@ -64474,7 +64460,7 @@ module.exports = [{
   "Bildnachweis": "Lino Mirgeler, dpa",
   "Distanz": 54.0
 }, {
-  "id": 83,
+  "id": 82,
   "coords": [12.382126, 49.349147],
   "Name": "Gasthof Sporrer",
   "Öffnungszeiten": "Mo. bis Sa. ab 7.30 Uhr, So. 7.30 bis 14.30 Uhr ",
@@ -64483,15 +64469,15 @@ module.exports = [{
   "Ort": "Neunburg vorm Wald",
   "Telefon": "09672/816",
   "Mail": "info@gasthof-sporrer.de",
-  "url": "https://www.gasthof-sporrer.de/Unser-Gasthof/Restaurant/Terrasse",
+  "url": "https://gasthof-sporrer.de/restaurant/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/132472530.png",
   "Bildnachweis": "Lino Mirgeler, dpa",
   "Distanz": 55.0
 }, {
-  "id": 84,
+  "id": 83,
   "coords": [12.03615, 49.403598],
   "Name": "Hotel Wolfringmühle",
-  "Öffnungszeiten": "Mo. bis Sa. 15.00 bis 22.00 Uhr, So. vonn 11.00 bis 22.00 Uhr",
+  "Öffnungszeiten": "Ab 22.06.2020: Mo. bis Sa. von 15.00 bis 23.00/24.00 Uhr, So. und Feiertage von 11.00 bis 22.00 Uhr",
   "Straße": "Wolfringmühle 3",
   "PLZ": "92269",
   "Ort": "Fensterbach",
@@ -64502,24 +64488,10 @@ module.exports = [{
   "Bildnachweis": "Lino Mirgeler, dpa",
   "Distanz": 56.0
 }, {
-  "id": 85,
-  "coords": [11.90686, 49.38919],
-  "Name": "Radl Bahnhof",
-  "Öffnungszeiten": "folgt",
-  "Straße": "Stromerstraße 4",
-  "PLZ": "92245",
-  "Ort": "Theuern",
-  "Telefon": "09621/1723115",
-  "Mail": "wirt@radl-bahnhof.de",
-  "url": "http://www.radl-bahnhof.de/",
-  "Foto": "https://dig-red.mittelbayerische.de/OL/132472530.png",
-  "Bildnachweis": "Lino Mirgeler, dpa",
-  "Distanz": 56.0
-}, {
-  "id": 86,
+  "id": 84,
   "coords": [11.790065, 48.641485],
   "Name": "Ziegler-Bräu",
-  "Öffnungszeiten": "Mo. bis Sa. von 16.30 bis 22.00 Uhr, So. von 10.00 bis 22.00 Uhr",
+  "Öffnungszeiten": "Mo. bis Sa. von 16.30 bis 23.00 Uhr, So. von 10.00 bis 23.00 Uhr",
   "Straße": "Scharfstrasse 22",
   "PLZ": "84048",
   "Ort": "Mainburg",
@@ -64530,7 +64502,7 @@ module.exports = [{
   "Bildnachweis": "Lino Mirgeler, dpa",
   "Distanz": 56.0
 }, {
-  "id": 87,
+  "id": 85,
   "coords": [12.441592, 49.334525],
   "Name": "Panorama-Hotel am See",
   "Öffnungszeiten": "Mo. bis Fr. von 6.30 bis 22.00 Uhr, Sa. und Feiertage von 7.30 bis 22.00 Uhr, So. Ruhetag",
@@ -64544,7 +64516,7 @@ module.exports = [{
   "Bildnachweis": "Markus Greiner",
   "Distanz": 59.0
 }, {
-  "id": 88,
+  "id": 86,
   "coords": [12.029495, 49.018032],
   "Name": "Gasthof Krieger",
   "Öffnungszeiten": "Mo. bis So. von 11.00 bis 21.00 Uhr",
@@ -64558,10 +64530,10 @@ module.exports = [{
   "Bildnachweis": "Lino Mirgeler, dpa",
   "Distanz": 6.0
 }, {
-  "id": 89,
+  "id": 87,
   "coords": [12.666407, 49.220634],
   "Name": "Biergarten auf der Schanze",
-  "Öffnungszeiten": "Mo. bis Fr. 11.00 bis 20.00 Uhr, Sa. 16.00 bis 20.00 Uhr, So. 11.00 bis 20.00 Uhr.",
+  "Öffnungszeiten": "Mo. bis Fr. 11.00 bis 20.00 Uhr, Sa. 16.00 bis 20.00 Uhr, So. 11.00 bis 20.00 Uhr",
   "Straße": "Auf der Schanze 20",
   "PLZ": "93143",
   "Ort": "Cham",
@@ -64572,10 +64544,10 @@ module.exports = [{
   "Bildnachweis": "Christine Babl",
   "Distanz": 60.0
 }, {
-  "id": 90,
+  "id": 88,
   "coords": [12.66968, 49.217438],
   "Name": "d`Wasserwirtschaft",
-  "Öffnungszeiten": "Mo. Bis Sa. von 11.00 bis 20.00 Uhr, So. und Feiertage von 10.00 bis 20.00 Uhr",
+  "Öffnungszeiten": "Täglich ab 10.00 Uhr",
   "Straße": "Oberer Regenanger 3",
   "PLZ": "93413",
   "Ort": "Cham",
@@ -64586,7 +64558,7 @@ module.exports = [{
   "Bildnachweis": "Claudia Gütlhuber",
   "Distanz": 60.0
 }, {
-  "id": 91,
+  "id": 89,
   "coords": [12.181081, 49.453799],
   "Name": "Gasthof zum Stern",
   "Öffnungszeiten": "Mo. bis Sa. von 17.00 bis 22.00 Uhr, So. von 10.00 bis 22.00 Uhr",
@@ -64600,10 +64572,10 @@ module.exports = [{
   "Bildnachweis": "Lino Mirgeler, dpa",
   "Distanz": 60.0
 }, {
-  "id": 92,
+  "id": 90,
   "coords": [11.439749, 49.106619],
   "Name": "Brauerei-Gasthof Winkler",
-  "Öffnungszeiten": "Mo. und Mi. bis Sa. von 11.30 bis 14.00 und 17.30 bis 21.00 Uhr, So. von 11.30 bis 15.00 Uhr, Di. Ruhetag ",
+  "Öffnungszeiten": "Mo. bis So. von 11.30 bis 14.00 und 17.30 bis 21.00 Uhr warme Küche, Di. Ruhetag, So. ab 15:00 Uhr Ruhetag",
   "Straße": "Reichenauplatz 22",
   "PLZ": "92334",
   "Ort": "Berching",
@@ -64614,10 +64586,10 @@ module.exports = [{
   "Bildnachweis": "Franz Guttenberger",
   "Distanz": 61.0
 }, {
-  "id": 93,
+  "id": 91,
   "coords": [11.878855, 49.418683],
   "Name": "Gasthof zur Post",
-  "Öffnungszeiten": "Di. bis Sa. von 16.00 bis 20.00 Uhr, So. und feiertags von 11.30 bis 20.00 Uhr",
+  "Öffnungszeiten": "Ab 25. Mai 2020: Grillhütte - Mi. bis So. von 15.30 bis 19.00 Uhr je nach Witterung; Terrasse und (unter Vorbehalt) Biergarten - Di. bis So. von 17.00 bis 22.00 Uhr, So. und Feiertage von 11.30 bis 14.00 und 17.00 bis 21.00 Uhr",
   "Straße": "Vilstalstraße 82",
   "PLZ": "92245",
   "Ort": "Kümmersbruck",
@@ -64628,10 +64600,10 @@ module.exports = [{
   "Bildnachweis": "Klaus Schicker",
   "Distanz": 61.0
 }, {
-  "id": 94,
+  "id": 92,
   "coords": [12.281619, 49.404461],
   "Name": "Gasthaus Sorgenfrei",
-  "Öffnungszeiten": "Nur mit vorheriger Reservierung! Mo. bis Mi. und Fr. 18.00 bis 22.00 Uhr, So. 09.00 bis 20.00 Uhr. Do. Ruhetag",
+  "Öffnungszeiten": "Nur mit vorheriger Reservierung! Ab 19. Juni 2020: Do. Ruhetag, werktags von 18.30 bis 23.00 Uhr, So. und Feiertage von 9.00 bis 23.00 Uhr. Mittagessen  NUR  nach Voranmeldung!",
   "Straße": "Neunburger Straße 10",
   "PLZ": "92540",
   "Ort": "Altendorf",
@@ -64642,24 +64614,24 @@ module.exports = [{
   "Bildnachweis": "Lino Mirgeler, dpa",
   "Distanz": 62.0
 }, {
-  "id": 95,
+  "id": 93,
   "coords": [11.857098, 49.444566],
   "Name": "Rußwurmhaus",
-  "Öffnungszeiten": "Di. bis So. von 11.00 bis 14.00 und von 17.00 bis 22.00 Uhr, Mo. Ruhetag",
+  "Öffnungszeiten": "Täglich ab 11.00 Uhr, Mo. Ruhetag",
   "Straße": "Eichenforstgäßchen 14",
   "PLZ": "92224",
   "Ort": "Amberg",
   "Telefon": "09621/21316",
   "Mail": "russwurmhaus_amberg@yahoo.de",
-  "url": "",
+  "url": "https://russwurmhaus-amberg.jimdofree.com/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/132472530.png",
   "Bildnachweis": "Lino Mirgeler, dpa",
   "Distanz": 64.0
 }, {
-  "id": 96,
+  "id": 94,
   "coords": [11.85894, 49.44508],
   "Name": "Schloderer Bräu",
-  "Öffnungszeiten": "Mo. bis So. 09.00 bis 22.00 Uhr",
+  "Öffnungszeiten": "Reservierung wird erbeten! Täglich von 09.00 bis 22.00 Uhr",
   "Straße": "Rathausstraße 4",
   "PLZ": "92224",
   "Ort": "Amberg",
@@ -64670,7 +64642,7 @@ module.exports = [{
   "Bildnachweis": "Heidi Schmidkonz",
   "Distanz": 65.0
 }, {
-  "id": 97,
+  "id": 95,
   "coords": [11.861631, 49.444697],
   "Name": "Winkler Bräuwirt",
   "Öffnungszeiten": "Di. bis So. von 11.00 bis 22.00 Uhr, Mo. Ruhetag",
@@ -64679,12 +64651,12 @@ module.exports = [{
   "Ort": "Amberg",
   "Telefon": "0 96 21 / 91 34 55",
   "Mail": "",
-  "url": "https://de-de.facebook.com/winklerbraeuwirt/",
+  "url": "http://www.winkler-braeuwirt.com/",
   "Foto": "https://dig-red.mittelbayerische.de/OL/132472530.png",
   "Bildnachweis": "Lino Mirgeler, dpa",
   "Distanz": 65.0
 }, {
-  "id": 98,
+  "id": 96,
   "coords": [11.873019, 49.444274],
   "Name": "Zum Kummert Bräu",
   "Öffnungszeiten": "Mi. bis Sa. Von 17.00 bis 22.00 Uhr, So. 10.00 bis 14.30 Uhr, Mo. und Di. Ruhetag",
@@ -64698,7 +64670,7 @@ module.exports = [{
   "Bildnachweis": "Lino Mirgeler, dpa",
   "Distanz": 65.0
 }, {
-  "id": 99,
+  "id": 97,
   "coords": [11.460532, 49.275863],
   "Name": "Gasthaus Kaiser",
   "Öffnungszeiten": "folgt",
@@ -64712,7 +64684,7 @@ module.exports = [{
   "Bildnachweis": "Lino Mirgeler, dpa",
   "Distanz": 65.0
 }, {
-  "id": 100,
+  "id": 98,
   "coords": [12.775782, 48.876391],
   "Name": "Restaurant Buchner",
   "Öffnungszeiten": "Mi. bis So. von 12.00 bis 14.00 und 18.00 bis 22.00 Uhr, Mo. und Di. Ruhetag",
@@ -64726,7 +64698,7 @@ module.exports = [{
   "Bildnachweis": "Lino Mirgeler, dpa",
   "Distanz": 65.0
 }, {
-  "id": 101,
+  "id": 99,
   "coords": [11.851171, 49.455696],
   "Name": "s`Wirtshaus im Amberger Garten",
   "Öffnungszeiten": "Mo. bis Sa. ab 15.00 Uhr, So. und Feiertage ab 11.00 Uhr (bei schönem Wetter)",
@@ -64740,7 +64712,7 @@ module.exports = [{
   "Bildnachweis": "Lino Mirgeler, dpa",
   "Distanz": 66.0
 }, {
-  "id": 102,
+  "id": 100,
   "coords": [11.661075, 49.367894],
   "Name": "Gasthaus Zum Schweppermann",
   "Öffnungszeiten": "Mo. bis MI. und Fr. von 11.00 bis 14.00 und von 17.00 bis 22.00 Uhr, Sa. und So. von 11.00 bis 22.00 Uhr, Do. Ruhetag (Öffnungszeiten können sich jederzeit ändern, bitte vorher telefonisch erkundigen!)",
@@ -64754,10 +64726,10 @@ module.exports = [{
   "Bildnachweis": "Lino Mirgeler, dpa",
   "Distanz": 66.0
 }, {
-  "id": 103,
+  "id": 101,
   "coords": [11.461817, 49.278847],
   "Name": "Neumarkter Bräustübl",
-  "Öffnungszeiten": "Di. bis Do. und Sa. 16.00 bis 22.00 Uhr, Fr. 12.00 bis 22.00 Uhr, So. 11.00 bis 22.00 Uhr. Küche jeweils bis 21.00 Uhr Mo. Ruhetag",
+  "Öffnungszeiten": "Mo. und Di. Ruhetag, Mi., Do. und Sa. ab 16.00 Uhr, Fr. ab 12.00 Uhr, So. ab 11.00 Uhr",
   "Straße": "Schwesterhausgasse 9",
   "PLZ": "92318",
   "Ort": "Neumarkt in der Oberpfalz",
@@ -64768,7 +64740,7 @@ module.exports = [{
   "Bildnachweis": "Verena Stadler",
   "Distanz": 66.0
 }, {
-  "id": 104,
+  "id": 102,
   "coords": [11.459902, 49.277136],
   "Name": "Oberer Ganskeller",
   "Öffnungszeiten": "Täglich von 9.30 bis 22.00 Uhr",
@@ -64782,7 +64754,7 @@ module.exports = [{
   "Bildnachweis": "Heike Kirsch",
   "Distanz": 66.0
 }, {
-  "id": 105,
+  "id": 103,
   "coords": [11.792942, 49.404517],
   "Name": "Gasthaus Michl",
   "Öffnungszeiten": "Mi. und Do. von 17.00 bis 22.00 Uhr, Fr. von 11.00 bis 14.00 und von 17.00 bis 22.00 Uhr, Sa. und So. von 11.00 bis 22.00 Uhr, Mo. und Di. Ruhetag",
@@ -64796,7 +64768,7 @@ module.exports = [{
   "Bildnachweis": "Lino Mirgeler, dpa",
   "Distanz": 66.0
 }, {
-  "id": 106,
+  "id": 104,
   "coords": [11.755755, 49.402145],
   "Name": "Gasthof Metzgerei Reif",
   "Öffnungszeiten": "Mo. von 11.00 bis 13.00 Uhr, Di., Mi. und Fr. von 11.00 bis 22.00 Uhr, Do. von 11.00 bis 14.00 Uhr, Sa. von 11.00 bis 14.00 und von 17.30 bis 22.00 Uhr, So. von 11.00 bis 14.00 Uhr",
@@ -64810,10 +64782,10 @@ module.exports = [{
   "Bildnachweis": "Lino Mirgeler, dpa",
   "Distanz": 66.0
 }, {
-  "id": 107,
+  "id": 105,
   "coords": [11.896257, 49.458239],
   "Name": "Brauerei Sterk",
-  "Öffnungszeiten": "Mi. bis Sa. von 16.00 bis 22.00 Uhr, So. und Feiertage von 10.30 bis 22.00 Uhr, Mo. Und Di. Ruhetag",
+  "Öffnungszeiten": "Mo. und Di. Ruhetag, Mi. bis Sa. von 17.00 bis 23.00 Uhr, So. von 10.30 bis 14.30 und 17.00 bis 23.00 Uhr",
   "Straße": "Hofmark 2",
   "PLZ": "92224",
   "Ort": "Amberg",
@@ -64824,7 +64796,7 @@ module.exports = [{
   "Bildnachweis": "Lino Mirgeler, dpa",
   "Distanz": 67.0
 }, {
-  "id": 108,
+  "id": 106,
   "coords": [12.745296, 49.198857],
   "Name": "Gasthof Bäckerwirt Chamerau",
   "Öffnungszeiten": "Di. bis So. von 10.30 bis 22.00 Uhr, Mo. Ruhetag",
@@ -64838,7 +64810,7 @@ module.exports = [{
   "Bildnachweis": "Lino Mirgeler, dpa",
   "Distanz": 68.0
 }, {
-  "id": 109,
+  "id": 107,
   "coords": [12.045032, 49.051968],
   "Name": "Gaststätte Huf Tremmelhauserhöhe",
   "Öffnungszeiten": "täglich von 12.00 bis 22.00 Uhr, Do. Ruhetag",
@@ -64852,10 +64824,10 @@ module.exports = [{
   "Bildnachweis": "Dominik Huf",
   "Distanz": 7.0
 }, {
-  "id": 110,
+  "id": 108,
   "coords": [12.167885, 48.9663],
   "Name": "Gasthof Stocker",
-  "Öffnungszeiten": "Mo. bis Fr. von 11.30 bis 14.00 und von 17.00 bis 22.00 Uhr, So. von 17.00 bis 22.00 Uhr, Sa. Ruhetag",
+  "Öffnungszeiten": "Mo. bis Fr. von 10.00 bis 24.00 Uhr, Sa. Ruhetag, So. von 17.00 bis 21.30 Uhr",
   "Straße": "St.-Georg-Straße 2",
   "PLZ": "93083",
   "Ort": "Obertraubling",
@@ -64866,7 +64838,7 @@ module.exports = [{
   "Bildnachweis": "Lino Mirgeler, dpa",
   "Distanz": 7.0
 }, {
-  "id": 111,
+  "id": 109,
   "coords": [12.1726, 49.024906],
   "Name": "Dorfgasthof Federl/Scheck",
   "Öffnungszeiten": "Reservierung Pflicht: Mo. und Mi. bis Sa. von 11.30 bis 22.00 Uhr, So. von 10.00 bis 15.00 Uhr, Di. Ruhetag",
@@ -64880,10 +64852,10 @@ module.exports = [{
   "Bildnachweis": "Lino Mirgeler, dpa",
   "Distanz": 7.0
 }, {
-  "id": 112,
+  "id": 110,
   "coords": [11.434577, 49.271599],
   "Name": "Gasthaus zur Au",
-  "Öffnungszeiten": "Di. bis Do. ab 16.00 Uhr, Fr. bis So. und Feiertage ab 10.30 Uhr, Mo. Ruhetag",
+  "Öffnungszeiten": "Reservierung erwünscht: Mo Ruhetag, Di. bis Do. ab 16.00 Uhr, Fr. bis So. und Feiertage ab 10.30 Uhr",
   "Straße": "Hochstraße 19",
   "PLZ": "92318",
   "Ort": "Neumarkt in der Oberpfalz",
@@ -64894,7 +64866,7 @@ module.exports = [{
   "Bildnachweis": "Lino Mirgeler, dpa",
   "Distanz": 71.0
 }, {
-  "id": 113,
+  "id": 111,
   "coords": [11.820303, 49.491113],
   "Name": "Gasthaus Kopf",
   "Öffnungszeiten": "Mo. bis Mi. und Fr. bis So. von 10.00 bis 22.00 Uhr, Do. von 17.00 bis 22.00 Uhr",
@@ -64908,10 +64880,10 @@ module.exports = [{
   "Bildnachweis": "Lino Mirgeler, dpa",
   "Distanz": 71.0
 }, {
-  "id": 114,
+  "id": 112,
   "coords": [11.40269, 49.25112],
   "Name": "Berngauer Hof",
-  "Öffnungszeiten": "Mi. bis Fr. ab 17.00 Uhr, Sa., So. und Feiertage ab 11.00 Uhr, Mo. und Di. Ruhetag",
+  "Öffnungszeiten": "Telefonische Resverierung Pflicht! Mi. bis Fr. ab 17.00 Uhr, Sa., So. und Feiertage ab 11.00 Uhr, Mo. und Di. Ruhetag",
   "Straße": "Neumarkter Straße 20",
   "PLZ": "92361",
   "Ort": "Berngau",
@@ -64922,10 +64894,10 @@ module.exports = [{
   "Bildnachweis": "Lino Mirgeler, dpa",
   "Distanz": 72.0
 }, {
-  "id": 115,
+  "id": 113,
   "coords": [12.856072, 49.170734],
   "Name": "Lindner-Bräu",
-  "Öffnungszeiten": "bei schönem Wetter von Mo. bis Sa. Von 11.30 bis 22.00 Uhr",
+  "Öffnungszeiten": "Telefonische Reservierung erwünscht: Biergarten bei schönem Wetter von Mo. bis Sa. von 11.30 bis 22.00 Uhr geöffnet (Innenbereich generell geschlossen)",
   "Straße": "Weißenregener Straße 4",
   "PLZ": "93444",
   "Ort": "Bad Kötzting",
@@ -64936,10 +64908,10 @@ module.exports = [{
   "Bildnachweis": "Lino Mirgeler, dpa",
   "Distanz": 77.0
 }, {
-  "id": 116,
+  "id": 114,
   "coords": [12.844784, 49.16464],
   "Name": "Zur Klause",
-  "Öffnungszeiten": "bei schonem Wetter täglich von 11.00 bis 20.00 Uhr (Mi. Ruhetag)",
+  "Öffnungszeiten": "Mo. und Di. Ruhetag, Mi. bis Sa. 11.00 bis 22.00 Uhr, So. und Feiertage 10.00 bis 22.00 Uhr",
   "Straße": "Weißenregen 72",
   "PLZ": "93445",
   "Ort": "Bad Kötzting",
@@ -64950,7 +64922,7 @@ module.exports = [{
   "Bildnachweis": "Lino Mirgeler, dpa",
   "Distanz": 77.0
 }, {
-  "id": 117,
+  "id": 115,
   "coords": [12.419795, 49.461061],
   "Name": "Cafe Deyerl",
   "Öffnungszeiten": "Mo. bis So von 9.30 bis 22.00 Uhr, Mi., Do. und Fr. von 9.30 bis 13.30 und von 17.30 bis 22.00 Uhr, Di. und Sa. Ruhetag",
@@ -64964,10 +64936,10 @@ module.exports = [{
   "Bildnachweis": "Lino Mirgeler, dpa",
   "Distanz": 77.0
 }, {
-  "id": 118,
+  "id": 116,
   "coords": [11.949485, 49.54489],
   "Name": "Schlosshotel Hirschau",
-  "Öffnungszeiten": "bei schönem Wetter täglich ab 18.00 Uhr, Do. Ruhetag",
+  "Öffnungszeiten": "Telefonische Reservierung erwünscht: bei schönem Wetter täglich ab 18.00 Uhr, Do. Ruhetag",
   "Straße": "Hauptstraße 1",
   "PLZ": "92242",
   "Ort": "Hirschau",
@@ -64978,10 +64950,10 @@ module.exports = [{
   "Bildnachweis": "Lino Mirgeler, dpa",
   "Distanz": 78.0
 }, {
-  "id": 119,
+  "id": 117,
   "coords": [12.324603, 49.530328],
   "Name": "Binnenschreiner",
-  "Öffnungszeiten": "bei schönem Wetter geöffnet, bitte vorher telefonisch erkundigen",
+  "Öffnungszeiten": "Bei schönem Wetter geöffnet, bitte vorher telefonisch erkundigen",
   "Straße": "Kaufnitzweg 2",
   "PLZ": "92723",
   "Ort": "Tännesberg",
@@ -64992,10 +64964,10 @@ module.exports = [{
   "Bildnachweis": "Lino Mirgeler, dpa",
   "Distanz": 78.0
 }, {
-  "id": 120,
+  "id": 118,
   "coords": [12.325227, 49.531572],
   "Name": "Biergarten im Sporthotel zur Post",
-  "Öffnungszeiten": "täglich von 6.00 bis 22.00 Uhr",
+  "Öffnungszeiten": "Täglich von 6.00 bis 22.00 Uhr",
   "Straße": "Marktplatz 25",
   "PLZ": "92723",
   "Ort": "Tännesberg",
@@ -65006,10 +64978,10 @@ module.exports = [{
   "Bildnachweis": "Lino Mirgeler, dpa",
   "Distanz": 78.0
 }, {
-  "id": 121,
+  "id": 119,
   "coords": [12.035801, 48.974485],
   "Name": "Zur Walba",
-  "Öffnungszeiten": "täglich von 10.00 bis 21.00 Uhr",
+  "Öffnungszeiten": "Täglich von 10.00 bis 21.00 Uhr",
   "Straße": "Unterirading 1",
   "PLZ": "93080",
   "Ort": "Pentling",
@@ -65020,10 +64992,10 @@ module.exports = [{
   "Bildnachweis": "Steffen",
   "Distanz": 8.0
 }, {
-  "id": 122,
+  "id": 120,
   "coords": [12.836203, 49.310903],
   "Name": "Gasthof Fellner",
-  "Öffnungszeiten": "täglich von 10.00 bis 22.00 Uhr",
+  "Öffnungszeiten": "Täglich von 10.00 bis 22.00 Uhr",
   "Straße": "Glaserstraße 8",
   "PLZ": "93437",
   "Ort": "Furth im Wald",
@@ -65034,10 +65006,10 @@ module.exports = [{
   "Bildnachweis": "Lino Mirgeler, dpa",
   "Distanz": 80.0
 }, {
-  "id": 123,
+  "id": 121,
   "coords": [12.206612, 49.0286],
   "Name": "Forsters Posthotel",
-  "Öffnungszeiten": "Täglich 11.00 bis 14.00 Uhr sowie 17.30 bis 21.30 Uhr",
+  "Öffnungszeiten": "Um Reservierung per E-Mail wird gebeten: täglich 11.00 bis 14.00 Uhr sowie 17.30 bis 21.30 Uhr",
   "Straße": "Maxstraße 43",
   "PLZ": "93093",
   "Ort": "Donaustauf",
@@ -65048,10 +65020,10 @@ module.exports = [{
   "Bildnachweis": "Ammerbacher",
   "Distanz": 9.0
 }, {
-  "id": 124,
+  "id": 122,
   "coords": [12.195125, 48.99389],
   "Name": "Ratskeller Neutraubling",
-  "Öffnungszeiten": "täglich von 11.00 bis 14.00 und von 17.00 bis 22.00 Uhr",
+  "Öffnungszeiten": "Täglich von 11.00 bis 14.00 und von 17.00 bis 22.00 Uhr",
   "Straße": "Regensburger Straße 11",
   "PLZ": "93073",
   "Ort": "Neutraubling",
@@ -65062,10 +65034,10 @@ module.exports = [{
   "Bildnachweis": "Lino Mirgeler, dpa",
   "Distanz": 9.0
 }, {
-  "id": 125,
+  "id": 123,
   "coords": [12.01622, 49.04269],
   "Name": "Prösslbräu Adlersberg",
-  "Öffnungszeiten": "Di. bis So. 08.00 bis 20.00 Uhr, Mo. Ruhetag",
+  "Öffnungszeiten": "Di. bis So. 10.00 bis 22.00 Uhr, Mo. Ruhetag",
   "Straße": "Dominikanerinnenstraße 2-3",
   "PLZ": "93186",
   "Ort": "Adlersberg",
@@ -65076,10 +65048,10 @@ module.exports = [{
   "Bildnachweis": "Werner Götz",
   "Distanz": 9.0
 }, {
-  "id": 126,
+  "id": 124,
   "coords": [12.012992, 48.986399],
   "Name": "Der Grieche",
-  "Öffnungszeiten": "Mo. bis So. con 17.00 bis 22.00 Uhr, So. und Feiertage zusätzlich von 11.00 bis 14.30 Uhr",
+  "Öffnungszeiten": "Ab 1. Juni 2020: Mo. bis So. 17.00 bis 22.00 Uhr, So. und Feiertage auch 11.00 bis 14.30 Uhr",
   "Straße": "Bruckdorf 7",
   "PLZ": "93161",
   "Ort": "Sinzing",
@@ -65090,10 +65062,10 @@ module.exports = [{
   "Bildnachweis": "Lino Mirgeler, dpa",
   "Distanz": 9.0
 }, {
-  "id": 127,
+  "id": 125,
   "coords": [11.571, 49.52201],
   "Name": "Landgasthof Peterhof",
-  "Öffnungszeiten": "Mo. und Di. Ruhetag, Mi. bis Fr. 09.00 bis 14.00 Uhr und 17.30 bis 20.00 Uhr, Sa., So. und Feiertage 09.00 bis 20.00 Uhr",
+  "Öffnungszeiten": "Telefonische Reservierung Pflicht: Mo. und Di. Ruhetag, Mi. bis So und Feiertage 10.00 - 20.00 Uhr",
   "Straße": "Lehendorf 21",
   "PLZ": "92268",
   "Ort": "Etzelwang",
@@ -65104,10 +65076,10 @@ module.exports = [{
   "Bildnachweis": "D. Donhauser",
   "Distanz": 91.0
 }, {
-  "id": 128,
+  "id": 126,
   "coords": [12.6376, 49.1687],
   "Name": "Zum Hofmark-Bräu",
-  "Öffnungszeiten": "Mo. bis Fr. von 16.00 bis 22.00 Uhr, sa. Von 14.00 bis 22.00 Uhr, So. und Feiertage von 10.00 bis 22.00 Uhr, Di. Ruhetag",
+  "Öffnungszeiten": "Mo. bis Fr. von 16.00 bis 22.00 Uhr, Sa. von 14.00 bis 22.00 Uhr, So. und Feiertage von 10.00 bis 22.00 Uhr, Di. Ruhetag",
   "Straße": "Hofmarkstraße 29",
   "PLZ": "93455",
   "Ort": "Loifling bei Cham",
@@ -65667,7 +65639,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "49612" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "57305" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
