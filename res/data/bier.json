@@ -1615,7 +1615,7 @@
     "Telefon": "08462/27331",
     "Mail": "info@brauereigasthof-winkler.de",
     "url": "http://www.brauereigasthof-winkler.de/",
-    "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Brauerei-Gasthof_Winkler.png",
+    "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Brauerei_Gasthof_Winkler.png",
     "Bildnachweis": "Franz Guttenberger",
     "Distanz": 61.0
   },
@@ -2266,5 +2266,41 @@
     "Foto": "https://dig-red.mittelbayerische.de/OL/132472530.png",
     "Bildnachweis": "Lino Mirgeler, dpa",
     "Distanz": 58.0
+  },
+  {
+    "id": 127,
+    "coords": [
+      12.100902,
+      49.01602
+    ],
+    "Name": "Alte Kuchl am Königshof",
+    "Öffnungszeiten": "Um Reservierung wird gebeten: Mi. bis Sa. 17.30 bis 23.00 Uhr, So. 11.30 bis 14.30 Uhr, Mo. und Di. Ruhetage (Betriebsurlaub: 24.-30.08.2020, 09.-11.10.2020, 21.12.2020 bis 17.01.2021)",
+    "Straße": "Am Königshof 2",
+    "PLZ": "93047",
+    "Ort": "Regensburg",
+    "Telefon": "0941/5998530",
+    "Mail": "info@altekuchl.de",
+    "url": "http://www.altekuchl.de/",
+    "Foto": "https://dig-red.mittelbayerische.de/OL/132472530.png",
+    "Bildnachweis": "Lino Mirgeler, dpa",
+    "Distanz": 0.5
+  },
+  {
+    "id": 128,
+    "coords": [
+      12.091104,
+      49.015239
+    ],
+    "Name": "Brauhaus am Schloss",
+    "Öffnungszeiten": "Mo. bis Fr. 11.00 bis 23.30 Uhr, Sa., So. und Feiertage 10.00 bis 23.30 Uhr (Januar bis Mai Sonntag nur bis 22:00 Uhr)",
+    "Straße": "Waffnergasse 6",
+    "PLZ": "93047",
+    "Ort": "Regensburg",
+    "Telefon": "0941/2804330",
+    "Mail": "info@brauhaus-am-schloss.com",
+    "url": "http://www.brauhaus-am-schloss.com/",
+    "Foto": "https://dig-red.mittelbayerische.de/OL/pngs/Brauhaus_am_Schloss.png",
+    "Bildnachweis": "Jaumann",
+    "Distanz": 1.0
   }
 ]
