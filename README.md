@@ -16,7 +16,7 @@ The map is centered on Regensburg Central Station (Hbf, red dot). The other poin
 
 | min zoom | (no interaction)  | tooltip  |
 |:----------|:------------------|:---------|
-| ![alt text](https://github.com/anneKoethke/radtour/blob/master/res/img/showcase_pngs/radtour_6_mobile_min_zoom.png "min zoom") | ![alt text](https://github.com/anneKoethke/radtour/blob/master/res/img/showcase_pngs/radtour_4_mobile.png "no interaction") |  ![alt text](https://github.com/anneKoethke/radtour/blob/master/res/img/showcase_pngs/radtour_5_mobile_tooltip.png "tooltip") |
+| ![alt text](https://github.com/anneKoethke/radtour/blob/master/res/img/showcase_pngs/radtour_6_mobile_min_zoom.png "min zoom") | ![alt text](https://github.com/anneKoethke/radtour/blob/master/res/img/showcase_pngs/radtour_7_mobile_after_search.png "no interaction") |  ![alt text](https://github.com/anneKoethke/radtour/blob/master/res/img/showcase_pngs/radtour_8_mobile_tooltip.png "tooltip") |
 
 The tooltip contains of information regarding the clicked upon Biergarten, such as general adress information and opening hours and interactive information such as telephone number, e-mail adress, website and an external link to the route from central station to the Biergarten by bike (via Google Maps).
 
