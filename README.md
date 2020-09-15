@@ -6,7 +6,8 @@ Map with Biergärten in biking distance around Regensburg (BY, GER) + contact in
 |min zoom level (8) | max zoom level (14) |
 |:------------------|:--------------------|
 | ![alt text](https://github.com/anneKoethke/radtour/blob/master/res/img/showcase_pngs/radtour_1_desktop.png "min zoom (8)") | ![alt text](https://github.com/anneKoethke/radtour/blob/master/res/img/showcase_pngs/radtour_2_desktop_max_zoom.png "max zoom (14)") |
-| ![alt text](https://github.com/anneKoethke/radtour/blob/master/res/img/showcase_pngs/radtour_3_desktop_tooltip.png "desktop with tooltip") | |
+| ![alt text](https://github.com/anneKoethke/radtour/blob/master/res/img/showcase_pngs/radtour_3_desktop_searching.png "searching") | ![alt text](https://github.com/anneKoethke/radtour/blob/master/res/img/showcase_pngs/radtour_4_desktop_selected_after_search.png "selected after search") |
+| ![alt text](https://github.com/anneKoethke/radtour/blob/master/res/img/showcase_pngs/radtour_5_desktop_tooltip.png "tooltip on Desktop") |  |
 
 The map is centered on Regensburg Central Station (Hbf, red dot). The other points are clickable and represent the single Biergärten. The different colouring shows the biking distance (masured via Google Maps) between the central station and each Biergarten as seen in the legend.
   
